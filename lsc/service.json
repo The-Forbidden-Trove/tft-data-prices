@@ -7,14 +7,14 @@
   },
   {
     "name": "Sirus Awaken 9",
-    "exalt": 1.25,
-    "chaos": 200,
+    "exalt": 1.5,
+    "chaos": 239,
     "lowConfidence": false
   },
   {
     "name": "Sirus Awaken 9 + 50% Gem",
     "exalt": 2,
-    "chaos": 324,
+    "chaos": 323,
     "lowConfidence": true
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "T4 Hillock Flask 28%",
     "exalt": 1,
-    "chaos": 161,
+    "chaos": 160,
     "lowConfidence": false
   },
   {
