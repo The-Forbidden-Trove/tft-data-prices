@@ -14,7 +14,7 @@
   {
     "name": "Sirus Awaken 9 + 50% Gem",
     "exalt": 2.5,
-    "chaos": 239,
+    "chaos": 238,
     "lowConfidence": true
   },
   {
@@ -27,19 +27,19 @@
     "name": "T4 Hillock Armour 30%",
     "exalt": 6,
     "chaos": 570,
-    "lowConfidence": true
+    "lowConfidence": false
   },
   {
     "name": "T4 Hillock Flask 28%",
-    "exalt": 5,
-    "chaos": 480,
-    "lowConfidence": false
+    "exalt": 6,
+    "chaos": 570,
+    "lowConfidence": true
   },
   {
     "name": "T4 Hillock Weapon 30%",
-    "exalt": 6,
-    "chaos": 570,
-    "lowConfidence": false
+    "exalt": 6.5,
+    "chaos": 624,
+    "lowConfidence": true
   },
   {
     "name": "Leo Exalt Slam",
@@ -67,14 +67,14 @@
   },
   {
     "name": "T4 Vorici 1-6 White",
-    "exalt": 5.75,
-    "chaos": 548,
+    "exalt": 5.5,
+    "chaos": 526,
     "lowConfidence": false
   },
   {
     "name": "Doryani Institute (Gem)",
-    "exalt": 2,
-    "chaos": 192,
+    "exalt": 1,
+    "chaos": 95,
     "lowConfidence": true
   },
   {
