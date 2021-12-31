@@ -1,4 +1,3 @@
 # TFT Pricing Data
 
-we push to this repo to integrate our data with HarvestVendor.
-
+Public data available for everyone. Stored in JSON format.
