@@ -6,6 +6,12 @@
     "lowConfidence": true
   },
   {
+    "name": "Augment Cold",
+    "exalt": 6,
+    "chaos": 534,
+    "lowConfidence": true
+  },
+  {
     "name": "Augment Life Lucky",
     "exalt": 30,
     "chaos": 2700,
@@ -223,14 +229,14 @@
   },
   {
     "name": "Cold to Fire Resist",
-    "exalt": 0.11,
-    "chaos": 10,
+    "exalt": 0.19,
+    "chaos": 18,
     "lowConfidence": true
   },
   {
     "name": "Cold to Lightning Resist",
-    "exalt": 0.11,
-    "chaos": 10,
+    "exalt": 0.14,
+    "chaos": 12,
     "lowConfidence": true
   },
   {
