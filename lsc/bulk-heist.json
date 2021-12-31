@@ -7,15 +7,15 @@
   },
   {
     "name": "Replicas or Experimented Items",
-    "exalt": 0.05,
-    "chaos": 8,
-    "lowConfidence": true
+    "exalt": 0.06,
+    "chaos": 10,
+    "lowConfidence": false
   },
   {
     "name": "Trinkets or Currency",
     "exalt": 0.06,
     "chaos": 10,
-    "lowConfidence": true
+    "lowConfidence": false
   },
   {
     "name": "Unusual Gems",
