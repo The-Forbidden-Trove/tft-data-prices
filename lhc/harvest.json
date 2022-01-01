@@ -73,8 +73,8 @@
   },
   {
     "name": "Sacrifice Divination Card 0-2x",
-    "exalt": 0.75,
-    "chaos": 68,
+    "exalt": 1,
+    "chaos": 90,
     "lowConfidence": true
   },
   {
@@ -271,8 +271,8 @@
   },
   {
     "name": "Set Implicit, Basic Jewel",
-    "exalt": 0.11,
-    "chaos": 10,
+    "exalt": 0.22,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
