@@ -19,14 +19,14 @@
   },
   {
     "name": "T4 Aisling",
-    "exalt": 8,
-    "chaos": 760,
+    "exalt": 7.5,
+    "chaos": 720,
     "lowConfidence": false
   },
   {
     "name": "T4 Hillock Armour 30%",
-    "exalt": 8.5,
-    "chaos": 808,
+    "exalt": 8,
+    "chaos": 760,
     "lowConfidence": true
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "name": "T4 Hillock Weapon 30%",
-    "exalt": 8,
-    "chaos": 760,
+    "exalt": 6.5,
+    "chaos": 620,
     "lowConfidence": true
   },
   {
@@ -50,13 +50,13 @@
   {
     "name": "T3/T2/T1 Vorici White",
     "exalt": 3,
-    "chaos": 286,
+    "chaos": 284,
     "lowConfidence": true
   },
   {
     "name": "T4/T3 It That Fled Pure Breachstone",
-    "exalt": 1,
-    "chaos": 96,
+    "exalt": 2,
+    "chaos": 188,
     "lowConfidence": true
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "name": "T4 Vorici 1-6 White",
-    "exalt": 5.75,
-    "chaos": 548,
+    "exalt": 6,
+    "chaos": 567,
     "lowConfidence": false
   },
   {
