@@ -66,21 +66,15 @@
     "lowConfidence": true
   },
   {
-    "name": "Fracture 1/3 Prefix",
-    "exalt": 20,
-    "chaos": 1760,
+    "name": "Enchant Weapon, Weapon Range",
+    "exalt": 0.22,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
     "name": "Sacrifice Divination Card 0-2x",
     "exalt": 0.75,
     "chaos": 68,
-    "lowConfidence": true
-  },
-  {
-    "name": "Synthesise an item",
-    "exalt": 3,
-    "chaos": 264,
     "lowConfidence": true
   },
   {
@@ -103,8 +97,8 @@
   },
   {
     "name": "Reforge keep Prefix Lucky",
-    "exalt": 1,
-    "chaos": 89,
+    "exalt": 1.5,
+    "chaos": 134,
     "lowConfidence": true
   },
   {
@@ -116,7 +110,7 @@
   {
     "name": "Reforge keep Suffix Lucky",
     "exalt": 2,
-    "chaos": 182,
+    "chaos": 178,
     "lowConfidence": true
   },
   {
@@ -177,6 +171,12 @@
     "name": "Reforge Influence More Common",
     "exalt": 10,
     "chaos": 910,
+    "lowConfidence": true
+  },
+  {
+    "name": "Reforge Rare More Likely",
+    "exalt": 0.22,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
@@ -277,14 +277,20 @@
   },
   {
     "name": "Non-Blue into Blue Socket",
-    "exalt": 0.45,
-    "chaos": 40,
+    "exalt": 0.48,
+    "chaos": 42,
     "lowConfidence": true
   },
   {
     "name": "Non-Green into Green Socket",
     "exalt": 0.56,
     "chaos": 50,
+    "lowConfidence": true
+  },
+  {
+    "name": "Non-Red into Red Socket",
+    "exalt": 0.51,
+    "chaos": 45,
     "lowConfidence": true
   }
 ]
