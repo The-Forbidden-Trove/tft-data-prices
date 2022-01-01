@@ -25,8 +25,8 @@
   },
   {
     "name": "T4 Hillock Armour 30%",
-    "exalt": 7,
-    "chaos": 665,
+    "exalt": 8.5,
+    "chaos": 808,
     "lowConfidence": true
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "name": "T4 Hillock Weapon 30%",
-    "exalt": 6.5,
-    "chaos": 620,
+    "exalt": 8,
+    "chaos": 760,
     "lowConfidence": true
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "T3/T2/T1 Vorici White",
     "exalt": 3,
-    "chaos": 285,
+    "chaos": 286,
     "lowConfidence": true
   },
   {
@@ -74,7 +74,7 @@
   {
     "name": "Doryani Institute (Gem)",
     "exalt": 1.5,
-    "chaos": 142,
+    "chaos": 143,
     "lowConfidence": true
   },
   {
