@@ -1,8 +1,8 @@
 [
   {
     "name": "Augment Attack",
-    "exalt": 10,
-    "chaos": 950,
+    "exalt": 12.5,
+    "chaos": 1188,
     "lowConfidence": true
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "name": "Augment Caster",
-    "exalt": 20,
-    "chaos": 1900,
+    "exalt": 10,
+    "chaos": 950,
     "lowConfidence": true
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "name": "Augment Cold Lucky",
-    "exalt": 12.25,
-    "chaos": 1170,
+    "exalt": 11.5,
+    "chaos": 1098,
     "lowConfidence": true
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "name": "Augment Fire Lucky",
-    "exalt": 13,
-    "chaos": 1235,
+    "exalt": 11.5,
+    "chaos": 1092,
     "lowConfidence": true
   },
   {
@@ -68,13 +68,13 @@
   {
     "name": "Augment Lightning Lucky",
     "exalt": 16,
-    "chaos": 1536,
+    "chaos": 1520,
     "lowConfidence": true
   },
   {
     "name": "Augment Chaos",
-    "exalt": 7,
-    "chaos": 668,
+    "exalt": 8.5,
+    "chaos": 811,
     "lowConfidence": true
   },
   {
@@ -91,8 +91,8 @@
   },
   {
     "name": "Augment Life",
-    "exalt": 30,
-    "chaos": 2860,
+    "exalt": 40,
+    "chaos": 3840,
     "lowConfidence": true
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "name": "Enchant Body, Maximum Life",
-    "exalt": 0.58,
-    "chaos": 55,
+    "exalt": 0.53,
+    "chaos": 50,
     "lowConfidence": false
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "Sacrifice Divination Card 0-2x",
     "exalt": 1,
-    "chaos": 96,
+    "chaos": 95,
     "lowConfidence": false
   },
   {
@@ -284,7 +284,7 @@
   {
     "name": "Reforge keep Prefix",
     "exalt": 5,
-    "chaos": 479,
+    "chaos": 480,
     "lowConfidence": false
   },
   {
@@ -295,8 +295,8 @@
   },
   {
     "name": "Reforge keep Suffix",
-    "exalt": 5,
-    "chaos": 475,
+    "exalt": 4.5,
+    "chaos": 430,
     "lowConfidence": false
   },
   {
@@ -307,14 +307,14 @@
   },
   {
     "name": "Reforge Attack",
-    "exalt": 0.18,
-    "chaos": 18,
+    "exalt": 0.21,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
     "name": "Reforge Attack More Common",
-    "exalt": 0.32,
-    "chaos": 30,
+    "exalt": 0.37,
+    "chaos": 35,
     "lowConfidence": true
   },
   {
@@ -409,8 +409,8 @@
   },
   {
     "name": "Reforge Life More Common",
-    "exalt": 0.37,
-    "chaos": 35,
+    "exalt": 0.39,
+    "chaos": 38,
     "lowConfidence": true
   },
   {
@@ -421,8 +421,8 @@
   },
   {
     "name": "Reforge Critical More Common",
-    "exalt": 0.42,
-    "chaos": 40,
+    "exalt": 0.47,
+    "chaos": 45,
     "lowConfidence": false
   },
   {
@@ -464,19 +464,19 @@
   {
     "name": "Remove Non-Caster Add Caster",
     "exalt": 10,
-    "chaos": 950,
+    "chaos": 952,
     "lowConfidence": false
   },
   {
     "name": "Remove Non-Cold Add Cold",
     "exalt": 10,
-    "chaos": 955,
+    "chaos": 950,
     "lowConfidence": true
   },
   {
     "name": "Remove Non-Fire Add Fire",
     "exalt": 4,
-    "chaos": 380,
+    "chaos": 381,
     "lowConfidence": true
   },
   {
@@ -500,7 +500,7 @@
   {
     "name": "Remove Non-Critical Add Critical",
     "exalt": 20,
-    "chaos": 1910,
+    "chaos": 1920,
     "lowConfidence": true
   },
   {
@@ -517,8 +517,8 @@
   },
   {
     "name": "Remove Non-Life Add Life",
-    "exalt": 80,
-    "chaos": 7600,
+    "exalt": 50,
+    "chaos": 4750,
     "lowConfidence": true
   },
   {
@@ -541,20 +541,20 @@
   },
   {
     "name": "Reroll Suffix Lucky",
-    "exalt": 0.47,
-    "chaos": 45,
+    "exalt": 0.45,
+    "chaos": 42,
     "lowConfidence": false
   },
   {
     "name": "Cold to Fire Resist",
-    "exalt": 0.47,
-    "chaos": 45,
+    "exalt": 0.52,
+    "chaos": 50,
     "lowConfidence": false
   },
   {
     "name": "Cold to Lightning Resist",
-    "exalt": 0.32,
-    "chaos": 30,
+    "exalt": 0.42,
+    "chaos": 40,
     "lowConfidence": false
   },
   {
@@ -571,9 +571,9 @@
   },
   {
     "name": "Lightning to Cold Resist",
-    "exalt": 0.37,
-    "chaos": 35,
-    "lowConfidence": true
+    "exalt": 0.47,
+    "chaos": 45,
+    "lowConfidence": false
   },
   {
     "name": "Lightning to Fire Resist",
