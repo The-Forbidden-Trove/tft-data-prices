@@ -103,8 +103,8 @@
   },
   {
     "name": "Reforge keep Prefix Lucky",
-    "exalt": 2,
-    "chaos": 180,
+    "exalt": 1,
+    "chaos": 89,
     "lowConfidence": true
   },
   {
@@ -193,8 +193,8 @@
   },
   {
     "name": "Remove Non-Critical Add Critical",
-    "exalt": 7,
-    "chaos": 623,
+    "exalt": 9,
+    "chaos": 801,
     "lowConfidence": true
   },
   {
@@ -241,20 +241,26 @@
   },
   {
     "name": "Fire to Cold Resist",
-    "exalt": 0.17,
-    "chaos": 15,
+    "exalt": 0.22,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
     "name": "Fire to Lightning Resist",
-    "exalt": 0.17,
-    "chaos": 15,
+    "exalt": 0.22,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
     "name": "Lightning to Cold Resist",
     "exalt": 0.17,
     "chaos": 15,
+    "lowConfidence": true
+  },
+  {
+    "name": "Lightning to Fire Resist",
+    "exalt": 0.22,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
@@ -271,8 +277,8 @@
   },
   {
     "name": "Non-Blue into Blue Socket",
-    "exalt": 1,
-    "chaos": 90,
+    "exalt": 0.45,
+    "chaos": 40,
     "lowConfidence": true
   },
   {
