@@ -2,7 +2,7 @@
   {
     "name": "Blood Filled Vessel",
     "exalt": 0.22,
-    "chaos": 34,
-    "lowConfidence": true
+    "chaos": 35,
+    "lowConfidence": false
   }
 ]
