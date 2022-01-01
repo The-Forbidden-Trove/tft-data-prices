@@ -7,8 +7,8 @@
   },
   {
     "name": "Sirus Awaken 9",
-    "exalt": 1.5,
-    "chaos": 143,
+    "exalt": 1.75,
+    "chaos": 168,
     "lowConfidence": true
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "name": "T4 Aisling",
-    "exalt": 7.5,
-    "chaos": 711,
+    "exalt": 7,
+    "chaos": 665,
     "lowConfidence": false
   },
   {
@@ -44,13 +44,13 @@
   {
     "name": "Leo Exalt Slam",
     "exalt": 5,
-    "chaos": 482,
+    "chaos": 480,
     "lowConfidence": true
   },
   {
     "name": "T3/T2/T1 Vorici White",
-    "exalt": 2.88,
-    "chaos": 270,
+    "exalt": 2.75,
+    "chaos": 258,
     "lowConfidence": true
   },
   {
@@ -73,8 +73,8 @@
   },
   {
     "name": "Doryani Institute (Gem)",
-    "exalt": 1.5,
-    "chaos": 142,
+    "exalt": 2,
+    "chaos": 190,
     "lowConfidence": true
   },
   {
