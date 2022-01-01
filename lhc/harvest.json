@@ -175,8 +175,8 @@
   },
   {
     "name": "Reforge Influence More Common",
-    "exalt": 10,
-    "chaos": 910,
+    "exalt": 11,
+    "chaos": 995,
     "lowConfidence": true
   },
   {
@@ -229,8 +229,8 @@
   },
   {
     "name": "Cold to Fire Resist",
-    "exalt": 0.19,
-    "chaos": 18,
+    "exalt": 0.11,
+    "chaos": 10,
     "lowConfidence": true
   },
   {
@@ -247,8 +247,8 @@
   },
   {
     "name": "Fire to Lightning Resist",
-    "exalt": 0.22,
-    "chaos": 20,
+    "exalt": 0.17,
+    "chaos": 15,
     "lowConfidence": true
   },
   {
