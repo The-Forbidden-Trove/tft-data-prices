@@ -26,7 +26,7 @@
   {
     "name": "Agility",
     "exalt": 0.01,
-    "chaos": 1,
+    "chaos": 2,
     "lowConfidence": true
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "name": "Counter-Thaumaturgy",
-    "exalt": 0.01,
+    "exalt": 0.02,
     "chaos": 2,
     "lowConfidence": false
   },
@@ -49,8 +49,8 @@
   },
   {
     "name": "Demolition",
-    "exalt": 0.01,
-    "chaos": 2,
+    "exalt": 0.02,
+    "chaos": 3,
     "lowConfidence": true
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "name": "Trap Disarmament",
-    "exalt": 0.01,
+    "exalt": 0.02,
     "chaos": 2,
     "lowConfidence": true
   }
