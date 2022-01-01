@@ -7,8 +7,8 @@
   },
   {
     "name": "Sirus Awaken 9",
-    "exalt": 1.75,
-    "chaos": 168,
+    "exalt": 1.5,
+    "chaos": 144,
     "lowConfidence": true
   },
   {
@@ -33,24 +33,24 @@
     "name": "T4 Hillock Flask 28%",
     "exalt": 7,
     "chaos": 662,
-    "lowConfidence": true
+    "lowConfidence": false
   },
   {
     "name": "T4 Hillock Weapon 30%",
-    "exalt": 6.25,
-    "chaos": 595,
-    "lowConfidence": true
+    "exalt": 4.5,
+    "chaos": 426,
+    "lowConfidence": false
   },
   {
     "name": "Leo Exalt Slam",
     "exalt": 5,
-    "chaos": 480,
+    "chaos": 482,
     "lowConfidence": true
   },
   {
     "name": "T3/T2/T1 Vorici White",
-    "exalt": 2.75,
-    "chaos": 258,
+    "exalt": 1.88,
+    "chaos": 177,
     "lowConfidence": true
   },
   {
