@@ -8,7 +8,7 @@
   {
     "name": "Replicas or Experimented Items",
     "exalt": 0.08,
-    "chaos": 12,
+    "chaos": 14,
     "lowConfidence": false
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "name": "Unusual Gems",
-    "exalt": 0.13,
+    "exalt": 0.12,
     "chaos": 20,
     "lowConfidence": false
   },
