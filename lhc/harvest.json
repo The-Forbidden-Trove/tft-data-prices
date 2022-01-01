@@ -1,14 +1,14 @@
 [
   {
-    "name": "Augment Physical Lucky",
-    "exalt": 11,
-    "chaos": 968,
-    "lowConfidence": true
-  },
-  {
     "name": "Augment Cold",
     "exalt": 6,
     "chaos": 534,
+    "lowConfidence": true
+  },
+  {
+    "name": "Augment Lightning Lucky",
+    "exalt": 16,
+    "chaos": 1424,
     "lowConfidence": true
   },
   {
@@ -79,14 +79,14 @@
   },
   {
     "name": "Randomise Influence Armour",
-    "exalt": 0.22,
-    "chaos": 20,
+    "exalt": 0.45,
+    "chaos": 40,
     "lowConfidence": true
   },
   {
     "name": "Randomise Influence Weapon",
-    "exalt": 0.22,
-    "chaos": 20,
+    "exalt": 0.56,
+    "chaos": 50,
     "lowConfidence": true
   },
   {
@@ -187,8 +187,8 @@
   },
   {
     "name": "Remove Non-Cold Add Cold",
-    "exalt": 2,
-    "chaos": 178,
+    "exalt": 10,
+    "chaos": 890,
     "lowConfidence": true
   },
   {
@@ -217,26 +217,26 @@
   },
   {
     "name": "Reroll Prefix Lucky",
-    "exalt": 0.22,
-    "chaos": 20,
+    "exalt": 0.56,
+    "chaos": 50,
     "lowConfidence": true
   },
   {
     "name": "Reroll Suffix Lucky",
-    "exalt": 0.22,
-    "chaos": 20,
+    "exalt": 0.56,
+    "chaos": 50,
     "lowConfidence": true
   },
   {
     "name": "Cold to Fire Resist",
-    "exalt": 0.11,
-    "chaos": 10,
+    "exalt": 0.19,
+    "chaos": 18,
     "lowConfidence": true
   },
   {
     "name": "Cold to Lightning Resist",
-    "exalt": 0.11,
-    "chaos": 10,
+    "exalt": 0.14,
+    "chaos": 12,
     "lowConfidence": true
   },
   {
