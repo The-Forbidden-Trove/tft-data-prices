@@ -25,14 +25,14 @@
   },
   {
     "name": "T4 Hillock Armour 30%",
-    "exalt": 6,
-    "chaos": 570,
-    "lowConfidence": false
+    "exalt": 7,
+    "chaos": 665,
+    "lowConfidence": true
   },
   {
     "name": "T4 Hillock Flask 28%",
-    "exalt": 7.5,
-    "chaos": 712,
+    "exalt": 7,
+    "chaos": 665,
     "lowConfidence": true
   },
   {
