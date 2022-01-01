@@ -13,9 +13,9 @@
   },
   {
     "name": "Sirus Awaken 9 + 50% Gem",
-    "exalt": 1.5,
-    "chaos": 242,
-    "lowConfidence": true
+    "exalt": 2,
+    "chaos": 322,
+    "lowConfidence": false
   },
   {
     "name": "T4 Aisling",
@@ -26,7 +26,7 @@
   {
     "name": "T4 Hillock Armour 30%",
     "exalt": 1,
-    "chaos": 162,
+    "chaos": 161,
     "lowConfidence": false
   },
   {
@@ -55,14 +55,14 @@
   },
   {
     "name": "T4/T3 It That Fled Pure Breachstone",
-    "exalt": 0.25,
-    "chaos": 40,
+    "exalt": 0.28,
+    "chaos": 45,
     "lowConfidence": true
   },
   {
     "name": "T4/T3 Tora 200m Gem XP",
-    "exalt": 0.31,
-    "chaos": 50,
+    "exalt": 0.28,
+    "chaos": 45,
     "lowConfidence": false
   },
   {
@@ -80,7 +80,7 @@
   {
     "name": "Locus of Corruption (Item)",
     "exalt": 1.13,
-    "chaos": 182,
+    "chaos": 181,
     "lowConfidence": true
   }
 ]
