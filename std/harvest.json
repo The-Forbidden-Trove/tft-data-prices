@@ -2,8 +2,8 @@
   {
     "name": "Augment Attack",
     "exalt": 15,
-    "chaos": 1425,
-    "lowConfidence": false
+    "chaos": 1421,
+    "lowConfidence": true
   },
   {
     "name": "Augment Attack Lucky",
@@ -14,7 +14,7 @@
   {
     "name": "Augment Caster",
     "exalt": 12.5,
-    "chaos": 1188,
+    "chaos": 1184,
     "lowConfidence": true
   },
   {
@@ -32,13 +32,13 @@
   {
     "name": "Augment Physical Lucky",
     "exalt": 20,
-    "chaos": 1900,
+    "chaos": 1880,
     "lowConfidence": true
   },
   {
     "name": "Augment Cold",
     "exalt": 10,
-    "chaos": 950,
+    "chaos": 952,
     "lowConfidence": true
   },
   {
@@ -85,8 +85,8 @@
   },
   {
     "name": "Augment Defence",
-    "exalt": 7,
-    "chaos": 665,
+    "exalt": 11,
+    "chaos": 1045,
     "lowConfidence": true
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "name": "Enchant Body, Maximum Life",
-    "exalt": 0.58,
-    "chaos": 55,
+    "exalt": 0.63,
+    "chaos": 60,
     "lowConfidence": false
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "name": "Enchant Weapon, Area of Effect",
-    "exalt": 0.58,
-    "chaos": 55,
+    "exalt": 0.63,
+    "chaos": 60,
     "lowConfidence": false
   },
   {
@@ -223,14 +223,14 @@
   },
   {
     "name": "Enchant Weapon, Weapon Range",
-    "exalt": 0.71,
-    "chaos": 68,
+    "exalt": 1,
+    "chaos": 94,
     "lowConfidence": true
   },
   {
     "name": "Fracture 1/3 Prefix",
-    "exalt": 24,
-    "chaos": 2304,
+    "exalt": 22,
+    "chaos": 2092,
     "lowConfidence": true
   },
   {
@@ -242,7 +242,7 @@
   {
     "name": "Fracture 1/5",
     "exalt": 8,
-    "chaos": 762,
+    "chaos": 760,
     "lowConfidence": true
   },
   {
@@ -259,8 +259,8 @@
   },
   {
     "name": "Synthesise an item",
-    "exalt": 9.5,
-    "chaos": 907,
+    "exalt": 9,
+    "chaos": 864,
     "lowConfidence": true
   },
   {
@@ -290,13 +290,13 @@
   {
     "name": "Reforge keep Prefix Lucky",
     "exalt": 5,
-    "chaos": 475,
+    "chaos": 476,
     "lowConfidence": false
   },
   {
     "name": "Reforge keep Suffix",
     "exalt": 5,
-    "chaos": 475,
+    "chaos": 470,
     "lowConfidence": false
   },
   {
@@ -421,14 +421,14 @@
   },
   {
     "name": "Reforge Critical More Common",
-    "exalt": 0.47,
-    "chaos": 45,
+    "exalt": 0.37,
+    "chaos": 35,
     "lowConfidence": false
   },
   {
     "name": "Reforge Influence More Common",
-    "exalt": 15,
-    "chaos": 1425,
+    "exalt": 12,
+    "chaos": 1140,
     "lowConfidence": false
   },
   {
@@ -439,8 +439,8 @@
   },
   {
     "name": "Reforge Rare More Likely",
-    "exalt": 0.47,
-    "chaos": 45,
+    "exalt": 0.42,
+    "chaos": 40,
     "lowConfidence": false
   },
   {
@@ -451,8 +451,8 @@
   },
   {
     "name": "Reforge Speed More Common",
-    "exalt": 0.63,
-    "chaos": 60,
+    "exalt": 0.26,
+    "chaos": 25,
     "lowConfidence": true
   },
   {
@@ -463,8 +463,8 @@
   },
   {
     "name": "Remove Non-Caster Add Caster",
-    "exalt": 8.5,
-    "chaos": 816,
+    "exalt": 10,
+    "chaos": 960,
     "lowConfidence": true
   },
   {
@@ -475,8 +475,8 @@
   },
   {
     "name": "Remove Non-Fire Add Fire",
-    "exalt": 3.5,
-    "chaos": 334,
+    "exalt": 3,
+    "chaos": 282,
     "lowConfidence": true
   },
   {
@@ -493,38 +493,38 @@
   },
   {
     "name": "Remove Non-Chaos Add Chaos",
-    "exalt": 7,
-    "chaos": 665,
+    "exalt": 8.5,
+    "chaos": 810,
     "lowConfidence": true
   },
   {
     "name": "Remove Non-Critical Add Critical",
-    "exalt": 20,
-    "chaos": 1900,
+    "exalt": 19,
+    "chaos": 1814,
     "lowConfidence": true
   },
   {
     "name": "Remove Non-Defence Add Defence",
-    "exalt": 13.5,
-    "chaos": 1282,
+    "exalt": 12,
+    "chaos": 1140,
     "lowConfidence": true
   },
   {
     "name": "Remove Non-Influence Add Influence",
-    "exalt": 75,
-    "chaos": 7125,
+    "exalt": 30,
+    "chaos": 2850,
     "lowConfidence": true
   },
   {
     "name": "Remove Non-Life Add Life",
-    "exalt": 45,
-    "chaos": 4280,
+    "exalt": 80,
+    "chaos": 7600,
     "lowConfidence": true
   },
   {
     "name": "Remove Non-Speed Add Speed",
     "exalt": 20,
-    "chaos": 1910,
+    "chaos": 1920,
     "lowConfidence": true
   },
   {
@@ -535,8 +535,8 @@
   },
   {
     "name": "Reroll Prefix Lucky",
-    "exalt": 0.52,
-    "chaos": 50,
+    "exalt": 0.43,
+    "chaos": 40,
     "lowConfidence": false
   },
   {
@@ -547,8 +547,8 @@
   },
   {
     "name": "Cold to Fire Resist",
-    "exalt": 0.52,
-    "chaos": 50,
+    "exalt": 0.32,
+    "chaos": 30,
     "lowConfidence": false
   },
   {
@@ -559,8 +559,8 @@
   },
   {
     "name": "Fire to Cold Resist",
-    "exalt": 0.42,
-    "chaos": 40,
+    "exalt": 0.32,
+    "chaos": 30,
     "lowConfidence": false
   },
   {
@@ -573,17 +573,17 @@
     "name": "Lightning to Cold Resist",
     "exalt": 0.53,
     "chaos": 50,
-    "lowConfidence": false
+    "lowConfidence": true
   },
   {
     "name": "Lightning to Fire Resist",
-    "exalt": 0.42,
-    "chaos": 40,
+    "exalt": 0.32,
+    "chaos": 30,
     "lowConfidence": false
   },
   {
     "name": "Sacrifice Gem, 50% XP As Facetor Lens",
-    "exalt": 0.52,
+    "exalt": 0.53,
     "chaos": 50,
     "lowConfidence": true
   },
@@ -608,7 +608,7 @@
   {
     "name": "Non-Blue into Blue Socket",
     "exalt": 1,
-    "chaos": 95,
+    "chaos": 94,
     "lowConfidence": false
   },
   {
@@ -619,14 +619,14 @@
   },
   {
     "name": "Non-Red into Red Socket",
-    "exalt": 1,
-    "chaos": 95,
+    "exalt": 0.83,
+    "chaos": 80,
     "lowConfidence": false
   },
   {
     "name": "Reforge into White Socket",
-    "exalt": 6.5,
-    "chaos": 622,
+    "exalt": 8,
+    "chaos": 768,
     "lowConfidence": true
   },
   {
