@@ -14,7 +14,7 @@
   {
     "name": "Sirus Awaken 9 + 50% Gem",
     "exalt": 2.5,
-    "chaos": 238,
+    "chaos": 239,
     "lowConfidence": true
   },
   {
@@ -31,14 +31,14 @@
   },
   {
     "name": "T4 Hillock Flask 28%",
-    "exalt": 6,
-    "chaos": 570,
+    "exalt": 7.5,
+    "chaos": 712,
     "lowConfidence": true
   },
   {
     "name": "T4 Hillock Weapon 30%",
     "exalt": 6.5,
-    "chaos": 624,
+    "chaos": 620,
     "lowConfidence": true
   },
   {
@@ -67,20 +67,20 @@
   },
   {
     "name": "T4 Vorici 1-6 White",
-    "exalt": 5.5,
-    "chaos": 526,
+    "exalt": 5.75,
+    "chaos": 548,
     "lowConfidence": false
   },
   {
     "name": "Doryani Institute (Gem)",
-    "exalt": 1,
-    "chaos": 95,
+    "exalt": 1.5,
+    "chaos": 142,
     "lowConfidence": true
   },
   {
     "name": "Locus of Corruption (Item)",
-    "exalt": 3.5,
-    "chaos": 336,
+    "exalt": 4,
+    "chaos": 380,
     "lowConfidence": true
   }
 ]
