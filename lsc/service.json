@@ -1,5 +1,5 @@
 {
-  "date": 1641124907575,
+  "date": 1641135707137,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -11,18 +11,18 @@
       "name": "Sirus Awaken 9",
       "exalt": 1.5,
       "chaos": 237,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 1.75,
-      "chaos": 280,
+      "chaos": 275,
       "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
-      "exalt": 3.75,
-      "chaos": 592,
+      "exalt": 3.63,
+      "chaos": 576,
       "lowConfidence": false
     },
     {
@@ -40,12 +40,12 @@
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 1,
-      "chaos": 160,
+      "chaos": 158,
       "lowConfidence": false
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.31,
+      "exalt": 0.32,
       "chaos": 50,
       "lowConfidence": false
     },
@@ -57,8 +57,8 @@
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.31,
-      "chaos": 50,
+      "exalt": 0.28,
+      "chaos": 45,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 1.13,
-      "chaos": 182,
+      "exalt": 1.25,
+      "chaos": 196,
       "lowConfidence": true
     }
   ]
