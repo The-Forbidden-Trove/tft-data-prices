@@ -1,5 +1,5 @@
 {
-  "date": 1641114117105,
+  "date": 1641124907575,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 1.73,
-      "chaos": 277,
+      "exalt": 1.75,
+      "chaos": 280,
       "lowConfidence": false
     },
     {
@@ -75,14 +75,14 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.31,
+      "exalt": 0.32,
       "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 1,
-      "chaos": 161,
+      "exalt": 1.13,
+      "chaos": 182,
       "lowConfidence": true
     }
   ]
