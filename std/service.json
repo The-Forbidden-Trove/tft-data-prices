@@ -20,7 +20,7 @@
   {
     "name": "T4 Aisling",
     "exalt": 7,
-    "chaos": 665,
+    "chaos": 662,
     "lowConfidence": false
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "name": "T4 Hillock Weapon 30%",
-    "exalt": 4.5,
-    "chaos": 423,
+    "exalt": 4,
+    "chaos": 380,
     "lowConfidence": false
   },
   {
     "name": "Leo Exalt Slam",
-    "exalt": 5,
-    "chaos": 482,
+    "exalt": 0.52,
+    "chaos": 50,
     "lowConfidence": true
   },
   {
