@@ -1,5 +1,5 @@
 {
-  "date": 1641114151722,
+  "date": 1641124941885,
   "data": [
     {
       "name": "Augment Cold",
@@ -99,8 +99,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 1.5,
-      "chaos": 134,
+      "exalt": 2,
+      "chaos": 178,
       "lowConfidence": true
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.22,
-      "chaos": 20,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -278,9 +278,15 @@
       "lowConfidence": true
     },
     {
+      "name": "Set Implicit, Cluster Jewel",
+      "exalt": 0.22,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.48,
-      "chaos": 42,
+      "exalt": 0.34,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -291,8 +297,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.51,
-      "chaos": 45,
+      "exalt": 0.34,
+      "chaos": 30,
       "lowConfidence": true
     }
   ]
