@@ -73,8 +73,8 @@
   },
   {
     "name": "Sacrifice Divination Card 0-2x",
-    "exalt": 1,
-    "chaos": 90,
+    "exalt": 0.75,
+    "chaos": 68,
     "lowConfidence": true
   },
   {
