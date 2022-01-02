@@ -1,10 +1,10 @@
 {
-  "date": 1641114192705,
+  "date": 1641124983117,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 94,
+      "chaos": 95,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 6.5,
-      "chaos": 617,
+      "exalt": 6.75,
+      "chaos": 638,
       "lowConfidence": false
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 4.5,
-      "chaos": 423,
+      "exalt": 4,
+      "chaos": 380,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 1.88,
-      "chaos": 177,
+      "exalt": 1,
+      "chaos": 96,
       "lowConfidence": true
     },
     {
