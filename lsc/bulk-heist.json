@@ -1,5 +1,5 @@
 {
-  "date": 1641124911333,
+  "date": 1641135710812,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -10,7 +10,7 @@
     {
       "name": "Replicas or Experimented Items",
       "exalt": 0.09,
-      "chaos": 15,
+      "chaos": 14,
       "lowConfidence": false
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "Agility",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
@@ -76,7 +76,7 @@
     {
       "name": "Trap Disarmament",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     }
   ]
