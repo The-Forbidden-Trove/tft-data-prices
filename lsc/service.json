@@ -13,14 +13,14 @@
   },
   {
     "name": "Sirus Awaken 9 + 50% Gem",
-    "exalt": 1.73,
-    "chaos": 277,
+    "exalt": 1.7,
+    "chaos": 274,
     "lowConfidence": false
   },
   {
     "name": "T4 Aisling",
-    "exalt": 4,
-    "chaos": 632,
+    "exalt": 3.75,
+    "chaos": 600,
     "lowConfidence": false
   },
   {
@@ -51,7 +51,7 @@
     "name": "T3/T2/T1 Vorici White",
     "exalt": 0.19,
     "chaos": 30,
-    "lowConfidence": true
+    "lowConfidence": false
   },
   {
     "name": "T4/T3 It That Fled Pure Breachstone",
@@ -79,8 +79,8 @@
   },
   {
     "name": "Locus of Corruption (Item)",
-    "exalt": 1.13,
-    "chaos": 181,
+    "exalt": 1,
+    "chaos": 161,
     "lowConfidence": true
   }
 ]
