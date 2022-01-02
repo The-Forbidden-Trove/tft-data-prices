@@ -1,5 +1,5 @@
 {
-  "date": 1641135741249,
+  "date": 1641146542955,
   "data": [
     {
       "name": "Augment Cold",
@@ -33,8 +33,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.11,
-      "chaos": 10,
+      "exalt": 0.28,
+      "chaos": 25,
       "lowConfidence": true
     },
     {
@@ -94,19 +94,19 @@
     {
       "name": "Reforge keep Prefix",
       "exalt": 2,
-      "chaos": 180,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge keep Prefix Lucky",
-      "exalt": 2,
       "chaos": 178,
       "lowConfidence": true
     },
     {
-      "name": "Reforge keep Suffix",
+      "name": "Reforge keep Prefix Lucky",
       "exalt": 1.5,
-      "chaos": 135,
+      "chaos": 134,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge keep Suffix",
+      "exalt": 2,
+      "chaos": 178,
       "lowConfidence": true
     },
     {
@@ -285,8 +285,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.34,
-      "chaos": 30,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -297,8 +297,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.34,
-      "chaos": 30,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     }
   ]
