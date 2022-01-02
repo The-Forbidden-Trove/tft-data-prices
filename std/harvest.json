@@ -1,8 +1,8 @@
 [
   {
     "name": "Augment Attack",
-    "exalt": 15,
-    "chaos": 1418,
+    "exalt": 9,
+    "chaos": 850,
     "lowConfidence": true
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "name": "Augment Caster",
-    "exalt": 12,
-    "chaos": 1140,
+    "exalt": 13.5,
+    "chaos": 1282,
     "lowConfidence": true
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "name": "Augment Cold Lucky",
-    "exalt": 10,
-    "chaos": 950,
+    "exalt": 11.5,
+    "chaos": 1098,
     "lowConfidence": true
   },
   {
@@ -55,8 +55,8 @@
   },
   {
     "name": "Augment Fire Lucky",
-    "exalt": 10,
-    "chaos": 950,
+    "exalt": 11.5,
+    "chaos": 1092,
     "lowConfidence": true
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "name": "Augment Non-Influence Lucky",
-    "exalt": 0.74,
+    "exalt": 0.73,
     "chaos": 70,
     "lowConfidence": false
   },
@@ -199,8 +199,8 @@
   },
   {
     "name": "Enchant Weapon, Area of Effect",
-    "exalt": 0.58,
-    "chaos": 55,
+    "exalt": 0.61,
+    "chaos": 58,
     "lowConfidence": false
   },
   {
@@ -273,7 +273,7 @@
     "name": "Randomise Influence Jewellery",
     "exalt": 1,
     "chaos": 95,
-    "lowConfidence": true
+    "lowConfidence": false
   },
   {
     "name": "Randomise Influence Weapon",
@@ -307,8 +307,8 @@
   },
   {
     "name": "Reforge Attack",
-    "exalt": 0.18,
-    "chaos": 18,
+    "exalt": 0.21,
+    "chaos": 20,
     "lowConfidence": true
   },
   {
@@ -385,8 +385,8 @@
   },
   {
     "name": "Reforge Chaos More Common",
-    "exalt": 0.42,
-    "chaos": 40,
+    "exalt": 0.39,
+    "chaos": 38,
     "lowConfidence": false
   },
   {
@@ -457,8 +457,8 @@
   },
   {
     "name": "Remove Non-Caster Add Caster",
-    "exalt": 15,
-    "chaos": 1425,
+    "exalt": 5,
+    "chaos": 475,
     "lowConfidence": true
   },
   {
@@ -475,8 +475,8 @@
   },
   {
     "name": "Remove Non-Lightning Add Lightning",
-    "exalt": 4.75,
-    "chaos": 452,
+    "exalt": 5,
+    "chaos": 475,
     "lowConfidence": true
   },
   {
@@ -500,8 +500,8 @@
   {
     "name": "Remove Non-Defence Add Defence",
     "exalt": 10,
-    "chaos": 956,
-    "lowConfidence": true
+    "chaos": 960,
+    "lowConfidence": false
   },
   {
     "name": "Remove Non-Influence Add Influence",
@@ -512,7 +512,7 @@
   {
     "name": "Remove Non-Life Add Life",
     "exalt": 30,
-    "chaos": 2880,
+    "chaos": 2865,
     "lowConfidence": true
   },
   {
@@ -541,8 +541,8 @@
   },
   {
     "name": "Cold to Fire Resist",
-    "exalt": 0.52,
-    "chaos": 50,
+    "exalt": 0.42,
+    "chaos": 40,
     "lowConfidence": false
   },
   {
