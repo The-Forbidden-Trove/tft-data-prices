@@ -1,10 +1,10 @@
 {
-  "date": 1641135710812,
+  "date": 1641146512268,
   "data": [
     {
       "name": "Enchanted Armaments",
       "exalt": 0.05,
-      "chaos": 8,
+      "chaos": 7,
       "lowConfidence": false
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Agility",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
@@ -58,7 +58,7 @@
     {
       "name": "Engineering",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
@@ -70,12 +70,12 @@
     {
       "name": "Perception",
       "exalt": 0.03,
-      "chaos": 4,
+      "chaos": 5,
       "lowConfidence": false
     },
     {
       "name": "Trap Disarmament",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     }
