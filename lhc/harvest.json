@@ -1,5 +1,5 @@
 {
-  "date": 1641157343780,
+  "date": 1641168135502,
   "data": [
     {
       "name": "Augment Cold",
@@ -75,8 +75,8 @@
     },
     {
       "name": "Sacrifice Divination Card 0-2x",
-      "exalt": 0.75,
-      "chaos": 68,
+      "exalt": 1,
+      "chaos": 90,
       "lowConfidence": true
     },
     {
@@ -200,12 +200,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Remove Non-Influence Add Influence",
-      "exalt": 75,
-      "chaos": 6675,
-      "lowConfidence": true
-    },
-    {
       "name": "Remove Non-Life Add Life",
       "exalt": 10,
       "chaos": 900,
@@ -272,12 +266,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.11,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
       "name": "Set Implicit, Cluster Jewel",
       "exalt": 0.22,
       "chaos": 20,
@@ -287,12 +275,6 @@
       "name": "Non-Blue into Blue Socket",
       "exalt": 0.17,
       "chaos": 15,
-      "lowConfidence": true
-    },
-    {
-      "name": "Non-Green into Green Socket",
-      "exalt": 0.56,
-      "chaos": 50,
       "lowConfidence": true
     },
     {
