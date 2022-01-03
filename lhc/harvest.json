@@ -1,5 +1,5 @@
 {
-  "date": 1641178935915,
+  "date": 1641189736071,
   "data": [
     {
       "name": "Augment Cold",
@@ -75,8 +75,8 @@
     },
     {
       "name": "Sacrifice Divination Card 0-2x",
-      "exalt": 1,
-      "chaos": 90,
+      "exalt": 0.8,
+      "chaos": 70,
       "lowConfidence": true
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 1.5,
-      "chaos": 132,
+      "exalt": 1.75,
+      "chaos": 153,
       "lowConfidence": true
     },
     {
@@ -207,14 +207,14 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.23,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.56,
-      "chaos": 50,
+      "exalt": 0.23,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -262,6 +262,12 @@
     {
       "name": "Set Implicit, Abyss/Timeless Jewel",
       "exalt": 0.22,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
+      "name": "Set Implicit, Basic Jewel",
+      "exalt": 0.23,
       "chaos": 20,
       "lowConfidence": true
     },
