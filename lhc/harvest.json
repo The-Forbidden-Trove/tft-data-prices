@@ -1,5 +1,5 @@
 {
-  "date": 1641211340649,
+  "date": 1641222141460,
   "data": [
     {
       "name": "Augment Cold",
@@ -44,27 +44,9 @@
       "lowConfidence": true
     },
     {
-      "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.22,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.33,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
       "name": "Enchant Weapon, Attack Speed",
       "exalt": 1,
       "chaos": 90,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 0.22,
-      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -159,8 +141,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 11,
-      "chaos": 995,
+      "exalt": 10,
+      "chaos": 910,
       "lowConfidence": true
     },
     {
@@ -219,8 +201,8 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.14,
-      "chaos": 12,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
