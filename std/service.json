@@ -1,22 +1,22 @@
 {
-  "date": 1641243786544,
+  "date": 1641254584354,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 95,
+      "chaos": 94,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 3.5,
-      "chaos": 332,
+      "exalt": 2,
+      "chaos": 190,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2.5,
-      "chaos": 239,
+      "chaos": 238,
       "lowConfidence": true
     },
     {
@@ -29,12 +29,12 @@
       "name": "T4 Hillock Armour 30%",
       "exalt": 6,
       "chaos": 576,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 5.5,
-      "chaos": 528,
+      "exalt": 5,
+      "chaos": 480,
       "lowConfidence": false
     },
     {
