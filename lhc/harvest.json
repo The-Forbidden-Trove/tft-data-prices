@@ -1,5 +1,5 @@
 {
-  "date": 1641232941540,
+  "date": 1641243744019,
   "data": [
     {
       "name": "Augment Cold",
@@ -189,20 +189,8 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.56,
-      "chaos": 50,
-      "lowConfidence": true
-    },
-    {
-      "name": "Cold to Fire Resist",
-      "exalt": 0.11,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Cold to Lightning Resist",
-      "exalt": 0.11,
-      "chaos": 10,
+      "exalt": 0.22,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -213,20 +201,20 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.22,
-      "chaos": 20,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.22,
-      "chaos": 20,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -245,6 +233,12 @@
       "name": "Non-Blue into Blue Socket",
       "exalt": 0.17,
       "chaos": 15,
+      "lowConfidence": true
+    },
+    {
+      "name": "Non-Green into Green Socket",
+      "exalt": 0.56,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
