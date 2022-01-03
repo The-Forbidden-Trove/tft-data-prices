@@ -1,5 +1,5 @@
 {
-  "date": 1641232983530,
+  "date": 1641243786544,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 2,
-      "chaos": 190,
+      "exalt": 3.5,
+      "chaos": 332,
       "lowConfidence": true
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 6,
-      "chaos": 576,
+      "exalt": 5.5,
+      "chaos": 528,
       "lowConfidence": false
     },
     {
@@ -69,14 +69,14 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 5.5,
+      "chaos": 528,
       "lowConfidence": false
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 1.5,
-      "chaos": 144,
+      "exalt": 2,
+      "chaos": 192,
       "lowConfidence": true
     },
     {
