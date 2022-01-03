@@ -1,5 +1,5 @@
 {
-  "date": 1641200572595,
+  "date": 1641211377095,
   "data": [
     {
       "name": "Augment Attack",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Augment Physical",
-      "exalt": 10.75,
-      "chaos": 1023,
+      "exalt": 18.5,
+      "chaos": 1758,
       "lowConfidence": true
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "Augment Cold",
-      "exalt": 9.75,
-      "chaos": 934,
+      "exalt": 9.5,
+      "chaos": 912,
       "lowConfidence": true
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "name": "Augment Lightning Lucky",
-      "exalt": 18,
-      "chaos": 1720,
+      "exalt": 17.5,
+      "chaos": 1680,
       "lowConfidence": true
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "name": "Augment Influence",
-      "exalt": 80,
-      "chaos": 7680,
+      "exalt": 77.5,
+      "chaos": 7440,
       "lowConfidence": true
     },
     {
@@ -135,8 +135,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.63,
+      "chaos": 60,
       "lowConfidence": false
     },
     {
@@ -153,8 +153,8 @@
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.26,
+      "chaos": 25,
       "lowConfidence": true
     },
     {
@@ -177,8 +177,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.55,
+      "chaos": 52,
       "lowConfidence": false
     },
     {
@@ -191,12 +191,12 @@
       "name": "Enchant Body, Strength",
       "exalt": 0.52,
       "chaos": 50,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Enchant Map, Doesn't Consume Sextant",
-      "exalt": 1,
-      "chaos": 96,
+      "exalt": 2.5,
+      "chaos": 240,
       "lowConfidence": true
     },
     {
@@ -267,8 +267,8 @@
     },
     {
       "name": "Synthesise an item",
-      "exalt": 9.5,
-      "chaos": 907,
+      "exalt": 9,
+      "chaos": 864,
       "lowConfidence": false
     },
     {
@@ -321,14 +321,14 @@
     },
     {
       "name": "Reforge Attack More Common",
-      "exalt": 0.32,
+      "exalt": 0.31,
       "chaos": 30,
       "lowConfidence": true
     },
     {
       "name": "Reforge Caster",
-      "exalt": 0.11,
-      "chaos": 10,
+      "exalt": 0.16,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -347,7 +347,7 @@
       "name": "Reforge Physical More Common",
       "exalt": 0.31,
       "chaos": 30,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Reforge Cold",
@@ -393,9 +393,9 @@
     },
     {
       "name": "Reforge Chaos More Common",
-      "exalt": 0.36,
-      "chaos": 35,
-      "lowConfidence": true
+      "exalt": 0.31,
+      "chaos": 30,
+      "lowConfidence": false
     },
     {
       "name": "Reforge Defence",
@@ -417,13 +417,13 @@
     },
     {
       "name": "Reforge Life More Common",
-      "exalt": 0.31,
+      "exalt": 0.32,
       "chaos": 30,
       "lowConfidence": false
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.36,
+      "exalt": 0.37,
       "chaos": 35,
       "lowConfidence": false
     },
@@ -465,8 +465,8 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 10,
-      "chaos": 950,
+      "exalt": 15,
+      "chaos": 1440,
       "lowConfidence": true
     },
     {
@@ -477,9 +477,9 @@
     },
     {
       "name": "Remove Non-Fire Add Fire",
-      "exalt": 3.5,
-      "chaos": 334,
-      "lowConfidence": false
+      "exalt": 3.25,
+      "chaos": 310,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
@@ -501,8 +501,8 @@
     },
     {
       "name": "Remove Non-Critical Add Critical",
-      "exalt": 28.75,
-      "chaos": 2756,
+      "exalt": 28.25,
+      "chaos": 2712,
       "lowConfidence": true
     },
     {
@@ -514,7 +514,7 @@
     {
       "name": "Remove Non-Influence Add Influence",
       "exalt": 8,
-      "chaos": 768,
+      "chaos": 764,
       "lowConfidence": true
     },
     {
@@ -525,8 +525,8 @@
     },
     {
       "name": "Remove Non-Speed Add Speed",
-      "exalt": 19,
-      "chaos": 1814,
+      "exalt": 18,
+      "chaos": 1728,
       "lowConfidence": true
     },
     {
@@ -585,7 +585,7 @@
     },
     {
       "name": "Sacrifice Gem, 50% XP As Facetor Lens",
-      "exalt": 0.52,
+      "exalt": 0.53,
       "chaos": 50,
       "lowConfidence": true
     },
@@ -604,7 +604,7 @@
     {
       "name": "Set Implicit, Cluster Jewel",
       "exalt": 1.5,
-      "chaos": 144,
+      "chaos": 143,
       "lowConfidence": false
     },
     {
@@ -621,8 +621,8 @@
     },
     {
       "name": "Non-Green into Green Socket",
-      "exalt": 0.47,
-      "chaos": 45,
+      "exalt": 0.52,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
