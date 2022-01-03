@@ -1,5 +1,5 @@
 {
-  "date": 1641200536996,
+  "date": 1641211340649,
   "data": [
     {
       "name": "Augment Cold",
@@ -261,14 +261,14 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.34,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.34,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
