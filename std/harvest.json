@@ -1,5 +1,5 @@
 {
-  "date": 1641222177792,
+  "date": 1641232977055,
   "data": [
     {
       "name": "Augment Attack",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Augment Physical",
-      "exalt": 25,
-      "chaos": 2375,
+      "exalt": 10.75,
+      "chaos": 1023,
       "lowConfidence": true
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Augment Chaos",
-      "exalt": 11,
-      "chaos": 1056,
+      "exalt": 12,
+      "chaos": 1152,
       "lowConfidence": true
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "name": "Augment Defence",
-      "exalt": 6,
-      "chaos": 576,
+      "exalt": 6.5,
+      "chaos": 624,
       "lowConfidence": true
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "name": "Augment Critical Lucky",
-      "exalt": 14,
-      "chaos": 1334,
+      "exalt": 8,
+      "chaos": 768,
       "lowConfidence": true
     },
     {
@@ -129,15 +129,15 @@
     },
     {
       "name": "Augment Influence Lucky",
-      "exalt": 77.5,
-      "chaos": 7440,
+      "exalt": 80,
+      "chaos": 7680,
       "lowConfidence": true
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.73,
-      "chaos": 70,
-      "lowConfidence": false
+      "exalt": 0.63,
+      "chaos": 60,
+      "lowConfidence": true
     },
     {
       "name": "Augment Speed",
@@ -147,14 +147,14 @@
     },
     {
       "name": "Enchant Body, Cold Resist",
-      "exalt": 1.5,
-      "chaos": 143,
+      "exalt": 2,
+      "chaos": 190,
       "lowConfidence": true
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.26,
-      "chaos": 25,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -183,8 +183,8 @@
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 1,
-      "chaos": 96,
+      "exalt": 0.73,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.78,
-      "chaos": 75,
+      "exalt": 0.86,
+      "chaos": 82,
       "lowConfidence": false
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "name": "Enchant Weapon, Critical Strike Chance",
-      "exalt": 0.73,
-      "chaos": 70,
+      "exalt": 0.63,
+      "chaos": 60,
       "lowConfidence": true
     },
     {
@@ -250,7 +250,7 @@
     {
       "name": "Fracture 1/5",
       "exalt": 10,
-      "chaos": 955,
+      "chaos": 960,
       "lowConfidence": false
     },
     {
@@ -267,20 +267,20 @@
     },
     {
       "name": "Synthesise an item",
-      "exalt": 10,
-      "chaos": 950,
+      "exalt": 9.5,
+      "chaos": 912,
       "lowConfidence": false
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.5,
-      "chaos": 48,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "Randomise Influence Jewellery",
-      "exalt": 0.92,
-      "chaos": 88,
+      "exalt": 1,
+      "chaos": 96,
       "lowConfidence": false
     },
     {
@@ -411,8 +411,8 @@
     },
     {
       "name": "Reforge Life",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.41,
+      "chaos": 39,
       "lowConfidence": true
     },
     {
@@ -423,8 +423,8 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.39,
+      "chaos": 38,
       "lowConfidence": false
     },
     {
@@ -453,8 +453,8 @@
     },
     {
       "name": "Reforge Speed More Common",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -483,8 +483,8 @@
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 4.75,
+      "chaos": 456,
       "lowConfidence": true
     },
     {
@@ -555,14 +555,14 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.47,
-      "chaos": 45,
+      "exalt": 0.52,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.47,
+      "chaos": 45,
       "lowConfidence": true
     },
     {
@@ -573,8 +573,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.37,
-      "chaos": 35,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -597,14 +597,14 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.39,
+      "chaos": 38,
       "lowConfidence": false
     },
     {
       "name": "Set Implicit, Cluster Jewel",
       "exalt": 1.5,
-      "chaos": 143,
+      "chaos": 144,
       "lowConfidence": false
     },
     {
@@ -621,14 +621,14 @@
     },
     {
       "name": "Non-Green into Green Socket",
-      "exalt": 0.52,
-      "chaos": 50,
-      "lowConfidence": false
+      "exalt": 0.47,
+      "chaos": 45,
+      "lowConfidence": true
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.53,
-      "chaos": 50,
+      "exalt": 0.57,
+      "chaos": 55,
       "lowConfidence": false
     },
     {
@@ -639,8 +639,8 @@
     },
     {
       "name": "Six Links",
-      "exalt": 6,
-      "chaos": 576,
+      "exalt": 5.5,
+      "chaos": 528,
       "lowConfidence": true
     }
   ]
