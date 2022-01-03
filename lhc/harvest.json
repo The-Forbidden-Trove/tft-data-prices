@@ -1,5 +1,5 @@
 {
-  "date": 1641189736071,
+  "date": 1641200536996,
   "data": [
     {
       "name": "Augment Cold",
@@ -128,18 +128,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Cold More Common",
-      "exalt": 0.22,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Lightning More Common",
-      "exalt": 0.22,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Chaos More Common",
       "exalt": 0.22,
       "chaos": 20,
@@ -171,8 +159,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 10,
-      "chaos": 910,
+      "exalt": 11,
+      "chaos": 995,
       "lowConfidence": true
     },
     {
@@ -225,8 +213,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.19,
-      "chaos": 18,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -255,12 +243,6 @@
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.22,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Set Implicit, Abyss/Timeless Jewel",
       "exalt": 0.22,
       "chaos": 20,
       "lowConfidence": true
