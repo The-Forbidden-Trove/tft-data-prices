@@ -1,1 +1,29 @@
-[]
+{
+  "date": 1641189742540,
+  "data": [
+    {
+      "name": "Leo Exalt Slam",
+      "exalt": 0.45,
+      "chaos": 40,
+      "lowConfidence": true
+    },
+    {
+      "name": "T3/T2/T1 Vorici White",
+      "exalt": 0.11,
+      "chaos": 10,
+      "lowConfidence": true
+    },
+    {
+      "name": "T4/T3 It That Fled Pure Breachstone",
+      "exalt": 0.23,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
+      "name": "T4/T3 Tora 200m Gem XP",
+      "exalt": 0.45,
+      "chaos": 40,
+      "lowConfidence": true
+    }
+  ]
+}
