@@ -1,5 +1,5 @@
 {
-  "date": 1641222141460,
+  "date": 1641232941540,
   "data": [
     {
       "name": "Augment Cold",
@@ -75,8 +75,8 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 1.5,
-      "chaos": 133,
+      "exalt": 1,
+      "chaos": 88,
       "lowConfidence": true
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 1.75,
-      "chaos": 155,
+      "exalt": 1.5,
+      "chaos": 132,
       "lowConfidence": true
     },
     {
@@ -243,14 +243,14 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.34,
-      "chaos": 30,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.34,
-      "chaos": 30,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
