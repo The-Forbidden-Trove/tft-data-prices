@@ -1,5 +1,5 @@
 {
-  "date": 1641254511981,
+  "date": 1641265312464,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -9,7 +9,7 @@
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.13,
+      "exalt": 0.12,
       "chaos": 20,
       "lowConfidence": false
     },
@@ -21,7 +21,7 @@
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.15,
+      "exalt": 0.16,
       "chaos": 25,
       "lowConfidence": false
     },
@@ -40,7 +40,7 @@
     {
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "Perception",
-      "exalt": 0.03,
+      "exalt": 0.02,
       "chaos": 4,
       "lowConfidence": false
     },
