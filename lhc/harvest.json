@@ -1,5 +1,5 @@
 {
-  "date": 1641265342695,
+  "date": 1641276134169,
   "data": [
     {
       "name": "Augment Cold",
@@ -81,8 +81,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 1.9,
-      "chaos": 167,
+      "exalt": 1.8,
+      "chaos": 160,
       "lowConfidence": true
     },
     {
@@ -177,8 +177,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.14,
-      "chaos": 12,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
