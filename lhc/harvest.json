@@ -1,5 +1,5 @@
 {
-  "date": 1641319340518,
+  "date": 1641330144835,
   "data": [
     {
       "name": "Augment Cold",
@@ -225,8 +225,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.08,
-      "chaos": 8,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
