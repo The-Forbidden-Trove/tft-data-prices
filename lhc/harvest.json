@@ -1,5 +1,5 @@
 {
-  "date": 1641254541876,
+  "date": 1641265342695,
   "data": [
     {
       "name": "Augment Cold",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Enchant Map, Doesn't Consume Sextant",
-      "exalt": 1,
-      "chaos": 90,
+      "exalt": 0.68,
+      "chaos": 60,
       "lowConfidence": true
     },
     {
@@ -75,14 +75,14 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 1.25,
-      "chaos": 111,
+      "exalt": 1.5,
+      "chaos": 134,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 1.8,
-      "chaos": 160,
+      "exalt": 1.9,
+      "chaos": 167,
       "lowConfidence": true
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 1.5,
-      "chaos": 132,
+      "exalt": 1.75,
+      "chaos": 155,
       "lowConfidence": true
     },
     {
