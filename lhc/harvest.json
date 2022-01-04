@@ -1,5 +1,5 @@
 {
-  "date": 1641276134169,
+  "date": 1641286935767,
   "data": [
     {
       "name": "Augment Cold",
@@ -137,12 +137,6 @@
       "name": "Reforge Critical More Common",
       "exalt": 0.22,
       "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Influence More Common",
-      "exalt": 10,
-      "chaos": 910,
       "lowConfidence": true
     },
     {
