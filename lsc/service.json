@@ -1,28 +1,28 @@
 {
-  "date": 1641308508369,
+  "date": 1641319303845,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 157,
+      "chaos": 158,
       "lowConfidence": false
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 1.5,
-      "chaos": 239,
-      "lowConfidence": false
+      "exalt": 1.35,
+      "chaos": 216,
+      "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2,
-      "chaos": 318,
-      "lowConfidence": false
+      "chaos": 316,
+      "lowConfidence": true
     },
     {
       "name": "T4 Aisling",
       "exalt": 3.75,
-      "chaos": 596,
+      "chaos": 595,
       "lowConfidence": false
     },
     {
@@ -45,20 +45,20 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.31,
+      "exalt": 0.32,
       "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.19,
-      "chaos": 30,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.2,
-      "chaos": 32,
+      "exalt": 0.19,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.25,
+      "exalt": 0.26,
       "chaos": 40,
       "lowConfidence": false
     },
