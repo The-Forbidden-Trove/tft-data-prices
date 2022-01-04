@@ -1,5 +1,5 @@
 {
-  "date": 1641330114691,
+  "date": 1641340908479,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "Deception",
-      "exalt": 0.07,
-      "chaos": 11,
+      "exalt": 0.06,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
@@ -63,13 +63,13 @@
     },
     {
       "name": "Lockpicking",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
     {
       "name": "Perception",
-      "exalt": 0.02,
+      "exalt": 0.03,
       "chaos": 4,
       "lowConfidence": false
     },
