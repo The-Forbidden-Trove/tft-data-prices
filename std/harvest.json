@@ -1,10 +1,10 @@
 {
-  "date": 1641319376677,
+  "date": 1641330180737,
   "data": [
     {
       "name": "Augment Attack",
-      "exalt": 10,
-      "chaos": 960,
+      "exalt": 12.5,
+      "chaos": 1200,
       "lowConfidence": true
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Augment Fire",
-      "exalt": 46,
-      "chaos": 4416,
+      "exalt": 12,
+      "chaos": 1152,
       "lowConfidence": true
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 10,
-      "chaos": 960,
+      "exalt": 12,
+      "chaos": 1152,
       "lowConfidence": true
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Augment Chaos",
-      "exalt": 12,
-      "chaos": 1152,
+      "exalt": 10,
+      "chaos": 960,
       "lowConfidence": true
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "name": "Augment Defence",
-      "exalt": 6,
-      "chaos": 576,
+      "exalt": 18,
+      "chaos": 1728,
       "lowConfidence": true
     },
     {
@@ -100,7 +100,7 @@
     {
       "name": "Augment Life",
       "exalt": 37.5,
-      "chaos": 3571,
+      "chaos": 3562,
       "lowConfidence": true
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "name": "Augment Influence",
-      "exalt": 130,
-      "chaos": 12405,
+      "exalt": 150,
+      "chaos": 14250,
       "lowConfidence": true
     },
     {
@@ -159,8 +159,8 @@
     },
     {
       "name": "Enchant Body, Fire Resist",
-      "exalt": 1.82,
-      "chaos": 175,
+      "exalt": 1.5,
+      "chaos": 144,
       "lowConfidence": true
     },
     {
@@ -171,8 +171,8 @@
     },
     {
       "name": "Enchant Body, Lightning Resist",
-      "exalt": 1,
-      "chaos": 96,
+      "exalt": 0.76,
+      "chaos": 73,
       "lowConfidence": true
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.92,
-      "chaos": 88,
+      "exalt": 1,
+      "chaos": 96,
       "lowConfidence": false
     },
     {
@@ -231,8 +231,8 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.39,
+      "chaos": 38,
       "lowConfidence": false
     },
     {
@@ -255,8 +255,8 @@
     },
     {
       "name": "Awaken Level 20 Support Gem",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 3.5,
+      "chaos": 335,
       "lowConfidence": true
     },
     {
@@ -267,9 +267,9 @@
     },
     {
       "name": "Synthesise an item",
-      "exalt": 12.5,
-      "chaos": 1200,
-      "lowConfidence": true
+      "exalt": 12.13,
+      "chaos": 1164,
+      "lowConfidence": false
     },
     {
       "name": "Randomise Influence Armour",
@@ -297,8 +297,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 5.5,
-      "chaos": 525,
+      "exalt": 6,
+      "chaos": 570,
       "lowConfidence": false
     },
     {
@@ -315,8 +315,8 @@
     },
     {
       "name": "Reforge Attack",
-      "exalt": 0.21,
-      "chaos": 20,
+      "exalt": 0.18,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.39,
-      "chaos": 38,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "Reforge Fire More Common",
-      "exalt": 0.44,
-      "chaos": 42,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "Reforge Chaos More Common",
-      "exalt": 0.34,
-      "chaos": 32,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -405,9 +405,9 @@
     },
     {
       "name": "Reforge Defence More Common",
-      "exalt": 0.5,
-      "chaos": 48,
-      "lowConfidence": false
+      "exalt": 0.46,
+      "chaos": 44,
+      "lowConfidence": true
     },
     {
       "name": "Reforge Life",
@@ -420,6 +420,12 @@
       "exalt": 0.42,
       "chaos": 40,
       "lowConfidence": false
+    },
+    {
+      "name": "Reforge Critical",
+      "exalt": 0.5,
+      "chaos": 48,
+      "lowConfidence": true
     },
     {
       "name": "Reforge Critical More Common",
@@ -447,8 +453,8 @@
     },
     {
       "name": "Reforge Speed",
-      "exalt": 0.5,
-      "chaos": 48,
+      "exalt": 0.46,
+      "chaos": 44,
       "lowConfidence": true
     },
     {
@@ -477,15 +483,15 @@
     },
     {
       "name": "Remove Non-Fire Add Fire",
-      "exalt": 12,
-      "chaos": 1151,
-      "lowConfidence": true
+      "exalt": 5,
+      "chaos": 480,
+      "lowConfidence": false
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 3,
-      "chaos": 288,
-      "lowConfidence": true
+      "exalt": 4,
+      "chaos": 384,
+      "lowConfidence": false
     },
     {
       "name": "Remove Non-Physical Add Physical",
@@ -495,8 +501,8 @@
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
-      "exalt": 6,
-      "chaos": 574,
+      "exalt": 7,
+      "chaos": 668,
       "lowConfidence": true
     },
     {
@@ -514,13 +520,13 @@
     {
       "name": "Remove Non-Influence Add Influence",
       "exalt": 8,
-      "chaos": 764,
+      "chaos": 760,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Life Add Life",
-      "exalt": 12.5,
-      "chaos": 1195,
+      "exalt": 20,
+      "chaos": 1900,
       "lowConfidence": true
     },
     {
@@ -567,8 +573,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
@@ -597,8 +603,8 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.51,
-      "chaos": 49,
+      "exalt": 0.52,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -633,8 +639,8 @@
     },
     {
       "name": "Reforge into White Socket",
-      "exalt": 6,
-      "chaos": 576,
+      "exalt": 3.52,
+      "chaos": 338,
       "lowConfidence": true
     },
     {
