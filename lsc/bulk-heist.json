@@ -1,5 +1,5 @@
 {
-  "date": 1641265312464,
+  "date": 1641276103726,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -28,18 +28,18 @@
     {
       "name": "Agility",
       "exalt": 0.01,
-      "chaos": 2,
+      "chaos": 1,
       "lowConfidence": false
     },
     {
       "name": "Brute Force",
       "exalt": 0.01,
-      "chaos": 2,
+      "chaos": 1,
       "lowConfidence": false
     },
     {
       "name": "Counter-Thaumaturgy",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
@@ -52,13 +52,13 @@
     {
       "name": "Demolition",
       "exalt": 0.01,
-      "chaos": 2,
+      "chaos": 1,
       "lowConfidence": false
     },
     {
       "name": "Engineering",
       "exalt": 0.01,
-      "chaos": 2,
+      "chaos": 1,
       "lowConfidence": false
     },
     {
@@ -70,7 +70,7 @@
     {
       "name": "Perception",
       "exalt": 0.02,
-      "chaos": 4,
+      "chaos": 3,
       "lowConfidence": false
     },
     {
