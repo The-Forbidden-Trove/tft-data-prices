@@ -1,5 +1,5 @@
 {
-  "date": 1641254508207,
+  "date": 1641265308779,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -17,12 +17,12 @@
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2,
       "chaos": 316,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
-      "exalt": 4,
-      "chaos": 608,
+      "exalt": 3.63,
+      "chaos": 569,
       "lowConfidence": false
     },
     {
@@ -34,7 +34,7 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
-      "chaos": 159,
+      "chaos": 158,
       "lowConfidence": false
     },
     {
@@ -65,7 +65,7 @@
       "name": "T4/T3 Tora 200m Gem XP",
       "exalt": 0.25,
       "chaos": 40,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "T4 Vorici 1-6 White",
