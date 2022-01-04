@@ -1,5 +1,5 @@
 {
-  "date": 1641265308779,
+  "date": 1641276099991,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -28,7 +28,7 @@
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 1,
-      "chaos": 157,
+      "chaos": 156,
       "lowConfidence": false
     },
     {
@@ -65,7 +65,7 @@
       "name": "T4/T3 Tora 200m Gem XP",
       "exalt": 0.25,
       "chaos": 40,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "T4 Vorici 1-6 White",
@@ -81,8 +81,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 2,
-      "chaos": 320,
+      "exalt": 1.5,
+      "chaos": 238,
       "lowConfidence": true
     }
   ]
