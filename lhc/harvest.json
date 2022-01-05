@@ -1,5 +1,5 @@
 {
-  "date": 1641405745147,
+  "date": 1641416539244,
   "data": [
     {
       "name": "Augment Cold",
@@ -17,6 +17,12 @@
       "name": "Augment Life Lucky",
       "exalt": 30,
       "chaos": 2700,
+      "lowConfidence": true
+    },
+    {
+      "name": "Augment Non-Influence Lucky",
+      "exalt": 0.93,
+      "chaos": 80,
       "lowConfidence": true
     },
     {
@@ -45,14 +51,14 @@
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.22,
-      "chaos": 20,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -87,8 +93,8 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 1.6,
-      "chaos": 139,
+      "exalt": 2,
+      "chaos": 172,
       "lowConfidence": true
     },
     {
@@ -207,8 +213,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -278,9 +284,15 @@
       "lowConfidence": true
     },
     {
+      "name": "Five Links",
+      "exalt": 0.06,
+      "chaos": 5,
+      "lowConfidence": true
+    },
+    {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.38,
+      "chaos": 32,
       "lowConfidence": true
     },
     {
