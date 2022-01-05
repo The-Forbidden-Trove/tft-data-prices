@@ -1,5 +1,5 @@
 {
-  "date": 1641394939433,
+  "date": 1641405745147,
   "data": [
     {
       "name": "Augment Cold",
@@ -69,14 +69,14 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.56,
-      "chaos": 50,
+      "exalt": 9,
+      "chaos": 774,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 3.25,
-      "chaos": 286,
+      "exalt": 1.5,
+      "chaos": 131,
       "lowConfidence": true
     },
     {
@@ -87,14 +87,14 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 2,
-      "chaos": 174,
+      "exalt": 1.6,
+      "chaos": 139,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 1.75,
-      "chaos": 155,
+      "exalt": 1.5,
+      "chaos": 132,
       "lowConfidence": true
     },
     {
@@ -146,6 +146,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Critical",
+      "exalt": 0.5,
+      "chaos": 43,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Critical More Common",
       "exalt": 0.17,
       "chaos": 15,
@@ -158,6 +164,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Rare Less Likely",
+      "exalt": 1,
+      "chaos": 86,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Rare More Likely",
       "exalt": 0.22,
       "chaos": 20,
@@ -165,8 +177,8 @@
     },
     {
       "name": "Reforge Speed",
-      "exalt": 0.22,
-      "chaos": 20,
+      "exalt": 0.5,
+      "chaos": 43,
       "lowConfidence": true
     },
     {
@@ -219,8 +231,8 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -237,14 +249,20 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
       "exalt": 0.06,
       "chaos": 5,
+      "lowConfidence": true
+    },
+    {
+      "name": "Set Implicit, Abyss/Timeless Jewel",
+      "exalt": 0.23,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
