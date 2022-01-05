@@ -1,5 +1,5 @@
 {
-  "date": 1641351693751,
+  "date": 1641362500367,
   "data": [
     {
       "name": "Augment Attack",
@@ -28,7 +28,7 @@
     {
       "name": "Augment Physical",
       "exalt": 13,
-      "chaos": 2028,
+      "chaos": 2022,
       "lowConfidence": false
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 8,
-      "chaos": 1248,
+      "exalt": 9,
+      "chaos": 1404,
       "lowConfidence": true
     },
     {
@@ -76,8 +76,8 @@
     {
       "name": "Augment Chaos",
       "exalt": 12,
-      "chaos": 1920,
-      "lowConfidence": false
+      "chaos": 1902,
+      "lowConfidence": true
     },
     {
       "name": "Augment Chaos Lucky",
@@ -99,8 +99,8 @@
     },
     {
       "name": "Augment Life",
-      "exalt": 15,
-      "chaos": 2355,
+      "exalt": 14,
+      "chaos": 2168,
       "lowConfidence": true
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "name": "Augment Critical",
-      "exalt": 12.5,
-      "chaos": 1968,
+      "exalt": 13,
+      "chaos": 2015,
       "lowConfidence": false
     },
     {
@@ -135,8 +135,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.47,
-      "chaos": 72,
+      "exalt": 0.48,
+      "chaos": 75,
       "lowConfidence": false
     },
     {
@@ -153,14 +153,14 @@
     },
     {
       "name": "Enchant Body, Cold Resist",
-      "exalt": 0.16,
-      "chaos": 25,
+      "exalt": 0.15,
+      "chaos": 22,
       "lowConfidence": true
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.06,
-      "chaos": 10,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -202,13 +202,13 @@
     {
       "name": "Enchant Map, Doesn't Consume Sextant",
       "exalt": 1,
-      "chaos": 156,
+      "chaos": 155,
       "lowConfidence": false
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 19,
       "lowConfidence": false
     },
     {
@@ -244,19 +244,19 @@
     {
       "name": "Fracture 1/3 Prefix",
       "exalt": 19,
-      "chaos": 2945,
+      "chaos": 2926,
       "lowConfidence": false
     },
     {
       "name": "Fracture 1/3 Suffix",
       "exalt": 18,
-      "chaos": 2830,
+      "chaos": 2799,
       "lowConfidence": false
     },
     {
       "name": "Fracture 1/5",
       "exalt": 8,
-      "chaos": 1248,
+      "chaos": 1240,
       "lowConfidence": false
     },
     {
@@ -274,7 +274,7 @@
     {
       "name": "Synthesise an item",
       "exalt": 3,
-      "chaos": 468,
+      "chaos": 466,
       "lowConfidence": false
     },
     {
@@ -298,7 +298,7 @@
     {
       "name": "Reforge keep Prefix",
       "exalt": 2,
-      "chaos": 312,
+      "chaos": 310,
       "lowConfidence": false
     },
     {
@@ -310,7 +310,7 @@
     {
       "name": "Reforge keep Suffix",
       "exalt": 2,
-      "chaos": 312,
+      "chaos": 311,
       "lowConfidence": false
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "Reforge Physical",
-      "exalt": 0.11,
-      "chaos": 18,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "Reforge Cold",
-      "exalt": 0.08,
-      "chaos": 12,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "Reforge Chaos",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.11,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
@@ -405,8 +405,8 @@
     },
     {
       "name": "Reforge Defence",
-      "exalt": 0.09,
-      "chaos": 14,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": false
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Reforge Life",
-      "exalt": 0.12,
-      "chaos": 19,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -447,8 +447,8 @@
     },
     {
       "name": "Reforge Rare Less Likely",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -477,8 +477,8 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 2.5,
-      "chaos": 388,
+      "exalt": 3,
+      "chaos": 465,
       "lowConfidence": true
     },
     {
@@ -501,8 +501,8 @@
     },
     {
       "name": "Remove Non-Physical Add Physical",
-      "exalt": 4.25,
-      "chaos": 660,
+      "exalt": 4,
+      "chaos": 624,
       "lowConfidence": true
     },
     {
@@ -561,8 +561,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.11,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
@@ -573,8 +573,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -591,20 +591,20 @@
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.11,
-      "chaos": 18,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
       "name": "Sacrifice Gem, 40% XP As Facetor Lens",
-      "exalt": 0.19,
-      "chaos": 30,
+      "exalt": 0.17,
+      "chaos": 28,
       "lowConfidence": false
     },
     {
       "name": "Sacrifice Gem, 50% XP As Facetor Lens",
-      "exalt": 0.27,
-      "chaos": 42,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -651,15 +651,15 @@
     },
     {
       "name": "Reforge into White Socket",
-      "exalt": 1.75,
-      "chaos": 272,
+      "exalt": 1.5,
+      "chaos": 232,
       "lowConfidence": true
     },
     {
       "name": "Six Links",
       "exalt": 2,
-      "chaos": 310,
-      "lowConfidence": false
+      "chaos": 308,
+      "lowConfidence": true
     }
   ]
 }
