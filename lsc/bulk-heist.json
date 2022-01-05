@@ -1,5 +1,5 @@
 {
-  "date": 1641351703956,
+  "date": 1641362511370,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -10,7 +10,7 @@
     {
       "name": "Replicas or Experimented Items",
       "exalt": 0.12,
-      "chaos": 18,
+      "chaos": 19,
       "lowConfidence": false
     },
     {
@@ -22,19 +22,19 @@
     {
       "name": "Unusual Gems",
       "exalt": 0.16,
-      "chaos": 25,
+      "chaos": 24,
       "lowConfidence": false
     },
     {
       "name": "Agility",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Brute Force",
       "exalt": 0.01,
-      "chaos": 2,
+      "chaos": 1,
       "lowConfidence": true
     },
     {
@@ -64,19 +64,19 @@
     {
       "name": "Lockpicking",
       "exalt": 0.02,
-      "chaos": 2,
+      "chaos": 3,
       "lowConfidence": false
     },
     {
       "name": "Perception",
-      "exalt": 0.03,
+      "exalt": 0.02,
       "chaos": 4,
       "lowConfidence": false
     },
     {
       "name": "Trap Disarmament",
       "exalt": 0.01,
-      "chaos": 2,
+      "chaos": 1,
       "lowConfidence": true
     }
   ]
