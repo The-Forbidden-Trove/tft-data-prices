@@ -1,5 +1,5 @@
 {
-  "date": 1641373306462,
+  "date": 1641384113554,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -21,7 +21,7 @@
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.16,
+      "exalt": 0.15,
       "chaos": 24,
       "lowConfidence": false
     },
@@ -34,7 +34,7 @@
     {
       "name": "Brute Force",
       "exalt": 0.01,
-      "chaos": 1,
+      "chaos": 2,
       "lowConfidence": true
     },
     {
@@ -59,7 +59,7 @@
       "name": "Engineering",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Lockpicking",
@@ -76,7 +76,7 @@
     {
       "name": "Trap Disarmament",
       "exalt": 0.01,
-      "chaos": 1,
+      "chaos": 2,
       "lowConfidence": true
     }
   ]
