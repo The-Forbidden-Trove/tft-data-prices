@@ -1,5 +1,5 @@
 {
-  "date": 1641405710074,
+  "date": 1641416504405,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -15,14 +15,14 @@
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 2.5,
-      "chaos": 388,
-      "lowConfidence": true
+      "exalt": 3,
+      "chaos": 466,
+      "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
-      "exalt": 3,
-      "chaos": 468,
+      "exalt": 3.5,
+      "chaos": 543,
       "lowConfidence": false
     },
     {
@@ -53,7 +53,7 @@
       "name": "T3/T2/T1 Vorici White",
       "exalt": 0.19,
       "chaos": 30,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
@@ -63,13 +63,13 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.27,
-      "chaos": 42,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.26,
+      "exalt": 0.25,
       "chaos": 40,
       "lowConfidence": false
     },
