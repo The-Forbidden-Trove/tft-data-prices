@@ -1,5 +1,5 @@
 {
-  "date": 1641384145518,
+  "date": 1641394939433,
   "data": [
     {
       "name": "Augment Cold",
@@ -17,12 +17,6 @@
       "name": "Augment Life Lucky",
       "exalt": 30,
       "chaos": 2700,
-      "lowConfidence": true
-    },
-    {
-      "name": "Augment Non-Influence Lucky",
-      "exalt": 0.66,
-      "chaos": 60,
       "lowConfidence": true
     },
     {
@@ -93,14 +87,20 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 3.5,
-      "chaos": 307,
+      "exalt": 2,
+      "chaos": 174,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Suffix Lucky",
       "exalt": 1.75,
       "chaos": 155,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Attack",
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -113,6 +113,12 @@
       "name": "Reforge Caster",
       "exalt": 0.17,
       "chaos": 15,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Chaos",
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -141,8 +147,14 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.22,
-      "chaos": 20,
+      "exalt": 0.17,
+      "chaos": 15,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Influence More Common",
+      "exalt": 8,
+      "chaos": 696,
       "lowConfidence": true
     },
     {
@@ -213,7 +225,7 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.08,
+      "exalt": 0.09,
       "chaos": 8,
       "lowConfidence": true
     },
