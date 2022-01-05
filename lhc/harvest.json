@@ -1,5 +1,5 @@
 {
-  "date": 1641416539244,
+  "date": 1641427343812,
   "data": [
     {
       "name": "Augment Cold",
@@ -11,12 +11,6 @@
       "name": "Augment Lightning Lucky",
       "exalt": 16,
       "chaos": 1424,
-      "lowConfidence": true
-    },
-    {
-      "name": "Augment Life Lucky",
-      "exalt": 30,
-      "chaos": 2700,
       "lowConfidence": true
     },
     {
@@ -213,8 +207,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -237,14 +231,14 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -255,8 +249,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
