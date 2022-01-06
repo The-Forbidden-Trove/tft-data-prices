@@ -1,5 +1,5 @@
 {
-  "date": 1641470537135,
+  "date": 1641481343909,
   "data": [
     {
       "name": "Augment Cold",
@@ -87,8 +87,8 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 1.6,
-      "chaos": 138,
+      "exalt": 2,
+      "chaos": 172,
       "lowConfidence": true
     },
     {
@@ -213,8 +213,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.11,
-      "chaos": 10,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -261,8 +261,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.38,
-      "chaos": 32,
+      "exalt": 0.58,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
