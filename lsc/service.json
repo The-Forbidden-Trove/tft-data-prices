@@ -1,5 +1,5 @@
 {
-  "date": 1641502909806,
+  "date": 1641513704916,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,14 +9,14 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 1.48,
-      "chaos": 228,
+      "exalt": 1.75,
+      "chaos": 270,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2,
-      "chaos": 311,
+      "chaos": 310,
       "lowConfidence": false
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.42,
-      "chaos": 65,
+      "exalt": 0.39,
+      "chaos": 60,
       "lowConfidence": true
     },
     {
