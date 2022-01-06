@@ -1,5 +1,5 @@
 {
-  "date": 1641502945323,
+  "date": 1641513739416,
   "data": [
     {
       "name": "Augment Cold",
@@ -122,12 +122,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Life",
-      "exalt": 0.17,
-      "chaos": 15,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Critical",
       "exalt": 0.5,
       "chaos": 43,
@@ -189,8 +183,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -213,14 +207,14 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -231,8 +225,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
