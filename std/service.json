@@ -1,5 +1,5 @@
 {
-  "date": 1641481387092,
+  "date": 1641492182408,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -21,20 +21,20 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 7,
-      "chaos": 672,
+      "exalt": 7.5,
+      "chaos": 720,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 7,
-      "chaos": 672,
+      "exalt": 6,
+      "chaos": 576,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 6.5,
-      "chaos": 624,
+      "exalt": 6,
+      "chaos": 576,
       "lowConfidence": false
     },
     {
