@@ -1,5 +1,5 @@
 {
-  "date": 1641427313329,
+  "date": 1641438109642,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -69,7 +69,7 @@
     },
     {
       "name": "Perception",
-      "exalt": 0.02,
+      "exalt": 0.03,
       "chaos": 4,
       "lowConfidence": false
     },
