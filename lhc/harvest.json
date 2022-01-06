@@ -1,5 +1,5 @@
 {
-  "date": 1641427343812,
+  "date": 1641438139921,
   "data": [
     {
       "name": "Augment Cold",
@@ -81,8 +81,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 1.8,
-      "chaos": 160,
+      "exalt": 1.9,
+      "chaos": 167,
       "lowConfidence": true
     },
     {
@@ -93,20 +93,14 @@
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 1.5,
-      "chaos": 132,
+      "exalt": 1.75,
+      "chaos": 155,
       "lowConfidence": true
     },
     {
       "name": "Reforge Attack",
       "exalt": 0.11,
       "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Attack More Common",
-      "exalt": 0.22,
-      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -122,27 +116,9 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Chaos More Common",
-      "exalt": 0.22,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Defence More Common",
-      "exalt": 0.22,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Life",
       "exalt": 0.17,
       "chaos": 15,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Life More Common",
-      "exalt": 0.22,
-      "chaos": 20,
       "lowConfidence": true
     },
     {
