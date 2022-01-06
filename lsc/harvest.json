@@ -1,11 +1,11 @@
 {
-  "date": 1641427303060,
+  "date": 1641438099288,
   "data": [
     {
       "name": "Augment Attack",
-      "exalt": 4,
-      "chaos": 620,
-      "lowConfidence": false
+      "exalt": 6,
+      "chaos": 928,
+      "lowConfidence": true
     },
     {
       "name": "Augment Attack Lucky",
@@ -29,7 +29,7 @@
       "name": "Augment Physical",
       "exalt": 15,
       "chaos": 2310,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Augment Physical Lucky",
@@ -81,14 +81,14 @@
     },
     {
       "name": "Augment Chaos Lucky",
-      "exalt": 12.5,
-      "chaos": 1938,
+      "exalt": 12,
+      "chaos": 1848,
       "lowConfidence": true
     },
     {
       "name": "Augment Defence",
       "exalt": 6,
-      "chaos": 933,
+      "chaos": 954,
       "lowConfidence": true
     },
     {
@@ -112,13 +112,13 @@
     {
       "name": "Augment Critical",
       "exalt": 12,
-      "chaos": 1872,
+      "chaos": 1896,
       "lowConfidence": false
     },
     {
       "name": "Augment Critical Lucky",
-      "exalt": 14.5,
-      "chaos": 2253,
+      "exalt": 14,
+      "chaos": 2226,
       "lowConfidence": true
     },
     {
@@ -135,20 +135,20 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.47,
-      "chaos": 75,
+      "exalt": 0.46,
+      "chaos": 72,
       "lowConfidence": false
     },
     {
       "name": "Augment Speed",
       "exalt": 15,
-      "chaos": 2325,
+      "chaos": 2318,
       "lowConfidence": true
     },
     {
       "name": "Augment Speed Lucky",
       "exalt": 13.5,
-      "chaos": 2156,
+      "chaos": 2152,
       "lowConfidence": true
     },
     {
@@ -165,8 +165,8 @@
     },
     {
       "name": "Enchant Body, Fire Resist",
-      "exalt": 0.16,
-      "chaos": 25,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -189,8 +189,8 @@
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 0.12,
-      "chaos": 19,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -207,8 +207,8 @@
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.49,
-      "chaos": 75,
+      "exalt": 0.45,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
@@ -256,7 +256,7 @@
     {
       "name": "Fracture 1/5",
       "exalt": 7,
-      "chaos": 1085,
+      "chaos": 1088,
       "lowConfidence": false
     },
     {
@@ -268,7 +268,7 @@
     {
       "name": "Sacrifice Divination Card 0-2x",
       "exalt": 0.5,
-      "chaos": 78,
+      "chaos": 77,
       "lowConfidence": false
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "Reforge Caster",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.11,
+      "chaos": 16,
       "lowConfidence": false
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "Reforge Fire",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.11,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -442,7 +442,7 @@
     {
       "name": "Reforge Influence More Common",
       "exalt": 10,
-      "chaos": 1565,
+      "chaos": 1575,
       "lowConfidence": false
     },
     {
@@ -477,8 +477,8 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 2.88,
-      "chaos": 446,
+      "exalt": 2.75,
+      "chaos": 426,
       "lowConfidence": true
     },
     {
@@ -501,8 +501,8 @@
     },
     {
       "name": "Remove Non-Physical Add Physical",
-      "exalt": 4,
-      "chaos": 620,
+      "exalt": 6,
+      "chaos": 926,
       "lowConfidence": true
     },
     {
@@ -514,13 +514,13 @@
     {
       "name": "Remove Non-Critical Add Critical",
       "exalt": 8,
-      "chaos": 1264,
+      "chaos": 1248,
       "lowConfidence": false
     },
     {
       "name": "Remove Non-Defence Add Defence",
-      "exalt": 2,
-      "chaos": 310,
+      "exalt": 1.5,
+      "chaos": 232,
       "lowConfidence": true
     },
     {
@@ -537,8 +537,8 @@
     },
     {
       "name": "Remove Non-Speed Add Speed",
-      "exalt": 7,
-      "chaos": 1092,
+      "exalt": 6,
+      "chaos": 936,
       "lowConfidence": true
     },
     {
@@ -549,8 +549,8 @@
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.11,
-      "chaos": 18,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -603,9 +603,9 @@
     },
     {
       "name": "Sacrifice Gem, 50% XP As Facetor Lens",
-      "exalt": 0.26,
-      "chaos": 40,
-      "lowConfidence": false
+      "exalt": 0.21,
+      "chaos": 32,
+      "lowConfidence": true
     },
     {
       "name": "Set Implicit, Abyss/Timeless Jewel",
@@ -629,7 +629,7 @@
       "name": "Five Links",
       "exalt": 0.06,
       "chaos": 10,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Non-Blue into Blue Socket",
@@ -651,15 +651,15 @@
     },
     {
       "name": "Reforge into White Socket",
-      "exalt": 1,
-      "chaos": 155,
+      "exalt": 1.16,
+      "chaos": 180,
       "lowConfidence": true
     },
     {
       "name": "Six Links",
-      "exalt": 3,
-      "chaos": 465,
-      "lowConfidence": true
+      "exalt": 2,
+      "chaos": 310,
+      "lowConfidence": false
     }
   ]
 }
