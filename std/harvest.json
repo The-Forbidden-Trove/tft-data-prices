@@ -1,5 +1,5 @@
 {
-  "date": 1641492175785,
+  "date": 1641502981350,
   "data": [
     {
       "name": "Augment Attack",
@@ -129,8 +129,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.63,
-      "chaos": 60,
+      "exalt": 0.73,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
@@ -191,24 +191,24 @@
       "name": "Enchant Map, Doesn't Consume Sextant",
       "exalt": 1.5,
       "chaos": 144,
-      "lowConfidence": false
-    },
-    {
-      "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.76,
-      "chaos": 73,
       "lowConfidence": true
     },
     {
-      "name": "Enchant Weapon, Area of Effect",
+      "name": "Enchant Weapon, Accuracy",
       "exalt": 0.52,
       "chaos": 50,
       "lowConfidence": false
     },
     {
+      "name": "Enchant Weapon, Area of Effect",
+      "exalt": 0.42,
+      "chaos": 40,
+      "lowConfidence": false
+    },
+    {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.63,
-      "chaos": 60,
+      "exalt": 0.52,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 1,
-      "chaos": 96,
+      "exalt": 0.92,
+      "chaos": 88,
       "lowConfidence": false
     },
     {
@@ -249,8 +249,8 @@
     },
     {
       "name": "Awaken Level 20 Support Gem",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 3.5,
+      "chaos": 335,
       "lowConfidence": true
     },
     {
@@ -261,14 +261,14 @@
     },
     {
       "name": "Synthesise an item",
-      "exalt": 14.5,
-      "chaos": 1392,
+      "exalt": 10,
+      "chaos": 960,
       "lowConfidence": true
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.47,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -279,8 +279,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.5,
-      "chaos": 48,
+      "exalt": 0.46,
+      "chaos": 44,
       "lowConfidence": false
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "Reforge Physical",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "Reforge Lightning",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -399,9 +399,9 @@
     },
     {
       "name": "Reforge Defence More Common",
-      "exalt": 0.39,
-      "chaos": 38,
-      "lowConfidence": true
+      "exalt": 0.47,
+      "chaos": 45,
+      "lowConfidence": false
     },
     {
       "name": "Reforge Life",
@@ -413,7 +413,7 @@
       "name": "Reforge Life More Common",
       "exalt": 0.31,
       "chaos": 30,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Reforge Critical",
@@ -423,8 +423,8 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.51,
+      "chaos": 49,
       "lowConfidence": false
     },
     {
@@ -441,8 +441,8 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -453,9 +453,9 @@
     },
     {
       "name": "Reforge Speed More Common",
-      "exalt": 0.42,
-      "chaos": 40,
-      "lowConfidence": false
+      "exalt": 0.47,
+      "chaos": 45,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Attack Add Attack",
@@ -471,8 +471,8 @@
     },
     {
       "name": "Remove Non-Cold Add Cold",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 6.5,
+      "chaos": 624,
       "lowConfidence": true
     },
     {
@@ -531,14 +531,14 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.29,
-      "chaos": 28,
+      "exalt": 0.28,
+      "chaos": 26,
       "lowConfidence": false
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.46,
-      "chaos": 44,
+      "exalt": 0.48,
+      "chaos": 46,
       "lowConfidence": false
     },
     {
@@ -549,9 +549,9 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.47,
-      "chaos": 45,
-      "lowConfidence": true
+      "exalt": 0.42,
+      "chaos": 40,
+      "lowConfidence": false
     },
     {
       "name": "Cold to Lightning Resist",
@@ -569,7 +569,7 @@
       "name": "Fire to Lightning Resist",
       "exalt": 0.31,
       "chaos": 30,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Lightning to Cold Resist",
@@ -597,8 +597,8 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.46,
-      "chaos": 44,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -615,8 +615,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.76,
-      "chaos": 73,
+      "exalt": 0.73,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
