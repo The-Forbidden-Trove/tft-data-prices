@@ -1,5 +1,5 @@
 {
-  "date": 1641492139359,
+  "date": 1641502945323,
   "data": [
     {
       "name": "Augment Cold",
@@ -189,8 +189,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -267,8 +267,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.58,
-      "chaos": 50,
+      "exalt": 0.38,
+      "chaos": 32,
       "lowConfidence": true
     },
     {
