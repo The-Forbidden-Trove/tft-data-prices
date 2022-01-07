@@ -1,10 +1,10 @@
 {
-  "date": 1641578586657,
+  "date": 1641589383981,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 3.25,
-      "chaos": 312,
+      "exalt": 1,
+      "chaos": 96,
       "lowConfidence": true
     },
     {
@@ -22,19 +22,19 @@
     {
       "name": "T4 Aisling",
       "exalt": 7,
-      "chaos": 679,
+      "chaos": 676,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 6,
-      "chaos": 582,
+      "exalt": 6.5,
+      "chaos": 630,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 6.75,
-      "chaos": 650,
+      "exalt": 6,
+      "chaos": 582,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 2,
-      "chaos": 192,
+      "exalt": 2.5,
+      "chaos": 240,
       "lowConfidence": true
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 2,
-      "chaos": 194,
+      "exalt": 1.5,
+      "chaos": 145,
       "lowConfidence": true
     },
     {
