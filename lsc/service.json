@@ -1,10 +1,10 @@
 {
-  "date": 1641535306488,
+  "date": 1641546103009,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 156,
+      "chaos": 155,
       "lowConfidence": false
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 1,
-      "chaos": 155,
+      "exalt": 1.13,
+      "chaos": 174,
       "lowConfidence": false
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.21,
-      "chaos": 32,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.35,
-      "chaos": 55,
+      "exalt": 0.32,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
