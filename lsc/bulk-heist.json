@@ -1,10 +1,10 @@
 {
-  "date": 1641513708696,
+  "date": 1641524505375,
   "data": [
     {
       "name": "Enchanted Armaments",
       "exalt": 0.06,
-      "chaos": 9,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "Counter-Thaumaturgy",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
@@ -77,7 +77,7 @@
       "name": "Trap Disarmament",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     }
   ]
 }
