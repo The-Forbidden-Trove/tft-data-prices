@@ -1,5 +1,5 @@
 {
-  "date": 1641589340412,
+  "date": 1641600135582,
   "data": [
     {
       "name": "Augment Lightning Lucky",
@@ -20,9 +20,15 @@
       "lowConfidence": true
     },
     {
+      "name": "Enchant Body, Intelligence",
+      "exalt": 0.21,
+      "chaos": 18,
+      "lowConfidence": true
+    },
+    {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -39,8 +45,14 @@
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.98,
+      "chaos": 80,
+      "lowConfidence": true
+    },
+    {
+      "name": "Enchant Weapon, Elemental Damage",
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -81,8 +93,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 1.8,
-      "chaos": 160,
+      "exalt": 2,
+      "chaos": 164,
       "lowConfidence": true
     },
     {
@@ -189,8 +201,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -213,14 +225,14 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -231,8 +243,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -249,7 +261,7 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.23,
+      "exalt": 0.24,
       "chaos": 20,
       "lowConfidence": true
     },
@@ -267,8 +279,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.49,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
