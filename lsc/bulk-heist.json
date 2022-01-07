@@ -1,5 +1,5 @@
 {
-  "date": 1641556911934,
+  "date": 1641567707333,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
@@ -63,8 +63,8 @@
     },
     {
       "name": "Lockpicking",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
