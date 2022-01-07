@@ -1,22 +1,22 @@
 {
-  "date": 1641589309327,
+  "date": 1641600104627,
   "data": [
     {
       "name": "Enchanted Armaments",
       "exalt": 0.06,
-      "chaos": 10,
+      "chaos": 9,
       "lowConfidence": false
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.12,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.09,
+      "chaos": 14,
       "lowConfidence": false
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Lockpicking",
-      "exalt": 0.01,
-      "chaos": 2,
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": false
     },
     {
