@@ -1,5 +1,5 @@
 {
-  "date": 1641546137345,
+  "date": 1641556942670,
   "data": [
     {
       "name": "Augment Cold",
@@ -201,7 +201,7 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.11,
+      "exalt": 0.12,
       "chaos": 10,
       "lowConfidence": true
     },
@@ -249,8 +249,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.38,
-      "chaos": 32,
+      "exalt": 0.18,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.17,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
