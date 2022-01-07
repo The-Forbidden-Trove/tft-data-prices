@@ -1,5 +1,5 @@
 {
-  "date": 1641556942670,
+  "date": 1641567738009,
   "data": [
     {
       "name": "Augment Cold",
@@ -87,8 +87,8 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 1.6,
-      "chaos": 138,
+      "exalt": 2,
+      "chaos": 172,
       "lowConfidence": true
     },
     {
