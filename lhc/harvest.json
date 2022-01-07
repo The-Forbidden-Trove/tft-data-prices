@@ -1,5 +1,5 @@
 {
-  "date": 1641524536212,
+  "date": 1641535341752,
   "data": [
     {
       "name": "Augment Cold",
@@ -23,12 +23,6 @@
       "name": "Augment Non-Influence Lucky",
       "exalt": 0.93,
       "chaos": 80,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Body, Intelligence",
-      "exalt": 0.22,
-      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -87,8 +81,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 1.9,
-      "chaos": 167,
+      "exalt": 1.8,
+      "chaos": 160,
       "lowConfidence": true
     },
     {
@@ -173,12 +167,6 @@
       "name": "Remove Non-Defence Add Defence",
       "exalt": 1.36,
       "chaos": 120,
-      "lowConfidence": true
-    },
-    {
-      "name": "Remove Non-Life Add Life",
-      "exalt": 10,
-      "chaos": 900,
       "lowConfidence": true
     },
     {
