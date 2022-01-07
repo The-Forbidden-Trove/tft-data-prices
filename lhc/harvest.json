@@ -1,5 +1,5 @@
 {
-  "date": 1641567738009,
+  "date": 1641578544343,
   "data": [
     {
       "name": "Augment Cold",
@@ -75,8 +75,8 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 3.25,
-      "chaos": 286,
+      "exalt": 1.5,
+      "chaos": 131,
       "lowConfidence": true
     },
     {
@@ -87,14 +87,14 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 2,
-      "chaos": 172,
+      "exalt": 1.5,
+      "chaos": 125,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 1.75,
-      "chaos": 155,
+      "exalt": 1.5,
+      "chaos": 132,
       "lowConfidence": true
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 8,
-      "chaos": 696,
+      "exalt": 7,
+      "chaos": 581,
       "lowConfidence": true
     },
     {
@@ -149,6 +149,12 @@
       "name": "Reforge Speed",
       "exalt": 0.5,
       "chaos": 43,
+      "lowConfidence": true
+    },
+    {
+      "name": "Remove Non-Caster Add Caster",
+      "exalt": 7,
+      "chaos": 581,
       "lowConfidence": true
     },
     {
@@ -195,8 +201,8 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -213,8 +219,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
