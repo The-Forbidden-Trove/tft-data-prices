@@ -1,5 +1,5 @@
 {
-  "date": 1641546179925,
+  "date": 1641556985754,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -15,8 +15,8 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 7,
-      "chaos": 672,
+      "exalt": 7.5,
+      "chaos": 720,
       "lowConfidence": false
     },
     {
@@ -28,14 +28,14 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 7,
-      "chaos": 672,
+      "chaos": 676,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 5,
       "chaos": 480,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
