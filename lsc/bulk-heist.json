@@ -1,5 +1,5 @@
 {
-  "date": 1641524505375,
+  "date": 1641535310275,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "name": "Deception",
-      "exalt": 0.06,
+      "exalt": 0.07,
       "chaos": 10,
       "lowConfidence": false
     },
     {
       "name": "Demolition",
       "exalt": 0.02,
-      "chaos": 2,
+      "chaos": 3,
       "lowConfidence": false
     },
     {
