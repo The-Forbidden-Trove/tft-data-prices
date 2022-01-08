@@ -1,5 +1,5 @@
 {
-  "date": 1641643337823,
+  "date": 1641654145323,
   "data": [
     {
       "name": "Augment Lightning Lucky",
@@ -201,8 +201,8 @@
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -219,14 +219,14 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -255,8 +255,8 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.24,
-      "chaos": 20,
+      "exalt": 0.15,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
