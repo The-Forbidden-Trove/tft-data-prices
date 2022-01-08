@@ -1,5 +1,5 @@
 {
-  "date": 1641675734317,
+  "date": 1641686541670,
   "data": [
     {
       "name": "Augment Critical",
@@ -9,14 +9,14 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.93,
-      "chaos": 80,
+      "exalt": 0.73,
+      "chaos": 60,
       "lowConfidence": true
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.21,
-      "chaos": 18,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -38,6 +38,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Enchant Weapon, Area of Effect",
+      "exalt": 0.24,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
       "name": "Enchant Weapon, Attack Speed",
       "exalt": 0.98,
       "chaos": 80,
@@ -45,8 +51,8 @@
     },
     {
       "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -116,6 +122,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Life More Common",
+      "exalt": 0.18,
+      "chaos": 15,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Critical",
       "exalt": 0.5,
       "chaos": 43,
@@ -123,7 +135,7 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.17,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -171,8 +183,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.17,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -183,14 +195,14 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -201,8 +213,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -231,8 +243,8 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.15,
-      "chaos": 12,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
