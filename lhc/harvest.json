@@ -1,5 +1,5 @@
 {
-  "date": 1641600135582,
+  "date": 1641610940142,
   "data": [
     {
       "name": "Augment Lightning Lucky",
@@ -105,8 +105,8 @@
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 1.5,
-      "chaos": 132,
+      "exalt": 1.75,
+      "chaos": 155,
       "lowConfidence": true
     },
     {
