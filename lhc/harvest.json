@@ -1,5 +1,5 @@
 {
-  "date": 1641621735639,
+  "date": 1641632541739,
   "data": [
     {
       "name": "Augment Lightning Lucky",
@@ -87,8 +87,8 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 1.5,
-      "chaos": 131,
+      "exalt": 3.25,
+      "chaos": 286,
       "lowConfidence": true
     },
     {
@@ -141,8 +141,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 7,
-      "chaos": 581,
+      "exalt": 7.5,
+      "chaos": 622,
       "lowConfidence": true
     },
     {
