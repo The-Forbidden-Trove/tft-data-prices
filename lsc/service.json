@@ -1,5 +1,5 @@
 {
-  "date": 1641600100919,
+  "date": 1641610906225,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 3.75,
-      "chaos": 585,
+      "chaos": 579,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.22,
-      "chaos": 35,
+      "exalt": 0.21,
+      "chaos": 32,
       "lowConfidence": false
     },
     {
@@ -87,9 +87,9 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 1.6,
-      "chaos": 248,
-      "lowConfidence": true
+      "exalt": 1.4,
+      "chaos": 216,
+      "lowConfidence": false
     }
   ]
 }
