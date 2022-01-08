@@ -1,10 +1,10 @@
 {
-  "date": 1641610983147,
+  "date": 1641621778804,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 1,
-      "chaos": 96,
+      "exalt": 1.25,
+      "chaos": 121,
       "lowConfidence": true
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 7,
-      "chaos": 679,
+      "exalt": 7.5,
+      "chaos": 724,
       "lowConfidence": false
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 6,
+      "chaos": 576,
       "lowConfidence": true
     },
     {
@@ -70,7 +70,7 @@
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 6,
-      "chaos": 576,
+      "chaos": 582,
       "lowConfidence": false
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 384,
+      "chaos": 388,
       "lowConfidence": true
     }
   ]
