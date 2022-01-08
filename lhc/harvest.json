@@ -1,12 +1,6 @@
 {
-  "date": 1641664939430,
+  "date": 1641675734317,
   "data": [
-    {
-      "name": "Augment Lightning Lucky",
-      "exalt": 16,
-      "chaos": 1424,
-      "lowConfidence": true
-    },
     {
       "name": "Augment Critical",
       "exalt": 2.5,
@@ -71,12 +65,6 @@
       "name": "Sacrifice Divination Card 0-2x",
       "exalt": 0.8,
       "chaos": 70,
-      "lowConfidence": true
-    },
-    {
-      "name": "Randomise Influence Armour",
-      "exalt": 0.45,
-      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -164,15 +152,9 @@
       "lowConfidence": true
     },
     {
-      "name": "Remove Non-Cold Add Cold",
-      "exalt": 10,
-      "chaos": 890,
-      "lowConfidence": true
-    },
-    {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 1.75,
-      "chaos": 144,
+      "exalt": 2,
+      "chaos": 164,
       "lowConfidence": true
     },
     {
@@ -189,8 +171,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.17,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -279,8 +261,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.36,
-      "chaos": 30,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
