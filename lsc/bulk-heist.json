@@ -1,5 +1,5 @@
 {
-  "date": 1641675704049,
+  "date": 1641686509276,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.07,
-      "chaos": 11,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": false
     },
     {
@@ -29,7 +29,7 @@
       "name": "Agility",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Brute Force",
