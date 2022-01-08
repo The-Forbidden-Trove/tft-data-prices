@@ -1,5 +1,5 @@
 {
-  "date": 1641632541739,
+  "date": 1641643337823,
   "data": [
     {
       "name": "Augment Lightning Lucky",
@@ -99,14 +99,14 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 1.5,
-      "chaos": 125,
+      "exalt": 1.75,
+      "chaos": 144,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 1.75,
-      "chaos": 155,
+      "exalt": 3,
+      "chaos": 246,
       "lowConfidence": true
     },
     {
@@ -177,14 +177,8 @@
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 1.5,
-      "chaos": 125,
-      "lowConfidence": true
-    },
-    {
-      "name": "Remove Non-Critical Add Critical",
-      "exalt": 9,
-      "chaos": 801,
+      "exalt": 1.75,
+      "chaos": 144,
       "lowConfidence": true
     },
     {
@@ -231,8 +225,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.09,
-      "chaos": 8,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -267,8 +261,8 @@
     },
     {
       "name": "Set Implicit, Cluster Jewel",
-      "exalt": 0.22,
-      "chaos": 20,
+      "exalt": 0.49,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -291,8 +285,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.33,
-      "chaos": 28,
+      "exalt": 0.48,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
