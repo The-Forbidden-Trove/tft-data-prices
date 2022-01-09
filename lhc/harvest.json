@@ -1,5 +1,5 @@
 {
-  "date": 1641751345786,
+  "date": 1641762142179,
   "data": [
     {
       "name": "Augment Critical",
@@ -329,12 +329,6 @@
       "name": "Non-Red into Red Socket",
       "exalt": 0.46,
       "chaos": 38,
-      "lowConfidence": true
-    },
-    {
-      "name": "Six Links",
-      "exalt": 2,
-      "chaos": 176,
       "lowConfidence": true
     }
   ]
