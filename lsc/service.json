@@ -1,10 +1,10 @@
 {
-  "date": 1641762107469,
+  "date": 1641772900652,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
@@ -15,14 +15,14 @@
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 1.55,
-      "chaos": 240,
+      "exalt": 1.5,
+      "chaos": 233,
       "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
-      "exalt": 3.75,
-      "chaos": 578,
+      "exalt": 3.5,
+      "chaos": 539,
       "lowConfidence": false
     },
     {
@@ -40,12 +40,12 @@
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 1,
-      "chaos": 154,
+      "chaos": 153,
       "lowConfidence": false
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.33,
+      "exalt": 0.32,
       "chaos": 50,
       "lowConfidence": false
     },
