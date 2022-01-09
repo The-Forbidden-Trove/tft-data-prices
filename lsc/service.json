@@ -1,5 +1,5 @@
 {
-  "date": 1641740504540,
+  "date": 1641751310604,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,20 +9,20 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 1.25,
-      "chaos": 192,
+      "exalt": 1.5,
+      "chaos": 228,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 2,
-      "chaos": 304,
+      "exalt": 1.85,
+      "chaos": 285,
       "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
       "exalt": 3.75,
-      "chaos": 582,
+      "chaos": 572,
       "lowConfidence": false
     },
     {
@@ -75,21 +75,21 @@
     },
     {
       "name": "Apex of Ascension (Sacrifice)",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.21,
+      "chaos": 32,
       "lowConfidence": true
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.65,
-      "chaos": 100,
+      "exalt": 0.33,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 1.25,
-      "chaos": 192,
-      "lowConfidence": true
+      "exalt": 1,
+      "chaos": 154,
+      "lowConfidence": false
     }
   ]
 }
