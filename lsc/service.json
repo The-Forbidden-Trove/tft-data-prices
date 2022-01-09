@@ -1,5 +1,5 @@
 {
-  "date": 1641697301458,
+  "date": 1641708106605,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -28,13 +28,13 @@
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 1,
-      "chaos": 152,
+      "chaos": 153,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 154,
       "lowConfidence": false
     },
     {
@@ -51,9 +51,9 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.29,
-      "chaos": 45,
-      "lowConfidence": false
+      "exalt": 0.33,
+      "chaos": 50,
+      "lowConfidence": true
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.26,
-      "chaos": 40,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 1.25,
-      "chaos": 191,
+      "chaos": 194,
       "lowConfidence": false
     }
   ]
