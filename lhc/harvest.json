@@ -1,5 +1,5 @@
 {
-  "date": 1641718936746,
+  "date": 1641729744888,
   "data": [
     {
       "name": "Augment Critical",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 2,
-      "chaos": 164,
+      "exalt": 1.75,
+      "chaos": 144,
       "lowConfidence": true
     },
     {
@@ -165,8 +165,8 @@
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 2,
-      "chaos": 164,
+      "exalt": 1.75,
+      "chaos": 144,
       "lowConfidence": true
     },
     {
@@ -219,14 +219,14 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.09,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -273,8 +273,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.24,
-      "chaos": 20,
+      "exalt": 0.21,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
