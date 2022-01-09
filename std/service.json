@@ -1,5 +1,5 @@
 {
-  "date": 1641729787204,
+  "date": 1641740581712,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 8,
-      "chaos": 770,
+      "chaos": 768,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 2.5,
-      "chaos": 242,
+      "exalt": 3,
+      "chaos": 291,
       "lowConfidence": true
     },
     {
@@ -63,14 +63,14 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 1.5,
-      "chaos": 145,
+      "exalt": 1,
+      "chaos": 96,
       "lowConfidence": true
     },
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 6,
-      "chaos": 582,
+      "chaos": 576,
       "lowConfidence": false
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 386,
+      "chaos": 384,
       "lowConfidence": true
     }
   ]
