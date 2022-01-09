@@ -1,5 +1,5 @@
 {
-  "date": 1641708140283,
+  "date": 1641718936746,
   "data": [
     {
       "name": "Augment Critical",
@@ -81,8 +81,8 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 1.5,
-      "chaos": 131,
+      "exalt": 3.25,
+      "chaos": 286,
       "lowConfidence": true
     },
     {
@@ -141,8 +141,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 8,
-      "chaos": 664,
+      "exalt": 7.5,
+      "chaos": 622,
       "lowConfidence": true
     },
     {
