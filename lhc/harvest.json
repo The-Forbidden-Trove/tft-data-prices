@@ -1,5 +1,5 @@
 {
-  "date": 1641772936167,
+  "date": 1641783741037,
   "data": [
     {
       "name": "Augment Critical",
@@ -92,6 +92,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Randomise Influence Jewellery",
+      "exalt": 0.24,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
       "name": "Randomise Influence Weapon",
       "exalt": 9,
       "chaos": 774,
@@ -135,8 +141,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.31,
-      "chaos": 25,
+      "exalt": 0.28,
+      "chaos": 22,
       "lowConfidence": true
     },
     {
@@ -147,8 +153,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.18,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
