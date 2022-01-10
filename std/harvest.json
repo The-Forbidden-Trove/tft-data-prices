@@ -1,5 +1,5 @@
 {
-  "date": 1641816175176,
+  "date": 1641826981842,
   "data": [
     {
       "name": "Augment Attack",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Augment Attack Lucky",
-      "exalt": 15,
-      "chaos": 1455,
+      "exalt": 13.5,
+      "chaos": 1310,
       "lowConfidence": true
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "Augment Cold",
       "exalt": 10,
-      "chaos": 965,
+      "chaos": 970,
       "lowConfidence": true
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "name": "Augment Influence",
-      "exalt": 60,
-      "chaos": 5820,
+      "exalt": 70,
+      "chaos": 6755,
       "lowConfidence": true
     },
     {
@@ -165,32 +165,32 @@
     },
     {
       "name": "Enchant Body, Lightning Resist",
-      "exalt": 0.76,
-      "chaos": 74,
+      "exalt": 1,
+      "chaos": 97,
       "lowConfidence": true
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.52,
+      "exalt": 0.51,
       "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.51,
+      "chaos": 49,
       "lowConfidence": false
     },
     {
       "name": "Enchant Body, Strength",
-      "exalt": 0.47,
-      "chaos": 45,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "Enchant Map, Doesn't Consume Sextant",
       "exalt": 1,
-      "chaos": 96,
+      "chaos": 97,
       "lowConfidence": true
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "Enchant Weapon, Critical Strike Chance",
       "exalt": 1,
-      "chaos": 96,
+      "chaos": 97,
       "lowConfidence": false
     },
     {
@@ -244,7 +244,7 @@
     {
       "name": "Fracture 1/5",
       "exalt": 10,
-      "chaos": 975,
+      "chaos": 970,
       "lowConfidence": false
     },
     {
@@ -273,14 +273,14 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
       "name": "Reforge keep Prefix",
       "exalt": 5,
-      "chaos": 482,
+      "chaos": 485,
       "lowConfidence": false
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "Reforge Fire",
-      "exalt": 0.34,
-      "chaos": 32,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -387,8 +387,8 @@
     },
     {
       "name": "Reforge Defence",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
@@ -424,13 +424,13 @@
     {
       "name": "Reforge Influence More Common",
       "exalt": 10,
-      "chaos": 965,
+      "chaos": 970,
       "lowConfidence": false
     },
     {
       "name": "Reforge Rare Less Likely",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -471,14 +471,14 @@
     },
     {
       "name": "Remove Non-Fire Add Fire",
-      "exalt": 1,
-      "chaos": 97,
+      "exalt": 2,
+      "chaos": 194,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 5,
-      "chaos": 485,
+      "exalt": 4.75,
+      "chaos": 461,
       "lowConfidence": false
     },
     {
@@ -507,8 +507,8 @@
     },
     {
       "name": "Remove Non-Influence Add Influence",
-      "exalt": 40,
-      "chaos": 3840,
+      "exalt": 20,
+      "chaos": 1920,
       "lowConfidence": true
     },
     {
@@ -525,8 +525,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
@@ -555,20 +555,20 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.49,
-      "chaos": 48,
+      "exalt": 0.52,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.52,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -604,7 +604,7 @@
     {
       "name": "Non-Blue into Blue Socket",
       "exalt": 1,
-      "chaos": 96,
+      "chaos": 97,
       "lowConfidence": false
     },
     {
@@ -616,7 +616,7 @@
     {
       "name": "Non-Red into Red Socket",
       "exalt": 1,
-      "chaos": 96,
+      "chaos": 97,
       "lowConfidence": false
     },
     {
@@ -627,8 +627,8 @@
     },
     {
       "name": "Six Links",
-      "exalt": 4,
-      "chaos": 386,
+      "exalt": 5,
+      "chaos": 480,
       "lowConfidence": true
     }
   ]
