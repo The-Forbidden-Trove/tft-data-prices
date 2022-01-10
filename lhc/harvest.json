@@ -1,5 +1,5 @@
 {
-  "date": 1641783741037,
+  "date": 1641794536950,
   "data": [
     {
       "name": "Augment Critical",
@@ -77,12 +77,6 @@
       "name": "Fracture 1/3 Prefix",
       "exalt": 17,
       "chaos": 1411,
-      "lowConfidence": true
-    },
-    {
-      "name": "Sacrifice Divination Card 0-2x",
-      "exalt": 0.8,
-      "chaos": 70,
       "lowConfidence": true
     },
     {
