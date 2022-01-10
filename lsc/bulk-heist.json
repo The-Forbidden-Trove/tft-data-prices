@@ -1,9 +1,9 @@
 {
-  "date": 1641826913972,
+  "date": 1641837709794,
   "data": [
     {
       "name": "Enchanted Armaments",
-      "exalt": 0.06,
+      "exalt": 0.05,
       "chaos": 8,
       "lowConfidence": false
     },
@@ -29,7 +29,7 @@
       "name": "Agility",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Brute Force",
