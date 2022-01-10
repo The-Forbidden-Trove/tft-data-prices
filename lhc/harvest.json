@@ -1,5 +1,5 @@
 {
-  "date": 1641826946061,
+  "date": 1641837741123,
   "data": [
     {
       "name": "Augment Critical",
@@ -99,8 +99,8 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 3.25,
-      "chaos": 286,
+      "exalt": 1.5,
+      "chaos": 131,
       "lowConfidence": true
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 1.75,
-      "chaos": 144,
+      "exalt": 2,
+      "chaos": 164,
       "lowConfidence": true
     },
     {
@@ -147,8 +147,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -177,8 +177,8 @@
     },
     {
       "name": "Reforge Life More Common",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.15,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
@@ -237,8 +237,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.15,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
@@ -249,44 +249,44 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.12,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Cold to Fire Resist",
-      "exalt": 0.15,
-      "chaos": 12,
-      "lowConfidence": true
-    },
-    {
-      "name": "Cold to Lightning Resist",
-      "exalt": 0.22,
-      "chaos": 18,
-      "lowConfidence": true
-    },
-    {
-      "name": "Fire to Cold Resist",
       "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
     {
+      "name": "Cold to Fire Resist",
+      "exalt": 0.18,
+      "chaos": 15,
+      "lowConfidence": true
+    },
+    {
+      "name": "Cold to Lightning Resist",
+      "exalt": 0.37,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
+      "name": "Fire to Cold Resist",
+      "exalt": 0.4,
+      "chaos": 32,
+      "lowConfidence": true
+    },
+    {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.34,
-      "chaos": 28,
+      "exalt": 0.62,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -327,8 +327,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.46,
+      "chaos": 38,
       "lowConfidence": true
     }
   ]
