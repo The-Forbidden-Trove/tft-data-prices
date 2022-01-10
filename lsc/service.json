@@ -1,5 +1,5 @@
 {
-  "date": 1641837705810,
+  "date": 1641848500913,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -11,7 +11,7 @@
       "name": "Sirus Awaken 9",
       "exalt": 1,
       "chaos": 154,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
@@ -21,8 +21,8 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 3.73,
-      "chaos": 570,
+      "exalt": 3.75,
+      "chaos": 573,
       "lowConfidence": false
     },
     {
@@ -34,7 +34,7 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.26,
-      "chaos": 40,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Apex of Ascension (Sacrifice)",
-      "exalt": 0.26,
-      "chaos": 40,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
@@ -89,7 +89,7 @@
       "name": "Locus of Corruption (Item)",
       "exalt": 1,
       "chaos": 154,
-      "lowConfidence": false
+      "lowConfidence": true
     }
   ]
 }
