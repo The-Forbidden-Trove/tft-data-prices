@@ -1,5 +1,5 @@
 {
-  "date": 1641880945191,
+  "date": 1641891737869,
   "data": [
     {
       "name": "Augment Life",
@@ -105,8 +105,8 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 1.5,
-      "chaos": 131,
+      "exalt": 3.25,
+      "chaos": 286,
       "lowConfidence": true
     },
     {
