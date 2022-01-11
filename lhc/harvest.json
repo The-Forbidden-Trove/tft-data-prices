@@ -1,5 +1,5 @@
 {
-  "date": 1641902543207,
+  "date": 1641913339565,
   "data": [
     {
       "name": "Augment Life",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.21,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.24,
+      "exalt": 0.25,
       "chaos": 20,
       "lowConfidence": true
     },
@@ -279,7 +279,7 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.18,
+      "exalt": 0.19,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -297,26 +297,26 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.19,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.62,
-      "chaos": 50,
+      "exalt": 0.34,
+      "chaos": 28,
       "lowConfidence": true
     },
     {
