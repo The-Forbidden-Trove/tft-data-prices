@@ -1,6 +1,12 @@
 {
-  "date": 1641870139375,
+  "date": 1641880945191,
   "data": [
+    {
+      "name": "Augment Life",
+      "exalt": 13,
+      "chaos": 1053,
+      "lowConfidence": true
+    },
     {
       "name": "Augment Critical",
       "exalt": 2.5,
@@ -33,8 +39,8 @@
     },
     {
       "name": "Enchant Body, Strength",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.62,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -74,6 +80,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Synthesise an item",
+      "exalt": 3,
+      "chaos": 243,
+      "lowConfidence": true
+    },
+    {
       "name": "Randomise Influence Armour",
       "exalt": 0.19,
       "chaos": 15,
@@ -87,8 +99,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 9,
-      "chaos": 774,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -129,8 +141,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.28,
-      "chaos": 22,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -147,8 +159,8 @@
     },
     {
       "name": "Reforge Fire More Common",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -165,14 +177,14 @@
     },
     {
       "name": "Reforge Defence More Common",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Reforge Life More Common",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -183,8 +195,8 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -200,9 +212,21 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Rare More Likely",
+      "exalt": 0.25,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Speed",
-      "exalt": 0.5,
-      "chaos": 43,
+      "exalt": 0.25,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Speed More Common",
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -243,26 +267,26 @@
     },
     {
       "name": "Reroll Suffix Lucky",
+      "exalt": 0.25,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
+      "name": "Cold to Fire Resist",
       "exalt": 0.12,
       "chaos": 10,
       "lowConfidence": true
     },
     {
-      "name": "Cold to Fire Resist",
-      "exalt": 0.37,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.22,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.62,
-      "chaos": 50,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -309,14 +333,20 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.49,
-      "chaos": 40,
+      "exalt": 0.19,
+      "chaos": 15,
+      "lowConfidence": true
+    },
+    {
+      "name": "Non-Green into Green Socket",
+      "exalt": 0.62,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.15,
+      "chaos": 12,
       "lowConfidence": true
     }
   ]
