@@ -1,5 +1,5 @@
 {
-  "date": 1641924147461,
+  "date": 1641934940339,
   "data": [
     {
       "name": "Augment Life",
@@ -249,8 +249,8 @@
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 3,
-      "chaos": 243,
+      "exalt": 5,
+      "chaos": 405,
       "lowConfidence": true
     },
     {
@@ -261,8 +261,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.18,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.15,
-      "chaos": 12,
+      "exalt": 0.19,
+      "chaos": 15,
       "lowConfidence": true
     }
   ]
