@@ -1,5 +1,5 @@
 {
-  "date": 1641891703051,
+  "date": 1641902508564,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -58,7 +58,7 @@
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 152,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.49,
-      "chaos": 75,
+      "exalt": 0.33,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
