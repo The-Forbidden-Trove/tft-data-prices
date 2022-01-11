@@ -1,5 +1,5 @@
 {
-  "date": 1641859382208,
+  "date": 1641870182164,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -34,7 +34,7 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 7,
-      "chaos": 679,
+      "chaos": 677,
       "lowConfidence": false
     },
     {
@@ -75,14 +75,14 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 2,
-      "chaos": 192,
+      "exalt": 1,
+      "chaos": 97,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 388,
+      "chaos": 387,
       "lowConfidence": true
     }
   ]
