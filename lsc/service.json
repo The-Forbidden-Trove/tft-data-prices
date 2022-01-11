@@ -1,10 +1,10 @@
 {
-  "date": 1641870104221,
+  "date": 1641880908327,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 154,
+      "chaos": 153,
       "lowConfidence": false
     },
     {
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 4,
-      "chaos": 612,
+      "chaos": 610,
       "lowConfidence": false
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.33,
-      "chaos": 50,
+      "exalt": 0.49,
+      "chaos": 75,
       "lowConfidence": true
     },
     {
