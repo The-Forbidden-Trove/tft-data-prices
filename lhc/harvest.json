@@ -1,5 +1,5 @@
 {
-  "date": 1641859340236,
+  "date": 1641870139375,
   "data": [
     {
       "name": "Augment Critical",
@@ -35,12 +35,6 @@
       "name": "Enchant Body, Strength",
       "exalt": 0.06,
       "chaos": 5,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Map, Doesn't Consume Sextant",
-      "exalt": 0.68,
-      "chaos": 60,
       "lowConfidence": true
     },
     {
@@ -135,8 +129,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.24,
-      "chaos": 20,
+      "exalt": 0.28,
+      "chaos": 22,
       "lowConfidence": true
     },
     {
@@ -147,8 +141,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.24,
-      "chaos": 20,
+      "exalt": 0.18,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
