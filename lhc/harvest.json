@@ -1,5 +1,5 @@
 {
-  "date": 1641913339565,
+  "date": 1641924147461,
   "data": [
     {
       "name": "Augment Life",
@@ -111,8 +111,8 @@
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 3.25,
-      "chaos": 286,
+      "exalt": 1.5,
+      "chaos": 131,
       "lowConfidence": true
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 1.75,
-      "chaos": 144,
+      "exalt": 2,
+      "chaos": 164,
       "lowConfidence": true
     },
     {
@@ -159,8 +159,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -254,12 +254,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Remove Non-Defence Add Defence",
-      "exalt": 1.36,
-      "chaos": 120,
-      "lowConfidence": true
-    },
-    {
       "name": "Remove Non-Life Add Life",
       "exalt": 12,
       "chaos": 996,
@@ -303,20 +297,20 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.34,
-      "chaos": 28,
+      "exalt": 0.62,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
