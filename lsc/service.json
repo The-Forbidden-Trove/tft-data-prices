@@ -1,11 +1,11 @@
 {
-  "date": 1641934906017,
+  "date": 1641945701520,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
       "chaos": 154,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Sirus Awaken 9",
@@ -17,12 +17,12 @@
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 1.5,
       "chaos": 230,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
-      "exalt": 3.75,
-      "chaos": 574,
+      "exalt": 3.5,
+      "chaos": 538,
       "lowConfidence": false
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.23,
-      "chaos": 35,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
