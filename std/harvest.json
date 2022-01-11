@@ -1,5 +1,5 @@
 {
-  "date": 1641891774592,
+  "date": 1641902581515,
   "data": [
     {
       "name": "Augment Attack",
@@ -22,7 +22,7 @@
     {
       "name": "Augment Caster Lucky",
       "exalt": 13,
-      "chaos": 1248,
+      "chaos": 1261,
       "lowConfidence": true
     },
     {
@@ -51,20 +51,20 @@
     },
     {
       "name": "Augment Fire",
-      "exalt": 24.5,
-      "chaos": 2356,
+      "exalt": 15,
+      "chaos": 1455,
       "lowConfidence": true
     },
     {
       "name": "Augment Fire Lucky",
-      "exalt": 30,
-      "chaos": 2910,
+      "exalt": 45,
+      "chaos": 4365,
       "lowConfidence": true
     },
     {
       "name": "Augment Lightning",
-      "exalt": 9.5,
-      "chaos": 929,
+      "exalt": 15,
+      "chaos": 1455,
       "lowConfidence": true
     },
     {
@@ -93,9 +93,9 @@
     },
     {
       "name": "Augment Life",
-      "exalt": 35,
-      "chaos": 3395,
-      "lowConfidence": false
+      "exalt": 37.5,
+      "chaos": 3628,
+      "lowConfidence": true
     },
     {
       "name": "Augment Life Lucky",
@@ -147,8 +147,8 @@
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -177,8 +177,8 @@
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 0.6,
-      "chaos": 59,
+      "exalt": 0.71,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
@@ -215,7 +215,7 @@
       "name": "Enchant Weapon, Critical Strike Chance",
       "exalt": 1,
       "chaos": 97,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Enchant Weapon, Elemental Damage",
@@ -231,8 +231,8 @@
     },
     {
       "name": "Fracture 1/3 Prefix",
-      "exalt": 25,
-      "chaos": 2400,
+      "exalt": 27.5,
+      "chaos": 2655,
       "lowConfidence": true
     },
     {
@@ -255,8 +255,8 @@
     },
     {
       "name": "Synthesise an item",
-      "exalt": 12,
-      "chaos": 1164,
+      "exalt": 13.5,
+      "chaos": 1310,
       "lowConfidence": true
     },
     {
@@ -286,7 +286,7 @@
     {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 5,
-      "chaos": 485,
+      "chaos": 486,
       "lowConfidence": false
     },
     {
@@ -321,8 +321,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.39,
-      "chaos": 38,
+      "exalt": 0.4,
+      "chaos": 39,
       "lowConfidence": false
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -435,8 +435,8 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.44,
+      "chaos": 42,
       "lowConfidence": false
     },
     {
@@ -465,8 +465,8 @@
     },
     {
       "name": "Remove Non-Cold Add Cold",
-      "exalt": 11,
-      "chaos": 1065,
+      "exalt": 3,
+      "chaos": 288,
       "lowConfidence": true
     },
     {
@@ -477,8 +477,8 @@
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 5,
-      "chaos": 485,
+      "exalt": 4.5,
+      "chaos": 436,
       "lowConfidence": false
     },
     {
@@ -489,8 +489,8 @@
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
-      "exalt": 13.5,
-      "chaos": 1308,
+      "exalt": 12.75,
+      "chaos": 1236,
       "lowConfidence": true
     },
     {
@@ -555,14 +555,14 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.44,
+      "chaos": 42,
       "lowConfidence": false
     },
     {
@@ -585,8 +585,8 @@
     },
     {
       "name": "Set Implicit, Abyss/Timeless Jewel",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -603,8 +603,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.86,
-      "chaos": 83,
+      "exalt": 1,
+      "chaos": 96,
       "lowConfidence": false
     },
     {
