@@ -1,10 +1,10 @@
 {
-  "date": 1642021302307,
+  "date": 1642032106863,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.32,
+      "exalt": 0.33,
       "chaos": 50,
       "lowConfidence": false
     },
@@ -88,7 +88,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 3,
-      "chaos": 462,
+      "chaos": 459,
       "lowConfidence": true
     }
   ]
