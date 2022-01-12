@@ -1,5 +1,5 @@
 {
-  "date": 1641988953009,
+  "date": 1641999746481,
   "data": [
     {
       "name": "Augment Life",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.21,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.19,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -134,12 +134,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Attack",
-      "exalt": 0.11,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Caster",
       "exalt": 0.25,
       "chaos": 20,
@@ -176,12 +170,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Chaos",
-      "exalt": 0.11,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Defence More Common",
       "exalt": 0.25,
       "chaos": 20,
@@ -214,7 +202,7 @@
     {
       "name": "Reforge Rare Less Likely",
       "exalt": 1,
-      "chaos": 86,
+      "chaos": 81,
       "lowConfidence": true
     },
     {
@@ -291,26 +279,32 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.34,
+      "chaos": 28,
       "lowConfidence": true
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.62,
-      "chaos": 50,
+      "exalt": 0.49,
+      "chaos": 40,
+      "lowConfidence": true
+    },
+    {
+      "name": "Sacrifice Gem, 50% XP As Facetor Lens",
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
