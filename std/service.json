@@ -1,5 +1,5 @@
 {
-  "date": 1641967378377,
+  "date": 1641978187885,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 8,
-      "chaos": 776,
+      "chaos": 768,
       "lowConfidence": false
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 6,
-      "chaos": 584,
+      "exalt": 6.5,
+      "chaos": 630,
       "lowConfidence": false
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 3.65,
-      "chaos": 354,
+      "exalt": 3.5,
+      "chaos": 339,
       "lowConfidence": true
     }
   ]
