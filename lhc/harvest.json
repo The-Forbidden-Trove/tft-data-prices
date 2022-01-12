@@ -1,5 +1,5 @@
 {
-  "date": 1641967336040,
+  "date": 1641978144899,
   "data": [
     {
       "name": "Augment Life",
@@ -113,12 +113,6 @@
       "name": "Randomise Influence Weapon",
       "exalt": 0.25,
       "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge keep Prefix",
-      "exalt": 1.5,
-      "chaos": 131,
       "lowConfidence": true
     },
     {
