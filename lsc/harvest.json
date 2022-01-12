@@ -1,5 +1,5 @@
 {
-  "date": 1641978101883,
+  "date": 1641980860872,
   "data": [
     {
       "name": "Augment Attack",
@@ -64,7 +64,7 @@
     {
       "name": "Augment Lightning",
       "exalt": 9,
-      "chaos": 1382,
+      "chaos": 1377,
       "lowConfidence": true
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Augment Chaos",
-      "exalt": 12,
-      "chaos": 1836,
+      "exalt": 10.5,
+      "chaos": 1606,
       "lowConfidence": true
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "name": "Enchant Weapon, Critical Strike Chance",
-      "exalt": 0.25,
-      "chaos": 38,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -477,8 +477,8 @@
     },
     {
       "name": "Remove Non-Cold Add Cold",
-      "exalt": 1.5,
-      "chaos": 230,
+      "exalt": 1.38,
+      "chaos": 210,
       "lowConfidence": true
     },
     {
