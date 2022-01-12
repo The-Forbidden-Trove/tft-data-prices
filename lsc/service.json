@@ -1,5 +1,5 @@
 {
-  "date": 1641978108469,
+  "date": 1641980867613,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -65,7 +65,7 @@
       "name": "T4/T3 Tora 200m Gem XP",
       "exalt": 0.26,
       "chaos": 40,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "T4 Vorici 1-6 White",
