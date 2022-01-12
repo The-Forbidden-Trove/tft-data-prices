@@ -1,5 +1,5 @@
 {
-  "date": 1641988919775,
+  "date": 1641999714163,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -15,14 +15,14 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.09,
-      "chaos": 14,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
       "name": "Unusual Gems",
       "exalt": 0.14,
-      "chaos": 21,
+      "chaos": 22,
       "lowConfidence": false
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "Counter-Thaumaturgy",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "Lockpicking",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
