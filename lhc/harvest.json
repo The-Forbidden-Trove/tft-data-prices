@@ -1,5 +1,5 @@
 {
-  "date": 1641999746481,
+  "date": 1642010542238,
   "data": [
     {
       "name": "Augment Life",
@@ -116,6 +116,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge keep Prefix",
+      "exalt": 2,
+      "chaos": 162,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 2,
       "chaos": 164,
@@ -153,8 +159,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -179,12 +185,6 @@
       "name": "Reforge Life More Common",
       "exalt": 0.25,
       "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Critical",
-      "exalt": 0.5,
-      "chaos": 43,
       "lowConfidence": true
     },
     {
@@ -285,14 +285,14 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
