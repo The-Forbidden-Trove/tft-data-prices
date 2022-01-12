@@ -1,5 +1,5 @@
 {
-  "date": 1641999789050,
+  "date": 1642010585378,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -21,20 +21,20 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 7.5,
-      "chaos": 727,
+      "exalt": 8,
+      "chaos": 768,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 6,
-      "chaos": 579,
+      "exalt": 7,
+      "chaos": 675,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 7,
-      "chaos": 676,
+      "chaos": 672,
       "lowConfidence": false
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.52,
+      "exalt": 0.51,
       "chaos": 50,
       "lowConfidence": true
     },
@@ -69,8 +69,8 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 6,
-      "chaos": 582,
+      "exalt": 6.5,
+      "chaos": 627,
       "lowConfidence": false
     },
     {
