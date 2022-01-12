@@ -1,5 +1,5 @@
 {
-  "date": 1642010506812,
+  "date": 1642021302307,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 3.5,
-      "chaos": 536,
+      "chaos": 539,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.23,
-      "chaos": 35,
+      "exalt": 0.21,
+      "chaos": 32,
       "lowConfidence": false
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Apex of Ascension (Sacrifice)",
-      "exalt": 0.26,
-      "chaos": 40,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 2,
-      "chaos": 306,
+      "exalt": 3,
+      "chaos": 462,
       "lowConfidence": true
     }
   ]
