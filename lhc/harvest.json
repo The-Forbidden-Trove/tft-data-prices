@@ -1,5 +1,5 @@
 {
-  "date": 1642064541009,
+  "date": 1642075337420,
   "data": [
     {
       "name": "Augment Life",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.73,
-      "chaos": 60,
+      "exalt": 0.99,
+      "chaos": 80,
       "lowConfidence": true
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.18,
+      "exalt": 0.19,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -99,14 +99,14 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.19,
-      "chaos": 15,
+      "exalt": 0.4,
+      "chaos": 32,
       "lowConfidence": true
     },
     {
       "name": "Randomise Influence Jewellery",
-      "exalt": 0.24,
-      "chaos": 20,
+      "exalt": 0.62,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -182,9 +182,15 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Life",
+      "exalt": 0.37,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Life More Common",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -207,8 +213,8 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -261,8 +267,8 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.15,
-      "chaos": 12,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -285,14 +291,14 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
