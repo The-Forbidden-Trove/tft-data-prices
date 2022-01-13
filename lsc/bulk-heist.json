@@ -1,10 +1,10 @@
 {
-  "date": 1642064509015,
+  "date": 1642075304954,
   "data": [
     {
       "name": "Enchanted Armaments",
-      "exalt": 0.07,
-      "chaos": 10,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": false
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": false
     },
