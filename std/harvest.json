@@ -1,5 +1,5 @@
 {
-  "date": 1642053782493,
+  "date": 1642064576967,
   "data": [
     {
       "name": "Augment Attack",
@@ -64,7 +64,7 @@
     {
       "name": "Augment Lightning",
       "exalt": 10,
-      "chaos": 960,
+      "chaos": 965,
       "lowConfidence": true
     },
     {
@@ -94,7 +94,7 @@
     {
       "name": "Augment Life",
       "exalt": 45,
-      "chaos": 4320,
+      "chaos": 4345,
       "lowConfidence": true
     },
     {
@@ -107,7 +107,7 @@
       "name": "Augment Critical",
       "exalt": 30,
       "chaos": 2880,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Augment Critical Lucky",
@@ -190,7 +190,7 @@
     {
       "name": "Enchant Map, Doesn't Consume Sextant",
       "exalt": 2,
-      "chaos": 192,
+      "chaos": 194,
       "lowConfidence": true
     },
     {
@@ -225,9 +225,9 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.52,
-      "chaos": 50,
-      "lowConfidence": false
+      "exalt": 0.76,
+      "chaos": 73,
+      "lowConfidence": true
     },
     {
       "name": "Fracture 1/3 Prefix",
@@ -267,8 +267,8 @@
     },
     {
       "name": "Randomise Influence Jewellery",
-      "exalt": 1,
-      "chaos": 96,
+      "exalt": 0.97,
+      "chaos": 93,
       "lowConfidence": false
     },
     {
@@ -280,7 +280,7 @@
     {
       "name": "Reforge keep Prefix",
       "exalt": 5,
-      "chaos": 480,
+      "chaos": 482,
       "lowConfidence": false
     },
     {
@@ -315,14 +315,14 @@
     },
     {
       "name": "Reforge Caster",
-      "exalt": 0.21,
-      "chaos": 20,
+      "exalt": 0.1,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.27,
-      "chaos": 26,
+      "exalt": 0.16,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -441,14 +441,14 @@
     },
     {
       "name": "Reforge Speed",
-      "exalt": 0.21,
-      "chaos": 20,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
       "name": "Reforge Speed More Common",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -459,21 +459,21 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 9,
-      "chaos": 864,
-      "lowConfidence": true
+      "exalt": 8,
+      "chaos": 768,
+      "lowConfidence": false
     },
     {
       "name": "Remove Non-Cold Add Cold",
-      "exalt": 8.5,
-      "chaos": 816,
+      "exalt": 7.75,
+      "chaos": 744,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Fire Add Fire",
       "exalt": 1,
       "chaos": 96,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
@@ -497,12 +497,12 @@
       "name": "Remove Non-Critical Add Critical",
       "exalt": 20,
       "chaos": 1920,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Defence Add Defence",
-      "exalt": 8,
-      "chaos": 768,
+      "exalt": 7.5,
+      "chaos": 724,
       "lowConfidence": false
     },
     {
@@ -561,8 +561,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.47,
-      "chaos": 45,
+      "exalt": 0.42,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -598,7 +598,7 @@
     {
       "name": "Set Implicit, Cluster Jewel",
       "exalt": 1.5,
-      "chaos": 145,
+      "chaos": 144,
       "lowConfidence": false
     },
     {
@@ -609,8 +609,8 @@
     },
     {
       "name": "Non-Green into Green Socket",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.63,
+      "chaos": 60,
       "lowConfidence": false
     },
     {
