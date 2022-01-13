@@ -1,16 +1,10 @@
 {
-  "date": 1642086144131,
+  "date": 1642096938461,
   "data": [
     {
       "name": "Augment Life",
       "exalt": 13,
       "chaos": 1053,
-      "lowConfidence": true
-    },
-    {
-      "name": "Augment Critical",
-      "exalt": 2.5,
-      "chaos": 213,
       "lowConfidence": true
     },
     {
@@ -159,8 +153,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -273,8 +267,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -285,26 +279,26 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.34,
-      "chaos": 28,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.49,
-      "chaos": 40,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -353,6 +347,12 @@
       "name": "Non-Red into Red Socket",
       "exalt": 0.06,
       "chaos": 5,
+      "lowConfidence": true
+    },
+    {
+      "name": "Six Links",
+      "exalt": 2.5,
+      "chaos": 203,
       "lowConfidence": true
     }
   ]
