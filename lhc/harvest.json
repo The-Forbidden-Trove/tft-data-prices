@@ -1,5 +1,5 @@
 {
-  "date": 1642042939400,
+  "date": 1642053745677,
   "data": [
     {
       "name": "Augment Life",
@@ -33,8 +33,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.22,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -207,8 +207,8 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -261,14 +261,14 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.19,
-      "chaos": 15,
+      "exalt": 0.15,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.06,
+      "chaos": 5,
       "lowConfidence": true
     }
   ]
