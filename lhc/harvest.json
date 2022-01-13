@@ -1,5 +1,5 @@
 {
-  "date": 1642075337420,
+  "date": 1642086144131,
   "data": [
     {
       "name": "Augment Life",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.21,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.19,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -99,8 +99,8 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.4,
-      "chaos": 32,
+      "exalt": 0.62,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -285,20 +285,20 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.31,
-      "chaos": 25,
+      "exalt": 0.34,
+      "chaos": 28,
       "lowConfidence": true
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
