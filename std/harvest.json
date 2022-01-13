@@ -1,5 +1,5 @@
 {
-  "date": 1642075373716,
+  "date": 1642086180363,
   "data": [
     {
       "name": "Augment Attack",
@@ -22,13 +22,13 @@
     {
       "name": "Augment Caster Lucky",
       "exalt": 13,
-      "chaos": 1248,
+      "chaos": 1261,
       "lowConfidence": true
     },
     {
       "name": "Augment Physical",
-      "exalt": 7,
-      "chaos": 672,
+      "exalt": 53.5,
+      "chaos": 5186,
       "lowConfidence": true
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Augment Fire",
-      "exalt": 12.5,
-      "chaos": 1212,
+      "exalt": 12,
+      "chaos": 1164,
       "lowConfidence": true
     },
     {
@@ -94,7 +94,7 @@
     {
       "name": "Augment Life",
       "exalt": 45,
-      "chaos": 4345,
+      "chaos": 4332,
       "lowConfidence": true
     },
     {
@@ -273,8 +273,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.44,
+      "chaos": 42,
       "lowConfidence": false
     },
     {
@@ -309,8 +309,8 @@
     },
     {
       "name": "Reforge Attack More Common",
-      "exalt": 0.23,
-      "chaos": 22,
+      "exalt": 0.21,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -435,14 +435,14 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "Reforge Speed",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.21,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -472,19 +472,19 @@
     {
       "name": "Remove Non-Fire Add Fire",
       "exalt": 4,
-      "chaos": 386,
+      "chaos": 388,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
       "exalt": 5.5,
-      "chaos": 530,
+      "chaos": 529,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Physical Add Physical",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 4.5,
+      "chaos": 432,
       "lowConfidence": true
     },
     {
@@ -495,15 +495,15 @@
     },
     {
       "name": "Remove Non-Critical Add Critical",
-      "exalt": 20,
-      "chaos": 1920,
+      "exalt": 17.5,
+      "chaos": 1680,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Defence Add Defence",
-      "exalt": 8,
-      "chaos": 768,
-      "lowConfidence": false
+      "exalt": 14,
+      "chaos": 1344,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Influence Add Influence",
@@ -549,8 +549,8 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.42,
-      "chaos": 40,
+      "exalt": 0.47,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
