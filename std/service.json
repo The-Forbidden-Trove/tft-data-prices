@@ -1,16 +1,16 @@
 {
-  "date": 1642042983438,
+  "date": 1642053789167,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 2,
-      "chaos": 194,
+      "exalt": 1.5,
+      "chaos": 146,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 2.75,
-      "chaos": 267,
+      "exalt": 1.5,
+      "chaos": 144,
       "lowConfidence": true
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 8,
-      "chaos": 768,
+      "exalt": 7,
+      "chaos": 677,
       "lowConfidence": false
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 3.5,
-      "chaos": 338,
+      "exalt": 3,
+      "chaos": 294,
       "lowConfidence": true
     }
   ]
