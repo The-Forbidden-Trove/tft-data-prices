@@ -1,16 +1,16 @@
 {
-  "date": 1642118503385,
+  "date": 1642129309557,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 152,
+      "chaos": 153,
       "lowConfidence": false
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 2,
-      "chaos": 306,
+      "exalt": 1.75,
+      "chaos": 266,
       "lowConfidence": true
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 1.5,
-      "chaos": 228,
+      "exalt": 1.75,
+      "chaos": 266,
       "lowConfidence": true
     }
   ]
