@@ -1,5 +1,5 @@
 {
-  "date": 1642183345746,
+  "date": 1642194140534,
   "data": [
     {
       "name": "Augment Defence",
@@ -71,12 +71,6 @@
       "name": "Enchant Weapon, Weapon Range",
       "exalt": 0.18,
       "chaos": 15,
-      "lowConfidence": true
-    },
-    {
-      "name": "Fracture 1/3 Prefix",
-      "exalt": 17,
-      "chaos": 1411,
       "lowConfidence": true
     },
     {
@@ -239,12 +233,6 @@
       "name": "Remove Non-Lightning Add Lightning",
       "exalt": 5,
       "chaos": 405,
-      "lowConfidence": true
-    },
-    {
-      "name": "Remove Non-Life Add Life",
-      "exalt": 12,
-      "chaos": 996,
       "lowConfidence": true
     },
     {
