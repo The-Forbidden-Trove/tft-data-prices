@@ -1,5 +1,5 @@
 {
-  "date": 1642129345045,
+  "date": 1642140142781,
   "data": [
     {
       "name": "Augment Life",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.22,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -267,8 +267,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.19,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.19,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
