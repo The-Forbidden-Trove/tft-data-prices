@@ -1,5 +1,5 @@
 {
-  "date": 1642150979980,
+  "date": 1642161787144,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -70,19 +70,19 @@
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 485,
       "lowConfidence": false
     },
     {
       "name": "Doryani Institute (Gem)",
       "exalt": 1,
-      "chaos": 98,
+      "chaos": 97,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 3.5,
-      "chaos": 336,
+      "exalt": 4,
+      "chaos": 388,
       "lowConfidence": true
     }
   ]
