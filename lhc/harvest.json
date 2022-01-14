@@ -1,5 +1,5 @@
 {
-  "date": 1642161743857,
+  "date": 1642172539884,
   "data": [
     {
       "name": "Augment Life",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 0.21,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.19,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -93,8 +93,8 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.4,
-      "chaos": 32,
+      "exalt": 2,
+      "chaos": 160,
       "lowConfidence": true
     },
     {
@@ -105,8 +105,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 3,
+      "chaos": 240,
       "lowConfidence": true
     },
     {
@@ -285,8 +285,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -309,14 +309,14 @@
     },
     {
       "name": "Set Implicit, Abyss/Timeless Jewel",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 1,
+      "chaos": 80,
       "lowConfidence": true
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.06,
-      "chaos": 5,
+      "exalt": 1,
+      "chaos": 80,
       "lowConfidence": true
     },
     {
