@@ -1,5 +1,5 @@
 {
-  "date": 1642140110400,
+  "date": 1642150904533,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -40,7 +40,7 @@
     {
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
-      "chaos": 2,
+      "chaos": 3,
       "lowConfidence": false
     },
     {
