@@ -1,5 +1,5 @@
 {
-  "date": 1642150936617,
+  "date": 1642161743857,
   "data": [
     {
       "name": "Augment Life",
@@ -63,7 +63,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.18,
+      "exalt": 0.19,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -93,8 +93,8 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.62,
-      "chaos": 50,
+      "exalt": 0.4,
+      "chaos": 32,
       "lowConfidence": true
     },
     {
@@ -285,8 +285,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
