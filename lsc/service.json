@@ -1,10 +1,10 @@
 {
-  "date": 1642172503647,
+  "date": 1642183308940,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 0.83,
-      "chaos": 125,
+      "exalt": 1,
+      "chaos": 151,
       "lowConfidence": true
     },
     {
@@ -15,32 +15,32 @@
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 2,
-      "chaos": 304,
+      "exalt": 1.6,
+      "chaos": 246,
       "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 462,
+      "chaos": 459,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
-      "chaos": 152,
+      "chaos": 153,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 1,
-      "chaos": 152,
+      "chaos": 153,
       "lowConfidence": false
     },
     {
@@ -53,7 +53,7 @@
       "name": "T3/T2/T1 Vorici White",
       "exalt": 0.2,
       "chaos": 30,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.21,
-      "chaos": 32,
+      "exalt": 0.2,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -75,14 +75,14 @@
     },
     {
       "name": "Apex of Ascension (Sacrifice)",
-      "exalt": 0.23,
-      "chaos": 35,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.33,
-      "chaos": 50,
+      "exalt": 0.43,
+      "chaos": 65,
       "lowConfidence": true
     },
     {
