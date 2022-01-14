@@ -1,5 +1,5 @@
 {
-  "date": 1642129313278,
+  "date": 1642140110400,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -35,12 +35,12 @@
       "name": "Brute Force",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
