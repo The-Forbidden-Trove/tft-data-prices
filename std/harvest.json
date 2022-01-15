@@ -1,5 +1,5 @@
 {
-  "date": 1642215777550,
+  "date": 1642226572883,
   "data": [
     {
       "name": "Augment Attack",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Augment Caster",
-      "exalt": 15,
-      "chaos": 1470,
+      "exalt": 12.5,
+      "chaos": 1220,
       "lowConfidence": true
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "Augment Physical",
-      "exalt": 62.5,
-      "chaos": 6125,
+      "exalt": 25,
+      "chaos": 2425,
       "lowConfidence": true
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "Augment Cold",
       "exalt": 10,
-      "chaos": 978,
+      "chaos": 975,
       "lowConfidence": true
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Augment Fire",
-      "exalt": 16,
-      "chaos": 1560,
+      "exalt": 20.5,
+      "chaos": 2005,
       "lowConfidence": true
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 12.5,
-      "chaos": 1221,
+      "exalt": 15,
+      "chaos": 1462,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Augment Defence",
-      "exalt": 9.5,
-      "chaos": 931,
+      "exalt": 10,
+      "chaos": 980,
       "lowConfidence": true
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "name": "Augment Critical",
-      "exalt": 27.5,
-      "chaos": 2689,
+      "exalt": 30,
+      "chaos": 2940,
       "lowConfidence": true
     },
     {
@@ -106,13 +106,13 @@
     {
       "name": "Augment Influence",
       "exalt": 80,
-      "chaos": 7840,
+      "chaos": 7760,
       "lowConfidence": true
     },
     {
       "name": "Augment Influence Lucky",
-      "exalt": 65,
-      "chaos": 6330,
+      "exalt": 50,
+      "chaos": 4900,
       "lowConfidence": true
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.61,
+      "exalt": 0.62,
       "chaos": 60,
       "lowConfidence": false
     },
@@ -213,8 +213,8 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.76,
+      "chaos": 74,
       "lowConfidence": true
     },
     {
@@ -249,8 +249,8 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -261,8 +261,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -273,8 +273,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 5.25,
-      "chaos": 512,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": false
     },
     {
@@ -286,7 +286,7 @@
     {
       "name": "Reforge keep Suffix Lucky",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 485,
       "lowConfidence": false
     },
     {
@@ -412,7 +412,7 @@
     {
       "name": "Reforge Influence More Common",
       "exalt": 10,
-      "chaos": 980,
+      "chaos": 975,
       "lowConfidence": false
     },
     {
@@ -459,14 +459,14 @@
     },
     {
       "name": "Remove Non-Fire Add Fire",
-      "exalt": 7,
-      "chaos": 679,
+      "exalt": 6,
+      "chaos": 582,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
       "exalt": 6,
-      "chaos": 588,
+      "chaos": 586,
       "lowConfidence": true
     },
     {
@@ -489,8 +489,8 @@
     },
     {
       "name": "Remove Non-Defence Add Defence",
-      "exalt": 7,
-      "chaos": 686,
+      "exalt": 8,
+      "chaos": 776,
       "lowConfidence": true
     },
     {
@@ -537,8 +537,8 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -591,7 +591,7 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.51,
+      "exalt": 0.52,
       "chaos": 50,
       "lowConfidence": false
     },
