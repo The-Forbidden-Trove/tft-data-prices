@@ -1,10 +1,10 @@
 {
-  "date": 1642269784200,
+  "date": 1642280578747,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 1.25,
-      "chaos": 122,
+      "exalt": 1,
+      "chaos": 98,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 7.5,
-      "chaos": 731,
+      "exalt": 8,
+      "chaos": 776,
       "lowConfidence": false
     },
     {
@@ -34,13 +34,13 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 6,
-      "chaos": 588,
+      "chaos": 582,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 5,
-      "chaos": 488,
+      "exalt": 4.5,
+      "chaos": 436,
       "lowConfidence": true
     },
     {
@@ -52,8 +52,8 @@
     {
       "name": "T3/T2/T1 Vorici White",
       "exalt": 3,
-      "chaos": 291,
-      "lowConfidence": false
+      "chaos": 294,
+      "lowConfidence": true
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
@@ -69,20 +69,20 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 5.5,
-      "chaos": 536,
+      "exalt": 6,
+      "chaos": 582,
       "lowConfidence": false
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 1.39,
-      "chaos": 136,
+      "exalt": 1,
+      "chaos": 98,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 3.75,
-      "chaos": 366,
+      "exalt": 4,
+      "chaos": 388,
       "lowConfidence": true
     }
   ]
