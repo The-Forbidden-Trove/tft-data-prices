@@ -1,5 +1,5 @@
 {
-  "date": 1642237343716,
+  "date": 1642248140484,
   "data": [
     {
       "name": "Augment Defence",
@@ -63,7 +63,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.18,
+      "exalt": 0.19,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -267,8 +267,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
