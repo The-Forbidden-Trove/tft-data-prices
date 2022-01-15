@@ -1,5 +1,5 @@
 {
-  "date": 1642215709883,
+  "date": 1642226505475,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.08,
-      "chaos": 12,
+      "exalt": 0.07,
+      "chaos": 11,
       "lowConfidence": false
     },
     {
@@ -29,19 +29,19 @@
       "name": "Agility",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Brute Force",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Counter-Thaumaturgy",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Deception",
@@ -59,7 +59,7 @@
       "name": "Engineering",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Lockpicking",
