@@ -1,5 +1,5 @@
 {
-  "date": 1642204935679,
+  "date": 1642215741670,
   "data": [
     {
       "name": "Augment Defence",
@@ -147,8 +147,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.24,
-      "chaos": 20,
+      "exalt": 0.18,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
