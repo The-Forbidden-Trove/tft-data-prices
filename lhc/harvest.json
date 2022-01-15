@@ -1,5 +1,5 @@
 {
-  "date": 1642248140484,
+  "date": 1642258946236,
   "data": [
     {
       "name": "Augment Defence",
@@ -17,12 +17,6 @@
       "name": "Augment Non-Influence Lucky",
       "exalt": 0.99,
       "chaos": 80,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Body, Intelligence",
-      "exalt": 0.06,
-      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -63,7 +57,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.19,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -267,8 +261,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
