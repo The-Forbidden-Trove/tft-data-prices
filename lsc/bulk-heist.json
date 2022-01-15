@@ -1,5 +1,5 @@
 {
-  "date": 1642226505475,
+  "date": 1642237312109,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -29,7 +29,7 @@
       "name": "Agility",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Brute Force",
@@ -41,7 +41,7 @@
       "name": "Counter-Thaumaturgy",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Deception",
@@ -59,7 +59,7 @@
       "name": "Engineering",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Lockpicking",
