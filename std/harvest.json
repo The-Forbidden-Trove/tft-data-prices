@@ -1,5 +1,5 @@
 {
-  "date": 1642258982574,
+  "date": 1642269777785,
   "data": [
     {
       "name": "Augment Attack",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Augment Physical",
-      "exalt": 25,
-      "chaos": 2425,
+      "exalt": 22.5,
+      "chaos": 2192,
       "lowConfidence": true
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Augment Fire",
-      "exalt": 20,
-      "chaos": 1940,
+      "exalt": 18,
+      "chaos": 1754,
       "lowConfidence": false
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 12.5,
-      "chaos": 1220,
+      "exalt": 10,
+      "chaos": 970,
       "lowConfidence": true
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "Augment Life",
       "exalt": 32,
-      "chaos": 3136,
+      "chaos": 3104,
       "lowConfidence": true
     },
     {
@@ -106,7 +106,7 @@
     {
       "name": "Augment Influence",
       "exalt": 80,
-      "chaos": 7800,
+      "chaos": 7760,
       "lowConfidence": true
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.61,
-      "chaos": 60,
+      "exalt": 0.71,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
@@ -141,8 +141,8 @@
     },
     {
       "name": "Enchant Body, Fire Resist",
-      "exalt": 2,
-      "chaos": 196,
+      "exalt": 1.26,
+      "chaos": 123,
       "lowConfidence": true
     },
     {
@@ -159,15 +159,15 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.64,
+      "chaos": 62,
       "lowConfidence": false
     },
     {
       "name": "Enchant Body, Maximum Mana",
       "exalt": 0.71,
       "chaos": 70,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Enchant Body, Strength",
@@ -183,38 +183,38 @@
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.49,
+      "chaos": 48,
       "lowConfidence": false
     },
     {
       "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.71,
-      "chaos": 70,
-      "lowConfidence": false
-    },
-    {
-      "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.61,
-      "chaos": 60,
-      "lowConfidence": false
-    },
-    {
-      "name": "Enchant Weapon, Critical Strike Chance",
-      "exalt": 0.41,
-      "chaos": 40,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Elemental Damage",
       "exalt": 0.62,
       "chaos": 60,
       "lowConfidence": false
     },
     {
+      "name": "Enchant Weapon, Attack Speed",
+      "exalt": 0.56,
+      "chaos": 55,
+      "lowConfidence": false
+    },
+    {
+      "name": "Enchant Weapon, Critical Strike Chance",
+      "exalt": 0.31,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
+      "name": "Enchant Weapon, Elemental Damage",
+      "exalt": 0.67,
+      "chaos": 65,
+      "lowConfidence": false
+    },
+    {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 1,
-      "chaos": 97,
+      "exalt": 0.52,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -225,8 +225,8 @@
     },
     {
       "name": "Fracture 1/3 Suffix",
-      "exalt": 32.5,
-      "chaos": 3152,
+      "exalt": 40,
+      "chaos": 3880,
       "lowConfidence": true
     },
     {
@@ -238,13 +238,13 @@
     {
       "name": "Sacrifice Divination Card 0-2x",
       "exalt": 1,
-      "chaos": 98,
+      "chaos": 97,
       "lowConfidence": false
     },
     {
       "name": "Synthesise an item",
-      "exalt": 12.5,
-      "chaos": 1218,
+      "exalt": 15,
+      "chaos": 1455,
       "lowConfidence": true
     },
     {
@@ -280,7 +280,7 @@
     {
       "name": "Reforge keep Suffix",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 488,
       "lowConfidence": false
     },
     {
@@ -309,8 +309,8 @@
     },
     {
       "name": "Reforge Physical More Common",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.33,
+      "chaos": 32,
       "lowConfidence": true
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "Reforge Chaos",
-      "exalt": 0.2,
-      "chaos": 20,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
@@ -371,7 +371,7 @@
       "name": "Reforge Defence More Common",
       "exalt": 0.31,
       "chaos": 30,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Reforge Life",
@@ -393,14 +393,14 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 9.5,
-      "chaos": 926,
+      "exalt": 10,
+      "chaos": 970,
       "lowConfidence": false
     },
     {
@@ -447,26 +447,26 @@
     },
     {
       "name": "Remove Non-Fire Add Fire",
-      "exalt": 3,
-      "chaos": 292,
+      "exalt": 5,
+      "chaos": 485,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 6.5,
-      "chaos": 633,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": false
     },
     {
       "name": "Remove Non-Physical Add Physical",
-      "exalt": 10,
-      "chaos": 980,
+      "exalt": 10.5,
+      "chaos": 1029,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
       "exalt": 20,
-      "chaos": 1950,
+      "chaos": 1940,
       "lowConfidence": true
     },
     {
@@ -483,8 +483,8 @@
     },
     {
       "name": "Remove Non-Influence Add Influence",
-      "exalt": 150,
-      "chaos": 14550,
+      "exalt": 135,
+      "chaos": 13095,
       "lowConfidence": true
     },
     {
@@ -531,14 +531,14 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -604,7 +604,7 @@
     {
       "name": "Six Links",
       "exalt": 6,
-      "chaos": 588,
+      "chaos": 585,
       "lowConfidence": true
     }
   ]
