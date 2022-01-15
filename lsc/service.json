@@ -1,11 +1,11 @@
 {
-  "date": 1642248104795,
+  "date": 1642258910048,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
       "chaos": 152,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Sirus Awaken 9",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 3.5,
-      "chaos": 532,
+      "chaos": 536,
       "lowConfidence": false
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 1.4,
-      "chaos": 214,
+      "chaos": 212,
       "lowConfidence": true
     }
   ]
