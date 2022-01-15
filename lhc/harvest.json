@@ -1,5 +1,5 @@
 {
-  "date": 1642280536325,
+  "date": 1642291341939,
   "data": [
     {
       "name": "Augment Defence",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.22,
-      "chaos": 18,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -106,7 +106,7 @@
     {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 2,
-      "chaos": 162,
+      "chaos": 156,
       "lowConfidence": true
     },
     {
@@ -118,7 +118,7 @@
     {
       "name": "Reforge keep Suffix Lucky",
       "exalt": 2,
-      "chaos": 162,
+      "chaos": 156,
       "lowConfidence": true
     },
     {
@@ -225,13 +225,13 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.25,
+      "exalt": 0.26,
       "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.25,
+      "exalt": 0.26,
       "chaos": 20,
       "lowConfidence": true
     },
