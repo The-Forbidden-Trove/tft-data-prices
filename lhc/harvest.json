@@ -1,5 +1,5 @@
 {
-  "date": 1642258946236,
+  "date": 1642269741304,
   "data": [
     {
       "name": "Augment Defence",
@@ -141,8 +141,8 @@
     },
     {
       "name": "Reforge Cold More Common",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.19,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -261,8 +261,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.25,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
