@@ -1,5 +1,5 @@
 {
-  "date": 1642366944048,
+  "date": 1642377737510,
   "data": [
     {
       "name": "Augment Defence",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.22,
-      "chaos": 18,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -261,8 +261,8 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 1,
-      "chaos": 80,
+      "exalt": 0.19,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
