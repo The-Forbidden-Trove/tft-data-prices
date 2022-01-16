@@ -1,5 +1,5 @@
 {
-  "date": 1642334545421,
+  "date": 1642345343432,
   "data": [
     {
       "name": "Augment Defence",
@@ -17,12 +17,6 @@
       "name": "Augment Non-Influence Lucky",
       "exalt": 0.99,
       "chaos": 80,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Body, Lightning Resist",
-      "exalt": 0.62,
-      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -57,7 +51,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.19,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
@@ -119,12 +113,6 @@
       "name": "Reforge keep Suffix Lucky",
       "exalt": 2,
       "chaos": 156,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Caster",
-      "exalt": 0.25,
-      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -257,12 +245,6 @@
       "name": "Fire to Cold Resist",
       "exalt": 0.31,
       "chaos": 25,
-      "lowConfidence": true
-    },
-    {
-      "name": "Fire to Lightning Resist",
-      "exalt": 0.37,
-      "chaos": 30,
       "lowConfidence": true
     },
     {
