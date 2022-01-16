@@ -1,5 +1,5 @@
 {
-  "date": 1642356107269,
+  "date": 1642366911697,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -33,8 +33,8 @@
     },
     {
       "name": "Brute Force",
-      "exalt": 0.16,
-      "chaos": 25,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -52,14 +52,14 @@
     {
       "name": "Demolition",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
       "name": "Engineering",
-      "exalt": 0.1,
-      "chaos": 15,
-      "lowConfidence": true
+      "exalt": 0.01,
+      "chaos": 2,
+      "lowConfidence": false
     },
     {
       "name": "Lockpicking",
@@ -70,13 +70,13 @@
     {
       "name": "Perception",
       "exalt": 0.03,
-      "chaos": 4,
+      "chaos": 5,
       "lowConfidence": false
     },
     {
       "name": "Trap Disarmament",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.05,
+      "chaos": 8,
       "lowConfidence": true
     }
   ]
