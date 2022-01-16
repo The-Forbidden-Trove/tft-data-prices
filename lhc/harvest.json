@@ -1,5 +1,5 @@
 {
-  "date": 1642302138040,
+  "date": 1642312943351,
   "data": [
     {
       "name": "Augment Defence",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.22,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.19,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
