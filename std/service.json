@@ -1,10 +1,10 @@
 {
-  "date": 1642345386110,
+  "date": 1642356182762,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 5,
-      "chaos": 480,
+      "exalt": 3.5,
+      "chaos": 338,
       "lowConfidence": true
     },
     {
@@ -22,13 +22,13 @@
     {
       "name": "T4 Aisling",
       "exalt": 8,
-      "chaos": 770,
+      "chaos": 768,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 488,
       "lowConfidence": false
     },
     {
@@ -39,14 +39,14 @@
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 4.5,
-      "chaos": 441,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.76,
+      "chaos": 74,
       "lowConfidence": true
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.52,
+      "exalt": 0.51,
       "chaos": 50,
       "lowConfidence": true
     },
