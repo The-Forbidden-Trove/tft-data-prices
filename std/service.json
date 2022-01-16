@@ -1,10 +1,10 @@
 {
-  "date": 1642323782370,
+  "date": 1642334588001,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 1,
-      "chaos": 98,
+      "exalt": 5,
+      "chaos": 480,
       "lowConfidence": true
     },
     {
@@ -22,19 +22,19 @@
     {
       "name": "T4 Aisling",
       "exalt": 8,
-      "chaos": 776,
+      "chaos": 770,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 485,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 6,
-      "chaos": 582,
+      "exalt": 6.5,
+      "chaos": 630,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 3,
-      "chaos": 291,
+      "exalt": 2,
+      "chaos": 194,
       "lowConfidence": true
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 388,
+      "chaos": 386,
       "lowConfidence": true
     }
   ]
