@@ -1,5 +1,5 @@
 {
-  "date": 1642345343432,
+  "date": 1642356138904,
   "data": [
     {
       "name": "Augment Defence",
@@ -122,27 +122,15 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Physical More Common",
-      "exalt": 0.12,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Cold More Common",
-      "exalt": 0.18,
-      "chaos": 15,
+      "exalt": 0.24,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Reforge Fire More Common",
       "exalt": 0.25,
       "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Lightning More Common",
-      "exalt": 0.12,
-      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -153,8 +141,8 @@
     },
     {
       "name": "Reforge Life",
-      "exalt": 0.37,
-      "chaos": 30,
+      "exalt": 0.36,
+      "chaos": 27,
       "lowConfidence": true
     },
     {
@@ -231,8 +219,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.19,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
