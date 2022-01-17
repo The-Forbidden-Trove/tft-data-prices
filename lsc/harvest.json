@@ -1,10 +1,10 @@
 {
-  "date": 1642410116725,
+  "date": 1642420899983,
   "data": [
     {
       "name": "Augment Attack",
-      "exalt": 8,
-      "chaos": 1200,
+      "exalt": 7.5,
+      "chaos": 1136,
       "lowConfidence": false
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "Augment Physical",
-      "exalt": 7.5,
-      "chaos": 1136,
+      "exalt": 7,
+      "chaos": 1064,
       "lowConfidence": false
     },
     {
@@ -52,7 +52,7 @@
     {
       "name": "Augment Fire",
       "exalt": 5,
-      "chaos": 760,
+      "chaos": 762,
       "lowConfidence": true
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "name": "Augment Defence",
-      "exalt": 12,
-      "chaos": 1824,
+      "exalt": 15,
+      "chaos": 2280,
       "lowConfidence": true
     },
     {
@@ -123,14 +123,14 @@
     },
     {
       "name": "Augment Influence",
-      "exalt": 80,
-      "chaos": 12160,
+      "exalt": 85,
+      "chaos": 12875,
       "lowConfidence": true
     },
     {
       "name": "Augment Influence Lucky",
-      "exalt": 42.75,
-      "chaos": 6541,
+      "exalt": 0.49,
+      "chaos": 75,
       "lowConfidence": true
     },
     {
@@ -153,8 +153,8 @@
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.15,
-      "chaos": 22,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -191,7 +191,7 @@
       "name": "Enchant Body, Strength",
       "exalt": 0.07,
       "chaos": 10,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Enchant Map, Doesn't Consume Sextant",
@@ -207,8 +207,8 @@
     },
     {
       "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.2,
-      "chaos": 30,
+      "exalt": 0.17,
+      "chaos": 25,
       "lowConfidence": false
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "name": "Enchant Weapon, Critical Strike Chance",
-      "exalt": 0.62,
-      "chaos": 93,
+      "exalt": 0.53,
+      "chaos": 80,
       "lowConfidence": true
     },
     {
@@ -262,13 +262,13 @@
     {
       "name": "Sacrifice Divination Card 0-2x",
       "exalt": 0.5,
-      "chaos": 76,
+      "chaos": 77,
       "lowConfidence": false
     },
     {
       "name": "Synthesise an item",
       "exalt": 5,
-      "chaos": 758,
+      "chaos": 750,
       "lowConfidence": false
     },
     {
@@ -304,7 +304,7 @@
     {
       "name": "Reforge keep Suffix",
       "exalt": 2,
-      "chaos": 303,
+      "chaos": 302,
       "lowConfidence": false
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "Reforge Physical",
-      "exalt": 0.12,
+      "exalt": 0.11,
       "chaos": 18,
       "lowConfidence": false
     },
@@ -363,8 +363,8 @@
     },
     {
       "name": "Reforge Fire",
-      "exalt": 0.07,
-      "chaos": 10,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
@@ -441,8 +441,8 @@
     },
     {
       "name": "Reforge Rare Less Likely",
-      "exalt": 0.07,
-      "chaos": 10,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -471,14 +471,14 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 2.5,
-      "chaos": 379,
+      "exalt": 3,
+      "chaos": 456,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Cold Add Cold",
       "exalt": 2,
-      "chaos": 303,
+      "chaos": 304,
       "lowConfidence": true
     },
     {
@@ -496,8 +496,8 @@
     {
       "name": "Remove Non-Physical Add Physical",
       "exalt": 4,
-      "chaos": 608,
-      "lowConfidence": false
+      "chaos": 610,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
@@ -507,8 +507,8 @@
     },
     {
       "name": "Remove Non-Critical Add Critical",
-      "exalt": 13.5,
-      "chaos": 2046,
+      "exalt": 15,
+      "chaos": 2280,
       "lowConfidence": true
     },
     {
@@ -531,8 +531,8 @@
     },
     {
       "name": "Remove Non-Speed Add Speed",
-      "exalt": 12.5,
-      "chaos": 1894,
+      "exalt": 12,
+      "chaos": 1812,
       "lowConfidence": true
     },
     {
@@ -591,9 +591,9 @@
     },
     {
       "name": "Sacrifice Gem, 40% XP As Facetor Lens",
-      "exalt": 0.2,
-      "chaos": 30,
-      "lowConfidence": false
+      "exalt": 0.18,
+      "chaos": 28,
+      "lowConfidence": true
     },
     {
       "name": "Sacrifice Gem, 50% XP As Facetor Lens",
@@ -646,7 +646,7 @@
     {
       "name": "Reforge into White Socket",
       "exalt": 1,
-      "chaos": 152,
+      "chaos": 153,
       "lowConfidence": true
     },
     {
