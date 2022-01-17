@@ -1,5 +1,5 @@
 {
-  "date": 1642377706364,
+  "date": 1642388512166,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -9,14 +9,14 @@
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.11,
+      "chaos": 16,
       "lowConfidence": false
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.09,
-      "chaos": 13,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "name": "Brute Force",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.09,
+      "chaos": 14,
       "lowConfidence": true
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Trap Disarmament",
-      "exalt": 0.05,
-      "chaos": 8,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": true
     }
   ]
