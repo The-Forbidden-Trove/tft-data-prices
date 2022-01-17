@@ -1,5 +1,5 @@
 {
-  "date": 1642453303324,
+  "date": 1642464108554,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 2,
-      "chaos": 304,
+      "exalt": 1.85,
+      "chaos": 283,
       "lowConfidence": true
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
@@ -72,6 +72,12 @@
       "exalt": 0.26,
       "chaos": 40,
       "lowConfidence": false
+    },
+    {
+      "name": "Apex of Ascension (Sacrifice)",
+      "exalt": 0.23,
+      "chaos": 35,
+      "lowConfidence": true
     },
     {
       "name": "Doryani Institute (Gem)",
