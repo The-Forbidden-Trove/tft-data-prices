@@ -1,5 +1,5 @@
 {
-  "date": 1642420907469,
+  "date": 1642431702097,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 457,
+      "chaos": 456,
       "lowConfidence": false
     },
     {
@@ -34,7 +34,7 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
-      "chaos": 151,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
@@ -51,14 +51,14 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.2,
-      "chaos": 30,
-      "lowConfidence": false
+      "exalt": 0.21,
+      "chaos": 32,
+      "lowConfidence": true
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.57,
-      "chaos": 85,
+      "exalt": 1,
+      "chaos": 154,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 2,
-      "chaos": 306,
+      "exalt": 1.75,
+      "chaos": 266,
       "lowConfidence": true
     }
   ]
