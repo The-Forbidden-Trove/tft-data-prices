@@ -1,5 +1,5 @@
 {
-  "date": 1642388512166,
+  "date": 1642399308663,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -9,20 +9,20 @@
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.11,
-      "chaos": 16,
-      "lowConfidence": false
-    },
-    {
-      "name": "Trinkets or Currency",
       "exalt": 0.1,
       "chaos": 15,
       "lowConfidence": false
     },
     {
+      "name": "Trinkets or Currency",
+      "exalt": 0.09,
+      "chaos": 13,
+      "lowConfidence": false
+    },
+    {
       "name": "Unusual Gems",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.15,
+      "chaos": 22,
       "lowConfidence": false
     },
     {
@@ -41,7 +41,7 @@
       "name": "Counter-Thaumaturgy",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Deception",
@@ -64,7 +64,7 @@
     {
       "name": "Lockpicking",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
