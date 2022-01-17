@@ -1,5 +1,5 @@
 {
-  "date": 1642431738465,
+  "date": 1642442544346,
   "data": [
     {
       "name": "Augment Defence",
@@ -207,8 +207,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.19,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
