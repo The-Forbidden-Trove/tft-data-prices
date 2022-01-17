@@ -1,5 +1,5 @@
 {
-  "date": 1642399340068,
+  "date": 1642410159894,
   "data": [
     {
       "name": "Augment Defence",
@@ -149,12 +149,6 @@
       "name": "Reforge Critical More Common",
       "exalt": 0.25,
       "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Influence More Common",
-      "exalt": 9,
-      "chaos": 729,
       "lowConfidence": true
     },
     {
