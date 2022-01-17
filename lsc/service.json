@@ -1,5 +1,5 @@
 {
-  "date": 1642399304867,
+  "date": 1642410123215,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -16,13 +16,13 @@
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 1.5,
-      "chaos": 228,
+      "chaos": 229,
       "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 456,
+      "chaos": 458,
       "lowConfidence": false
     },
     {
@@ -34,8 +34,8 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
-      "chaos": 153,
-      "lowConfidence": false
+      "chaos": 152,
+      "lowConfidence": true
     },
     {
       "name": "T4 Hillock Weapon 30%",
@@ -57,8 +57,8 @@
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 1,
-      "chaos": 150,
+      "exalt": 0.57,
+      "chaos": 85,
       "lowConfidence": true
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.43,
+      "exalt": 0.42,
       "chaos": 65,
       "lowConfidence": true
     },
