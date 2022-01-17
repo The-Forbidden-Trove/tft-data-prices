@@ -1,5 +1,5 @@
 {
-  "date": 1642442544346,
+  "date": 1642453338884,
   "data": [
     {
       "name": "Augment Defence",
@@ -100,7 +100,7 @@
     {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 2,
-      "chaos": 156,
+      "chaos": 146,
       "lowConfidence": true
     },
     {
@@ -112,7 +112,7 @@
     {
       "name": "Reforge keep Suffix Lucky",
       "exalt": 2,
-      "chaos": 156,
+      "chaos": 146,
       "lowConfidence": true
     },
     {
@@ -189,13 +189,13 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.26,
+      "exalt": 0.27,
       "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.26,
+      "exalt": 0.27,
       "chaos": 20,
       "lowConfidence": true
     },
@@ -261,7 +261,7 @@
     },
     {
       "name": "Five Links",
-      "exalt": 0.19,
+      "exalt": 0.21,
       "chaos": 15,
       "lowConfidence": true
     },
