@@ -1,5 +1,5 @@
 {
-  "date": 1642420911263,
+  "date": 1642431705918,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.08,
-      "chaos": 12,
+      "exalt": 0.09,
+      "chaos": 14,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "Lockpicking",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
