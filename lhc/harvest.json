@@ -1,5 +1,5 @@
 {
-  "date": 1642420944292,
+  "date": 1642431738465,
   "data": [
     {
       "name": "Augment Defence",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.19,
+      "exalt": 0.18,
       "chaos": 15,
       "lowConfidence": true
     },
