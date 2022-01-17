@@ -1,5 +1,5 @@
 {
-  "date": 1642420987624,
+  "date": 1642431781692,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -27,8 +27,8 @@
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 6,
-      "chaos": 588,
+      "exalt": 5.5,
+      "chaos": 542,
       "lowConfidence": false
     },
     {
@@ -41,7 +41,7 @@
       "name": "T4 Hillock Weapon 30%",
       "exalt": 5,
       "chaos": 490,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Leo Exalt Slam",
@@ -51,14 +51,14 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 2.63,
-      "chaos": 258,
+      "exalt": 2.5,
+      "chaos": 246,
       "lowConfidence": true
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 1,
+      "chaos": 98,
       "lowConfidence": true
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 386,
+      "chaos": 384,
       "lowConfidence": true
     }
   ]
