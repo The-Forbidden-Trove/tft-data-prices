@@ -1,5 +1,5 @@
 {
-  "date": 1642507306802,
+  "date": 1642518111937,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -46,12 +46,12 @@
     {
       "name": "Deception",
       "exalt": 0.07,
-      "chaos": 10,
+      "chaos": 11,
       "lowConfidence": false
     },
     {
       "name": "Demolition",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": false
     },
@@ -77,7 +77,7 @@
       "name": "Trap Disarmament",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     }
   ]
 }
