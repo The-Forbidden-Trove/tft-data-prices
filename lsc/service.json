@@ -1,5 +1,5 @@
 {
-  "date": 1642507303038,
+  "date": 1642518107860,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 1.6,
-      "chaos": 244,
+      "exalt": 1.7,
+      "chaos": 262,
       "lowConfidence": false
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.32,
+      "exalt": 0.33,
       "chaos": 50,
       "lowConfidence": false
     },
