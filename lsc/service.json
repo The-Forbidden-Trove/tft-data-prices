@@ -1,5 +1,5 @@
 {
-  "date": 1642474916763,
+  "date": 1642485701659,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,14 +9,14 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 1.25,
-      "chaos": 190,
+      "exalt": 1,
+      "chaos": 153,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 1.7,
-      "chaos": 262,
+      "exalt": 1.85,
+      "chaos": 282,
       "lowConfidence": true
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.2,
-      "chaos": 30,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 0.43,
-      "chaos": 65,
+      "exalt": 2,
+      "chaos": 302,
       "lowConfidence": true
     },
     {
