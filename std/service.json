@@ -1,5 +1,5 @@
 {
-  "date": 1642507380517,
+  "date": 1642518186333,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -33,15 +33,15 @@
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 5.5,
-      "chaos": 536,
+      "exalt": 5.25,
+      "chaos": 512,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 6,
-      "chaos": 588,
-      "lowConfidence": true
+      "exalt": 5,
+      "chaos": 490,
+      "lowConfidence": false
     },
     {
       "name": "Leo Exalt Slam",
@@ -51,8 +51,8 @@
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 3,
-      "chaos": 294,
+      "exalt": 2.75,
+      "chaos": 271,
       "lowConfidence": true
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 492,
       "lowConfidence": false
     },
     {
