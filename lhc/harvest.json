@@ -1,5 +1,5 @@
 {
-  "date": 1642507338561,
+  "date": 1642518144170,
   "data": [
     {
       "name": "Augment Defence",
@@ -26,12 +26,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.25,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
       "name": "Enchant Weapon, Critical Strike Chance",
       "exalt": 1,
       "chaos": 70,
@@ -41,12 +35,6 @@
       "name": "Enchant Weapon, Elemental Damage",
       "exalt": 0.62,
       "chaos": 50,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.19,
-      "chaos": 15,
       "lowConfidence": true
     },
     {
