@@ -1,5 +1,5 @@
 {
-  "date": 1642528897640,
+  "date": 1642539704373,
   "data": [
     {
       "name": "Augment Attack",
@@ -9,20 +9,20 @@
     },
     {
       "name": "Augment Attack Lucky",
-      "exalt": 9,
-      "chaos": 1373,
+      "exalt": 8,
+      "chaos": 1216,
       "lowConfidence": true
     },
     {
       "name": "Augment Caster",
-      "exalt": 5,
-      "chaos": 760,
+      "exalt": 4.5,
+      "chaos": 684,
       "lowConfidence": true
     },
     {
       "name": "Augment Physical",
       "exalt": 6,
-      "chaos": 909,
+      "chaos": 912,
       "lowConfidence": false
     },
     {
@@ -34,7 +34,7 @@
     {
       "name": "Augment Cold",
       "exalt": 7,
-      "chaos": 1071,
+      "chaos": 1064,
       "lowConfidence": true
     },
     {
@@ -76,7 +76,7 @@
     {
       "name": "Augment Chaos Lucky",
       "exalt": 10,
-      "chaos": 1530,
+      "chaos": 1540,
       "lowConfidence": true
     },
     {
@@ -105,8 +105,8 @@
     },
     {
       "name": "Augment Critical",
-      "exalt": 8.5,
-      "chaos": 1290,
+      "exalt": 5,
+      "chaos": 755,
       "lowConfidence": true
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.46,
-      "chaos": 70,
+      "exalt": 0.5,
+      "chaos": 75,
       "lowConfidence": false
     },
     {
@@ -159,8 +159,8 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.18,
-      "chaos": 28,
+      "exalt": 0.2,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
@@ -207,8 +207,8 @@
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.51,
-      "chaos": 78,
+      "exalt": 0.53,
+      "chaos": 80,
       "lowConfidence": false
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 0.22,
-      "chaos": 32,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -237,8 +237,8 @@
     },
     {
       "name": "Fracture 1/3 Suffix",
-      "exalt": 19.5,
-      "chaos": 2954,
+      "exalt": 19,
+      "chaos": 2888,
       "lowConfidence": false
     },
     {
@@ -249,20 +249,20 @@
     },
     {
       "name": "Awaken Level 20 Support Gem",
-      "exalt": 0.66,
-      "chaos": 100,
+      "exalt": 0.83,
+      "chaos": 125,
       "lowConfidence": true
     },
     {
       "name": "Sacrifice Divination Card 0-2x",
-      "exalt": 0.51,
-      "chaos": 78,
+      "exalt": 0.53,
+      "chaos": 80,
       "lowConfidence": false
     },
     {
       "name": "Synthesise an item",
-      "exalt": 4,
-      "chaos": 608,
+      "exalt": 4.5,
+      "chaos": 683,
       "lowConfidence": false
     },
     {
@@ -279,8 +279,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
@@ -292,7 +292,7 @@
     {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 2,
-      "chaos": 303,
+      "chaos": 302,
       "lowConfidence": false
     },
     {
@@ -304,7 +304,7 @@
     {
       "name": "Reforge keep Suffix Lucky",
       "exalt": 2,
-      "chaos": 304,
+      "chaos": 302,
       "lowConfidence": false
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "Reforge Physical",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
@@ -363,14 +363,14 @@
     },
     {
       "name": "Reforge Fire More Common",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.12,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
       "name": "Reforge Lightning",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "Reforge Defence",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
@@ -405,8 +405,8 @@
     },
     {
       "name": "Reforge Life",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -465,14 +465,14 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 3,
-      "chaos": 456,
-      "lowConfidence": true
+      "exalt": 2,
+      "chaos": 304,
+      "lowConfidence": false
     },
     {
       "name": "Remove Non-Cold Add Cold",
       "exalt": 2,
-      "chaos": 302,
+      "chaos": 300,
       "lowConfidence": true
     },
     {
@@ -484,20 +484,20 @@
     {
       "name": "Remove Non-Lightning Add Lightning",
       "exalt": 2,
-      "chaos": 304,
+      "chaos": 302,
       "lowConfidence": false
     },
     {
       "name": "Remove Non-Physical Add Physical",
       "exalt": 4,
-      "chaos": 608,
+      "chaos": 604,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
       "exalt": 3,
-      "chaos": 456,
-      "lowConfidence": false
+      "chaos": 455,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Critical Add Critical",
@@ -520,13 +520,13 @@
     {
       "name": "Remove Non-Life Add Life",
       "exalt": 14,
-      "chaos": 2121,
+      "chaos": 2114,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Speed Add Speed",
       "exalt": 10,
-      "chaos": 1520,
+      "chaos": 1515,
       "lowConfidence": true
     },
     {
@@ -567,8 +567,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.12,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
@@ -579,8 +579,8 @@
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -639,8 +639,8 @@
     },
     {
       "name": "Reforge into White Socket",
-      "exalt": 0.63,
-      "chaos": 96,
+      "exalt": 1,
+      "chaos": 151,
       "lowConfidence": true
     },
     {
