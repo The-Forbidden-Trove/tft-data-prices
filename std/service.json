@@ -1,5 +1,5 @@
 {
-  "date": 1642474996693,
+  "date": 1642485780623,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 7,
-      "chaos": 686,
+      "chaos": 679,
       "lowConfidence": false
     },
     {
@@ -52,7 +52,7 @@
     {
       "name": "T3/T2/T1 Vorici White",
       "exalt": 2.5,
-      "chaos": 246,
+      "chaos": 245,
       "lowConfidence": true
     },
     {
