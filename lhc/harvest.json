@@ -1,5 +1,5 @@
 {
-  "date": 1642528939976,
+  "date": 1642539746612,
   "data": [
     {
       "name": "Augment Defence",
@@ -23,6 +23,12 @@
       "name": "Enchant Body, Maximum Life",
       "exalt": 0.22,
       "chaos": 18,
+      "lowConfidence": true
+    },
+    {
+      "name": "Enchant Weapon, Area of Effect",
+      "exalt": 0.42,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -70,7 +76,7 @@
     {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 2,
-      "chaos": 146,
+      "chaos": 144,
       "lowConfidence": true
     },
     {
@@ -82,7 +88,19 @@
     {
       "name": "Reforge keep Suffix Lucky",
       "exalt": 2,
-      "chaos": 146,
+      "chaos": 144,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Attack More Common",
+      "exalt": 0.28,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Chaos More Common",
+      "exalt": 0.28,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -105,7 +123,7 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.29,
+      "exalt": 0.28,
       "chaos": 20,
       "lowConfidence": true
     },
@@ -128,12 +146,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 5,
-      "chaos": 405,
-      "lowConfidence": true
-    },
-    {
       "name": "Reroll All Lucky",
       "exalt": 0.28,
       "chaos": 20,
@@ -141,8 +153,8 @@
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.42,
-      "chaos": 30,
+      "exalt": 0.56,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
