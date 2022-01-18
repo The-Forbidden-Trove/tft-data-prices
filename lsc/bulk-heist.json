@@ -1,10 +1,10 @@
 {
-  "date": 1642496510540,
+  "date": 1642507306802,
   "data": [
     {
       "name": "Enchanted Armaments",
       "exalt": 0.06,
-      "chaos": 9,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
@@ -46,7 +46,7 @@
     {
       "name": "Deception",
       "exalt": 0.07,
-      "chaos": 11,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
@@ -70,7 +70,7 @@
     {
       "name": "Perception",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": false
     },
     {
