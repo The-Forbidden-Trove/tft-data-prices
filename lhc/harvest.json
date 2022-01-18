@@ -1,5 +1,5 @@
 {
-  "date": 1642539746612,
+  "date": 1642550541521,
   "data": [
     {
       "name": "Augment Defence",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.22,
-      "chaos": 18,
+      "exalt": 0.37,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -35,12 +35,6 @@
       "name": "Enchant Weapon, Critical Strike Chance",
       "exalt": 1,
       "chaos": 70,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 0.62,
-      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -98,6 +92,18 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Caster",
+      "exalt": 0.28,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Caster More Common",
+      "exalt": 0.28,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Chaos More Common",
       "exalt": 0.28,
       "chaos": 20,
@@ -140,9 +146,15 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Speed",
+      "exalt": 0.28,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Speed More Common",
-      "exalt": 0.21,
-      "chaos": 15,
+      "exalt": 0.32,
+      "chaos": 22,
       "lowConfidence": true
     },
     {
@@ -207,8 +219,8 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.19,
-      "chaos": 15,
+      "exalt": 0.28,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
