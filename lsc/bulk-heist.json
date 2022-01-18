@@ -1,35 +1,35 @@
 {
-  "date": 1642518111937,
+  "date": 1642528908117,
   "data": [
     {
       "name": "Enchanted Armaments",
-      "exalt": 0.06,
+      "exalt": 0.07,
       "chaos": 10,
       "lowConfidence": false
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.09,
+      "chaos": 14,
       "lowConfidence": false
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.08,
-      "chaos": 12,
+      "exalt": 0.09,
+      "chaos": 13,
       "lowConfidence": false
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.12,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
       "name": "Agility",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Brute Force",
@@ -52,14 +52,14 @@
     {
       "name": "Demolition",
       "exalt": 0.02,
-      "chaos": 2,
+      "chaos": 3,
       "lowConfidence": false
     },
     {
       "name": "Engineering",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Lockpicking",
@@ -77,7 +77,7 @@
       "name": "Trap Disarmament",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     }
   ]
 }
