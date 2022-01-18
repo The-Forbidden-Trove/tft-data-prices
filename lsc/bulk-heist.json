@@ -1,5 +1,5 @@
 {
-  "date": 1642474920592,
+  "date": 1642485705358,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.09,
-      "chaos": 13,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": false
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Agility",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
@@ -51,8 +51,8 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": false
     },
     {
@@ -70,14 +70,14 @@
     {
       "name": "Perception",
       "exalt": 0.03,
-      "chaos": 4,
+      "chaos": 5,
       "lowConfidence": false
     },
     {
       "name": "Trap Disarmament",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     }
   ]
 }
