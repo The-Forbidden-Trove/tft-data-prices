@@ -1,10 +1,16 @@
 {
-  "date": 1642496542321,
+  "date": 1642507338561,
   "data": [
     {
       "name": "Augment Defence",
       "exalt": 10,
       "chaos": 800,
+      "lowConfidence": true
+    },
+    {
+      "name": "Augment Critical",
+      "exalt": 3,
+      "chaos": 210,
       "lowConfidence": true
     },
     {
@@ -20,15 +26,15 @@
       "lowConfidence": true
     },
     {
-      "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.24,
+      "name": "Enchant Weapon, Area of Effect",
+      "exalt": 0.25,
       "chaos": 20,
       "lowConfidence": true
     },
     {
-      "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.25,
-      "chaos": 20,
+      "name": "Enchant Weapon, Critical Strike Chance",
+      "exalt": 1,
+      "chaos": 70,
       "lowConfidence": true
     },
     {
@@ -39,14 +45,8 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.18,
+      "exalt": 0.19,
       "chaos": 15,
-      "lowConfidence": true
-    },
-    {
-      "name": "Fracture 1/5",
-      "exalt": 5,
-      "chaos": 410,
       "lowConfidence": true
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "Randomise Influence Jewellery",
-      "exalt": 0.62,
-      "chaos": 50,
+      "exalt": 0.29,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -110,21 +110,33 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Critical",
+      "exalt": 0.14,
+      "chaos": 10,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Critical More Common",
+      "exalt": 0.29,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Rare Less Likely",
-      "exalt": 1,
-      "chaos": 81,
+      "exalt": 0.29,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.37,
+      "exalt": 0.43,
       "chaos": 30,
       "lowConfidence": true
     },
     {
-      "name": "Remove Non-Fire Add Fire",
-      "exalt": 1.5,
-      "chaos": 123,
+      "name": "Reforge Speed More Common",
+      "exalt": 0.21,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
@@ -135,14 +147,14 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.27,
+      "exalt": 0.28,
       "chaos": 20,
       "lowConfidence": true
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.27,
-      "chaos": 20,
+      "exalt": 0.42,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -153,8 +165,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.19,
-      "chaos": 15,
+      "exalt": 0.29,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -213,19 +225,13 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.19,
+      "exalt": 0.21,
       "chaos": 15,
       "lowConfidence": true
     },
     {
-      "name": "Non-Green into Green Socket",
-      "exalt": 0.61,
-      "chaos": 50,
-      "lowConfidence": true
-    },
-    {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.19,
+      "exalt": 0.21,
       "chaos": 15,
       "lowConfidence": true
     },
