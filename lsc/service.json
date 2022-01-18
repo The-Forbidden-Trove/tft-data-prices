@@ -1,5 +1,5 @@
 {
-  "date": 1642528904208,
+  "date": 1642539711076,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,20 +9,20 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 1.25,
-      "chaos": 190,
+      "exalt": 1.5,
+      "chaos": 227,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 1.75,
-      "chaos": 264,
+      "exalt": 2,
+      "chaos": 302,
       "lowConfidence": false
     },
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 456,
+      "chaos": 454,
       "lowConfidence": false
     },
     {
