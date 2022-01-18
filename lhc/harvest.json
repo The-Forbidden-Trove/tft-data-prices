@@ -1,16 +1,10 @@
 {
-  "date": 1642474954050,
+  "date": 1642485737586,
   "data": [
     {
       "name": "Augment Defence",
       "exalt": 10,
       "chaos": 800,
-      "lowConfidence": true
-    },
-    {
-      "name": "Augment Life",
-      "exalt": 13,
-      "chaos": 1053,
       "lowConfidence": true
     },
     {
@@ -21,14 +15,8 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.37,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Body, Strength",
-      "exalt": 0.62,
-      "chaos": 50,
+      "exalt": 0.22,
+      "chaos": 18,
       "lowConfidence": true
     },
     {
@@ -65,12 +53,6 @@
       "name": "Sacrifice Divination Card 0-2x",
       "exalt": 0.74,
       "chaos": 60,
-      "lowConfidence": true
-    },
-    {
-      "name": "Synthesise an item",
-      "exalt": 3,
-      "chaos": 243,
       "lowConfidence": true
     },
     {
@@ -116,24 +98,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Caster More Common",
-      "exalt": 0.25,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Fire More Common",
-      "exalt": 0.25,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Defence More Common",
-      "exalt": 0.25,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Life",
       "exalt": 0.36,
       "chaos": 27,
@@ -146,12 +110,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge Critical More Common",
-      "exalt": 0.25,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge Rare Less Likely",
       "exalt": 1,
       "chaos": 81,
@@ -161,18 +119,6 @@
       "name": "Reforge Rare More Likely",
       "exalt": 0.37,
       "chaos": 30,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Speed",
-      "exalt": 0.25,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Speed More Common",
-      "exalt": 0.25,
-      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -207,8 +153,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.12,
-      "chaos": 10,
+      "exalt": 0.19,
+      "chaos": 15,
       "lowConfidence": true
     },
     {
