@@ -1,5 +1,5 @@
 {
-  "date": 1642496506493,
+  "date": 1642507303038,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 1,
-      "chaos": 153,
+      "exalt": 1.38,
+      "chaos": 210,
       "lowConfidence": true
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 1,
-      "chaos": 153,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.33,
+      "exalt": 0.32,
       "chaos": 50,
       "lowConfidence": false
     },
@@ -63,9 +63,9 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.23,
-      "chaos": 35,
-      "lowConfidence": true
+      "exalt": 0.26,
+      "chaos": 40,
+      "lowConfidence": false
     },
     {
       "name": "T4 Vorici 1-6 White",
@@ -81,14 +81,14 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 2,
-      "chaos": 302,
+      "exalt": 1.63,
+      "chaos": 246,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 1.75,
-      "chaos": 266,
+      "exalt": 2,
+      "chaos": 304,
       "lowConfidence": true
     }
   ]
