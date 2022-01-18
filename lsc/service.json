@@ -1,5 +1,5 @@
 {
-  "date": 1642518107860,
+  "date": 1642528904208,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,14 +9,14 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 1.38,
-      "chaos": 210,
+      "exalt": 1.25,
+      "chaos": 190,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 1.7,
-      "chaos": 262,
+      "exalt": 1.75,
+      "chaos": 264,
       "lowConfidence": false
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 1,
-      "chaos": 152,
+      "chaos": 151,
       "lowConfidence": false
     },
     {
@@ -58,7 +58,7 @@
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
       "exalt": 1,
-      "chaos": 152,
+      "chaos": 151,
       "lowConfidence": true
     },
     {
