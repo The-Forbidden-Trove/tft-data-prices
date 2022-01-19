@@ -1,5 +1,5 @@
 {
-  "date": 1642612600957,
+  "date": 1642615331855,
   "data": [
     {
       "name": "Arcade",
@@ -80,9 +80,15 @@
       "lowConfidence": true
     },
     {
+      "name": "Terrace",
+      "exalt": 0.14,
+      "chaos": 22,
+      "lowConfidence": true
+    },
+    {
       "name": "Tower",
-      "exalt": 0.05,
-      "chaos": 8,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
@@ -105,8 +111,8 @@
     },
     {
       "name": "Blighted Maps",
-      "exalt": 0.17,
-      "chaos": 25,
+      "exalt": 0.15,
+      "chaos": 23,
       "lowConfidence": true
     },
     {
