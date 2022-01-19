@@ -1,5 +1,5 @@
 {
-  "date": 1642626159443,
+  "date": 1642636963456,
   "data": [
     {
       "name": "Augment Defence",
@@ -141,8 +141,8 @@
     },
     {
       "name": "Reforge Speed More Common",
-      "exalt": 0.42,
-      "chaos": 30,
+      "exalt": 0.32,
+      "chaos": 22,
       "lowConfidence": true
     },
     {
