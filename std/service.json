@@ -1,5 +1,5 @@
 {
-  "date": 1642572187025,
+  "date": 1642582980879,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -64,13 +64,13 @@
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 6,
-      "chaos": 588,
+      "chaos": 582,
       "lowConfidence": false
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 1.39,
-      "chaos": 136,
+      "exalt": 1,
+      "chaos": 97,
       "lowConfidence": true
     },
     {
