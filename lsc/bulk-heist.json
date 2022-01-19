@@ -1,5 +1,5 @@
 {
-  "date": 1642593714083,
+  "date": 1642612582191,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.09,
+      "exalt": 0.1,
       "chaos": 14,
       "lowConfidence": false
     },
@@ -27,9 +27,9 @@
     },
     {
       "name": "Agility",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Brute Force",
@@ -41,7 +41,7 @@
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
       "chaos": 3,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Deception",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
@@ -70,7 +70,7 @@
     {
       "name": "Perception",
       "exalt": 0.03,
-      "chaos": 4,
+      "chaos": 5,
       "lowConfidence": false
     },
     {
