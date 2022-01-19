@@ -1,5 +1,5 @@
 {
-  "date": 1642561336862,
+  "date": 1642572143687,
   "data": [
     {
       "name": "Augment Defence",
@@ -26,12 +26,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Enchant Body, Maximum Life",
-      "exalt": 0.37,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
       "name": "Enchant Weapon, Area of Effect",
       "exalt": 0.42,
       "chaos": 30,
@@ -47,12 +41,6 @@
       "name": "Enchant Weapon, Weapon Range",
       "exalt": 0.56,
       "chaos": 40,
-      "lowConfidence": true
-    },
-    {
-      "name": "Sacrifice Divination Card 0-2x",
-      "exalt": 0.74,
-      "chaos": 60,
       "lowConfidence": true
     },
     {
@@ -83,12 +71,6 @@
       "name": "Reforge keep Prefix Lucky",
       "exalt": 2,
       "chaos": 144,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge keep Suffix",
-      "exalt": 4,
-      "chaos": 324,
       "lowConfidence": true
     },
     {
