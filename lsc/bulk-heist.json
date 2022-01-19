@@ -1,5 +1,5 @@
 {
-  "date": 1642626109417,
+  "date": 1642636914024,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -22,14 +22,14 @@
     {
       "name": "Unusual Gems",
       "exalt": 0.16,
-      "chaos": 25,
+      "chaos": 24,
       "lowConfidence": false
     },
     {
       "name": "Agility",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Brute Force",
@@ -40,8 +40,8 @@
     {
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
-      "chaos": 3,
-      "lowConfidence": true
+      "chaos": 2,
+      "lowConfidence": false
     },
     {
       "name": "Deception",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
