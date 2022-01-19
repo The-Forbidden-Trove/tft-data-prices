@@ -1,11 +1,11 @@
 {
-  "date": 1642612570950,
+  "date": 1642615302363,
   "data": [
     {
       "name": "Augment Attack",
       "exalt": 9,
       "chaos": 1359,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Augment Attack Lucky",
@@ -21,14 +21,14 @@
     },
     {
       "name": "Augment Physical",
-      "exalt": 6,
-      "chaos": 906,
+      "exalt": 5.5,
+      "chaos": 849,
       "lowConfidence": false
     },
     {
       "name": "Augment Physical Lucky",
       "exalt": 15,
-      "chaos": 2295,
+      "chaos": 2310,
       "lowConfidence": true
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.5,
-      "chaos": 76,
+      "exalt": 0.51,
+      "chaos": 78,
       "lowConfidence": false
     },
     {
@@ -159,8 +159,8 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.19,
-      "chaos": 30,
+      "exalt": 0.16,
+      "chaos": 25,
       "lowConfidence": false
     },
     {
@@ -177,14 +177,14 @@
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
       "name": "Enchant Body, Strength",
-      "exalt": 0.6,
-      "chaos": 91,
+      "exalt": 1,
+      "chaos": 152,
       "lowConfidence": true
     },
     {
@@ -202,7 +202,7 @@
     {
       "name": "Enchant Weapon, Area of Effect",
       "exalt": 0.17,
-      "chaos": 25,
+      "chaos": 26,
       "lowConfidence": false
     },
     {
@@ -243,8 +243,8 @@
     },
     {
       "name": "Fracture 1/5",
-      "exalt": 8,
-      "chaos": 1216,
+      "exalt": 8.5,
+      "chaos": 1292,
       "lowConfidence": false
     },
     {
@@ -286,7 +286,7 @@
     {
       "name": "Reforge keep Prefix",
       "exalt": 2,
-      "chaos": 303,
+      "chaos": 304,
       "lowConfidence": false
     },
     {
@@ -315,7 +315,7 @@
     },
     {
       "name": "Reforge Attack More Common",
-      "exalt": 0.12,
+      "exalt": 0.11,
       "chaos": 18,
       "lowConfidence": false
     },
@@ -465,8 +465,8 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 4.5,
-      "chaos": 684,
+      "exalt": 3,
+      "chaos": 456,
       "lowConfidence": true
     },
     {
@@ -490,7 +490,7 @@
     {
       "name": "Remove Non-Physical Add Physical",
       "exalt": 4,
-      "chaos": 604,
+      "chaos": 605,
       "lowConfidence": false
     },
     {
@@ -501,8 +501,8 @@
     },
     {
       "name": "Remove Non-Critical Add Critical",
-      "exalt": 15,
-      "chaos": 2280,
+      "exalt": 12,
+      "chaos": 1824,
       "lowConfidence": true
     },
     {
@@ -627,14 +627,14 @@
     },
     {
       "name": "Non-Green into Green Socket",
-      "exalt": 0.31,
-      "chaos": 48,
+      "exalt": 0.32,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.31,
-      "chaos": 48,
+      "exalt": 0.28,
+      "chaos": 42,
       "lowConfidence": false
     },
     {
