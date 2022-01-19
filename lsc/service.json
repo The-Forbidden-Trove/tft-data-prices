@@ -1,10 +1,10 @@
 {
-  "date": 1642615308994,
+  "date": 1642626105643,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 0.83,
-      "chaos": 128,
+      "exalt": 0.91,
+      "chaos": 140,
       "lowConfidence": true
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.33,
-      "chaos": 50,
+      "exalt": 0.29,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.2,
-      "chaos": 30,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.23,
-      "chaos": 35,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
