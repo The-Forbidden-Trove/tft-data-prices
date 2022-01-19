@@ -1,5 +1,5 @@
 {
-  "date": 1642612069591,
+  "date": 1642612570950,
   "data": [
     {
       "name": "Augment Attack",
@@ -57,8 +57,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 9.75,
-      "chaos": 1482,
+      "exalt": 12.5,
+      "chaos": 1900,
       "lowConfidence": true
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.2,
+      "exalt": 0.19,
       "chaos": 30,
       "lowConfidence": false
     },
@@ -497,7 +497,7 @@
       "name": "Remove Non-Chaos Add Chaos",
       "exalt": 3,
       "chaos": 453,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Critical Add Critical",
