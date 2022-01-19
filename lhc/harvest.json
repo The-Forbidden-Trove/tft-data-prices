@@ -1,5 +1,5 @@
 {
-  "date": 1642593745992,
+  "date": 1642612630561,
   "data": [
     {
       "name": "Augment Defence",
@@ -59,12 +59,6 @@
       "name": "Randomise Influence Weapon",
       "exalt": 0.56,
       "chaos": 40,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge keep Prefix",
-      "exalt": 2,
-      "chaos": 162,
       "lowConfidence": true
     },
     {
@@ -171,38 +165,32 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.29,
-      "chaos": 20,
+      "exalt": 0.14,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.31,
-      "chaos": 25,
+      "exalt": 0.14,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.31,
-      "chaos": 25,
+      "exalt": 0.14,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.25,
-      "chaos": 20,
+      "exalt": 0.14,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
       "exalt": 0.25,
       "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Sacrifice Gem, 50% XP As Facetor Lens",
-      "exalt": 0.37,
-      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -219,8 +207,8 @@
     },
     {
       "name": "Set Implicit, Cluster Jewel",
-      "exalt": 0.5,
-      "chaos": 40,
+      "exalt": 0.14,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
