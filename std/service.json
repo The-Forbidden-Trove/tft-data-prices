@@ -1,10 +1,10 @@
 {
-  "date": 1642593788447,
+  "date": 1642612673043,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1.5,
-      "chaos": 147,
+      "chaos": 149,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 7,
-      "chaos": 693,
+      "exalt": 7.5,
+      "chaos": 734,
       "lowConfidence": false
     },
     {
@@ -34,7 +34,7 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 6,
-      "chaos": 588,
+      "chaos": 582,
       "lowConfidence": false
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 2.5,
-      "chaos": 248,
+      "exalt": 3,
+      "chaos": 296,
       "lowConfidence": true
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 6,
-      "chaos": 585,
+      "chaos": 582,
       "lowConfidence": false
     },
     {
