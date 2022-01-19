@@ -1,5 +1,5 @@
 {
-  "date": 1642612666553,
+  "date": 1642615397560,
   "data": [
     {
       "name": "Augment Attack",
@@ -28,7 +28,7 @@
     {
       "name": "Augment Physical",
       "exalt": 60,
-      "chaos": 5865,
+      "chaos": 5840,
       "lowConfidence": true
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "name": "Augment Critical",
-      "exalt": 40,
-      "chaos": 3880,
+      "exalt": 32.5,
+      "chaos": 3178,
       "lowConfidence": true
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.52,
+      "exalt": 0.51,
       "chaos": 50,
       "lowConfidence": true
     },
@@ -141,8 +141,8 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 1,
-      "chaos": 98,
+      "exalt": 0.75,
+      "chaos": 74,
       "lowConfidence": true
     },
     {
@@ -177,8 +177,8 @@
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.48,
+      "chaos": 48,
       "lowConfidence": false
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 0.57,
+      "exalt": 0.56,
       "chaos": 55,
       "lowConfidence": false
     },
@@ -238,7 +238,7 @@
     {
       "name": "Synthesise an item",
       "exalt": 11,
-      "chaos": 1072,
+      "chaos": 1083,
       "lowConfidence": true
     },
     {
@@ -365,7 +365,7 @@
       "name": "Reforge Chaos More Common",
       "exalt": 0.4,
       "chaos": 40,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Reforge Defence",
@@ -387,7 +387,7 @@
     },
     {
       "name": "Reforge Life More Common",
-      "exalt": 0.36,
+      "exalt": 0.35,
       "chaos": 35,
       "lowConfidence": false
     },
@@ -406,7 +406,7 @@
     {
       "name": "Reforge Influence More Common",
       "exalt": 10,
-      "chaos": 980,
+      "chaos": 985,
       "lowConfidence": false
     },
     {
@@ -442,13 +442,13 @@
     {
       "name": "Remove Non-Caster Add Caster",
       "exalt": 8,
-      "chaos": 776,
+      "chaos": 784,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Cold Add Cold",
-      "exalt": 12.5,
-      "chaos": 1222,
+      "exalt": 15,
+      "chaos": 1465,
       "lowConfidence": true
     },
     {
@@ -502,7 +502,7 @@
     {
       "name": "Remove Non-Speed Add Speed",
       "exalt": 15,
-      "chaos": 1478,
+      "chaos": 1481,
       "lowConfidence": true
     },
     {
@@ -609,8 +609,8 @@
     },
     {
       "name": "Six Links",
-      "exalt": 4,
-      "chaos": 396,
+      "exalt": 5,
+      "chaos": 495,
       "lowConfidence": true
     }
   ]
