@@ -1,5 +1,5 @@
 {
-  "date": 1642550509619,
+  "date": 1642561304720,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -9,25 +9,25 @@
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.09,
-      "chaos": 14,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.09,
+      "exalt": 0.1,
       "chaos": 14,
       "lowConfidence": false
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
       "name": "Agility",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": true
     },
@@ -51,7 +51,7 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": false
     },
