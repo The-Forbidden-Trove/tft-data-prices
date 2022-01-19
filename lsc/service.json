@@ -1,10 +1,10 @@
 {
-  "date": 1642626105643,
+  "date": 1642636910329,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 0.91,
-      "chaos": 140,
+      "exalt": 0.83,
+      "chaos": 128,
       "lowConfidence": true
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.29,
-      "chaos": 45,
+      "exalt": 0.26,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -65,7 +65,7 @@
       "name": "T4/T3 Tora 200m Gem XP",
       "exalt": 0.26,
       "chaos": 40,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "T4 Vorici 1-6 White",
@@ -88,7 +88,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 2,
-      "chaos": 303,
+      "chaos": 304,
       "lowConfidence": true
     }
   ]
