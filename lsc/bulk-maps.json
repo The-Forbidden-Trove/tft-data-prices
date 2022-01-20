@@ -1,5 +1,5 @@
 {
-  "date": 1642647747460,
+  "date": 1642658530928,
   "data": [
     {
       "name": "Acid Caverns",
@@ -125,7 +125,7 @@
       "name": "Park",
       "exalt": 0.03,
       "chaos": 4,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Plateau",
@@ -196,7 +196,7 @@
     {
       "name": "Blighted Maps",
       "exalt": 0.16,
-      "chaos": 24,
+      "chaos": 26,
       "lowConfidence": false
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "name": "Shaper Maps",
-      "exalt": 0.08,
+      "exalt": 0.09,
       "chaos": 13,
       "lowConfidence": false
     }
