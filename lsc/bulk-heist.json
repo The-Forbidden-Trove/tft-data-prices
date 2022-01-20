@@ -1,5 +1,5 @@
 {
-  "date": 1642647723084,
+  "date": 1642658507061,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -46,7 +46,7 @@
     {
       "name": "Deception",
       "exalt": 0.07,
-      "chaos": 10,
+      "chaos": 11,
       "lowConfidence": false
     },
     {
