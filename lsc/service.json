@@ -1,11 +1,11 @@
 {
-  "date": 1642647718582,
+  "date": 1642658502590,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 0.91,
-      "chaos": 140,
-      "lowConfidence": true
+      "exalt": 1,
+      "chaos": 151,
+      "lowConfidence": false
     },
     {
       "name": "Sirus Awaken 9",
@@ -22,7 +22,7 @@
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 457,
+      "chaos": 456,
       "lowConfidence": false
     },
     {
@@ -45,20 +45,20 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.31,
-      "chaos": 48,
+      "exalt": 0.33,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.26,
-      "chaos": 40,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
       "exalt": 1,
-      "chaos": 151,
+      "chaos": 152,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 1.5,
-      "chaos": 226,
+      "exalt": 1.38,
+      "chaos": 208,
       "lowConfidence": true
     },
     {
