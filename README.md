@@ -1,10 +1,10 @@
 # TFT Data Prices
 
-These are path of exile pricing data crunched from our server and generate outputs to TFT pricing channels. Most of the data are only available exclusively from TFT such as
-- harvest craft
-- service craft
+These are Path of Exile pricing data crunched from our Discord Server and generate outputs to TFT pricing channels. Most of the data are only available exclusively from TFT such as
+- harvest crafts
+- services (betrayal benchcrafts, temple benchcrafts)
 - heist contracts
-- other prices in **bulk**
+- other prices in **BULK**
 - etc
 
 
@@ -13,3 +13,8 @@ These are path of exile pricing data crunched from our server and generate outpu
 - `lsc` - League Softcore
 - `lhc` - League Hardcore
 - `std` - Standard Softcore
+
+
+### Join Our Discord
+
+[https://discord.gg/tftrove](https://discord.gg/tftrove)
