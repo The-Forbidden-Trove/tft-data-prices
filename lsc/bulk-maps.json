@@ -1,6 +1,18 @@
 {
-  "date": 1642636934353,
+  "date": 1642647747460,
   "data": [
+    {
+      "name": "Acid Caverns",
+      "exalt": 0.03,
+      "chaos": 5,
+      "lowConfidence": true
+    },
+    {
+      "name": "Arachnid Nest",
+      "exalt": 0.03,
+      "chaos": 4,
+      "lowConfidence": true
+    },
     {
       "name": "Arcade",
       "exalt": 0.02,
@@ -47,6 +59,12 @@
       "name": "Core",
       "exalt": 0.09,
       "chaos": 14,
+      "lowConfidence": true
+    },
+    {
+      "name": "Fields",
+      "exalt": 0.03,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -134,6 +152,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Summit",
+      "exalt": 0.03,
+      "chaos": 4,
+      "lowConfidence": true
+    },
+    {
       "name": "Terrace",
       "exalt": 0.14,
       "chaos": 22,
@@ -171,8 +195,8 @@
     },
     {
       "name": "Blighted Maps",
-      "exalt": 0.17,
-      "chaos": 27,
+      "exalt": 0.16,
+      "chaos": 24,
       "lowConfidence": false
     },
     {
