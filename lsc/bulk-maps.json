@@ -1,5 +1,5 @@
 {
-  "date": 1642798933563,
+  "date": 1642809726279,
   "data": [
     {
       "name": "Acid Caverns",
@@ -57,12 +57,24 @@
     },
     {
       "name": "Glacier",
-      "exalt": 0.04,
-      "chaos": 6,
+      "exalt": 0.03,
+      "chaos": 5,
+      "lowConfidence": true
+    },
+    {
+      "name": "Park",
+      "exalt": 0.03,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
       "name": "Plateau",
+      "exalt": 0.03,
+      "chaos": 5,
+      "lowConfidence": true
+    },
+    {
+      "name": "Primordial Blocks",
       "exalt": 0.03,
       "chaos": 5,
       "lowConfidence": true
@@ -75,8 +87,8 @@
     },
     {
       "name": "Racecourse",
-      "exalt": 0.05,
-      "chaos": 7,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
@@ -111,7 +123,7 @@
     },
     {
       "name": "Blighted Maps",
-      "exalt": 0.15,
+      "exalt": 0.16,
       "chaos": 24,
       "lowConfidence": false
     },
