@@ -1,5 +1,5 @@
 {
-  "date": 1642753201726,
+  "date": 1642755764878,
   "data": [
     {
       "name": "Augment Attack",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 10,
-      "chaos": 980,
+      "exalt": 12.5,
+      "chaos": 1225,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Augment Influence",
-      "exalt": 150,
-      "chaos": 14700,
+      "exalt": 175,
+      "chaos": 17150,
       "lowConfidence": true
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.76,
-      "chaos": 74,
+      "exalt": 0.92,
+      "chaos": 90,
       "lowConfidence": true
     },
     {
@@ -137,6 +137,12 @@
       "name": "Enchant Body, Strength",
       "exalt": 2,
       "chaos": 196,
+      "lowConfidence": true
+    },
+    {
+      "name": "Enchant Map, Doesn't Consume Sextant",
+      "exalt": 1,
+      "chaos": 97,
       "lowConfidence": true
     },
     {
@@ -406,7 +412,7 @@
     {
       "name": "Remove Non-Influence Add Influence",
       "exalt": 100,
-      "chaos": 9750,
+      "chaos": 9700,
       "lowConfidence": true
     },
     {
