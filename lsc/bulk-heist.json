@@ -1,10 +1,10 @@
 {
-  "date": 1642798914661,
+  "date": 1642809706951,
   "data": [
     {
       "name": "Enchanted Armaments",
       "exalt": 0.07,
-      "chaos": 11,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "Agility",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": true
     },
     {
