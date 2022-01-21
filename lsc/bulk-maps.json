@@ -1,5 +1,5 @@
 {
-  "date": 1642766528145,
+  "date": 1642777304023,
   "data": [
     {
       "name": "Acid Caverns",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Cemetery",
-      "exalt": 0.04,
-      "chaos": 6,
+      "exalt": 0.03,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "name": "Trpoical Island",
-      "exalt": 0.08,
-      "chaos": 12,
+      "exalt": 0.09,
+      "chaos": 13,
       "lowConfidence": true
     },
     {
@@ -106,8 +106,8 @@
     {
       "name": "Blighted Maps",
       "exalt": 0.15,
-      "chaos": 24,
-      "lowConfidence": false
+      "chaos": 22,
+      "lowConfidence": true
     },
     {
       "name": "Elder Maps",
@@ -118,7 +118,7 @@
     {
       "name": "Shaper Maps",
       "exalt": 0.09,
-      "chaos": 14,
+      "chaos": 13,
       "lowConfidence": false
     }
   ]
