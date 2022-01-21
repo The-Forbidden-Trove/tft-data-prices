@@ -1,6 +1,18 @@
 {
-  "date": 1642755736651,
+  "date": 1642766536439,
   "data": [
+    {
+      "name": "Enchant Weapon, Elemental Damage",
+      "exalt": 0.71,
+      "chaos": 50,
+      "lowConfidence": true
+    },
+    {
+      "name": "Randomise Influence Weapon",
+      "exalt": 0.43,
+      "chaos": 30,
+      "lowConfidence": true
+    },
     {
       "name": "Reforge keep Prefix",
       "exalt": 5,
@@ -27,14 +39,26 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.57,
-      "chaos": 40,
+      "exalt": 0.5,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
       "name": "Reroll Prefix Lucky",
       "exalt": 0.57,
       "chaos": 40,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reroll Suffix Lucky",
+      "exalt": 0.71,
+      "chaos": 50,
+      "lowConfidence": true
+    },
+    {
+      "name": "Set Implicit, Cluster Jewel",
+      "exalt": 1,
+      "chaos": 70,
       "lowConfidence": true
     }
   ]
