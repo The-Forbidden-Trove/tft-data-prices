@@ -1,5 +1,5 @@
 {
-  "date": 1642658530928,
+  "date": 1642753169055,
   "data": [
     {
       "name": "Acid Caverns",
@@ -8,15 +8,15 @@
       "lowConfidence": true
     },
     {
-      "name": "Arachnid Nest",
-      "exalt": 0.03,
-      "chaos": 4,
+      "name": "Alleyways",
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
-      "name": "Arcade",
-      "exalt": 0.02,
-      "chaos": 3,
+      "name": "Arachnid Nest",
+      "exalt": 0.03,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -27,37 +27,25 @@
     },
     {
       "name": "Atoll",
-      "exalt": 0.05,
-      "chaos": 7,
-      "lowConfidence": true
-    },
-    {
-      "name": "Basilica",
-      "exalt": 0.02,
-      "chaos": 4,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
       "name": "Canyon",
-      "exalt": 0.06,
-      "chaos": 9,
+      "exalt": 0.05,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
       "name": "Cemetery",
-      "exalt": 0.02,
-      "chaos": 4,
-      "lowConfidence": true
-    },
-    {
-      "name": "Conservatory",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
       "name": "Core",
-      "exalt": 0.09,
+      "exalt": 0.1,
       "chaos": 14,
       "lowConfidence": true
     },
@@ -74,67 +62,7 @@
       "lowConfidence": true
     },
     {
-      "name": "Haunted Mansion",
-      "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": true
-    },
-    {
-      "name": "Leyline",
-      "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": true
-    },
-    {
-      "name": "Malformation",
-      "exalt": 0.02,
-      "chaos": 3,
-      "lowConfidence": true
-    },
-    {
-      "name": "Mausoleum",
-      "exalt": 0.02,
-      "chaos": 3,
-      "lowConfidence": true
-    },
-    {
-      "name": "Maze",
-      "exalt": 0.02,
-      "chaos": 3,
-      "lowConfidence": true
-    },
-    {
-      "name": "Mineral Pools",
-      "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": true
-    },
-    {
-      "name": "Necropolis",
-      "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": true
-    },
-    {
-      "name": "Palace",
-      "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": true
-    },
-    {
-      "name": "Park",
-      "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": false
-    },
-    {
       "name": "Plateau",
-      "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": true
-    },
-    {
-      "name": "Primordial Blocks",
       "exalt": 0.03,
       "chaos": 5,
       "lowConfidence": true
@@ -146,43 +74,25 @@
       "lowConfidence": true
     },
     {
-      "name": "Relic Chambers",
-      "exalt": 0.02,
-      "chaos": 3,
-      "lowConfidence": true
-    },
-    {
       "name": "Summit",
       "exalt": 0.03,
       "chaos": 4,
       "lowConfidence": true
     },
     {
-      "name": "Terrace",
-      "exalt": 0.14,
-      "chaos": 22,
-      "lowConfidence": true
-    },
-    {
       "name": "Tower",
-      "exalt": 0.05,
-      "chaos": 8,
-      "lowConfidence": true
-    },
-    {
-      "name": "Trpoical Island",
-      "exalt": 0.07,
-      "chaos": 11,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": false
     },
     {
-      "name": "Underground Sea",
-      "exalt": 0.02,
-      "chaos": 4,
+      "name": "Trpoical Island",
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
-      "name": "Vaal Pyramid",
+      "name": "Underground Sea",
       "exalt": 0.02,
       "chaos": 3,
       "lowConfidence": true
@@ -195,20 +105,20 @@
     },
     {
       "name": "Blighted Maps",
-      "exalt": 0.16,
-      "chaos": 26,
+      "exalt": 0.14,
+      "chaos": 22,
       "lowConfidence": false
     },
     {
       "name": "Elder Maps",
       "exalt": 0.09,
-      "chaos": 14,
+      "chaos": 13,
       "lowConfidence": false
     },
     {
       "name": "Shaper Maps",
       "exalt": 0.09,
-      "chaos": 13,
+      "chaos": 14,
       "lowConfidence": false
     }
   ]
