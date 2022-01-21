@@ -1,10 +1,16 @@
 {
-  "date": 1642788135778,
+  "date": 1642798943945,
   "data": [
     {
       "name": "Enchant Weapon, Elemental Damage",
       "exalt": 0.71,
       "chaos": 50,
+      "lowConfidence": true
+    },
+    {
+      "name": "Sacrifice Divination Card 0-2x",
+      "exalt": 1,
+      "chaos": 69,
       "lowConfidence": true
     },
     {
@@ -35,6 +41,12 @@
       "name": "Reforge keep Suffix Lucky",
       "exalt": 6,
       "chaos": 420,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Rare More Likely",
+      "exalt": 0.29,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
