@@ -1,5 +1,5 @@
 {
-  "date": 1642777304023,
+  "date": 1642788127889,
   "data": [
     {
       "name": "Acid Caverns",
@@ -28,7 +28,7 @@
     {
       "name": "Atoll",
       "exalt": 0.04,
-      "chaos": 6,
+      "chaos": 7,
       "lowConfidence": true
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "Core",
-      "exalt": 0.1,
-      "chaos": 14,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "name": "Racecourse",
-      "exalt": 0.04,
-      "chaos": 6,
+      "exalt": 0.05,
+      "chaos": 7,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Tower",
-      "exalt": 0.03,
-      "chaos": 5,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": false
     },
     {
@@ -106,13 +106,13 @@
     {
       "name": "Blighted Maps",
       "exalt": 0.15,
-      "chaos": 22,
-      "lowConfidence": true
+      "chaos": 24,
+      "lowConfidence": false
     },
     {
       "name": "Elder Maps",
       "exalt": 0.09,
-      "chaos": 14,
+      "chaos": 13,
       "lowConfidence": false
     },
     {
