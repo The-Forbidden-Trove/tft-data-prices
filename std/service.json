@@ -1,28 +1,16 @@
 {
-  "date": 1642658605898,
+  "date": 1642753208243,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 1.5,
-      "chaos": 149,
-      "lowConfidence": true
-    },
-    {
-      "name": "Sirus Awaken 9",
       "exalt": 1.5,
       "chaos": 147,
       "lowConfidence": true
     },
     {
-      "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 2,
-      "chaos": 196,
-      "lowConfidence": true
-    },
-    {
       "name": "T4 Aisling",
-      "exalt": 7,
-      "chaos": 691,
+      "exalt": 6.25,
+      "chaos": 612,
       "lowConfidence": false
     },
     {
@@ -33,38 +21,32 @@
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 5.5,
-      "chaos": 536,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 6,
-      "chaos": 582,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.52,
+      "exalt": 0.51,
       "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 3,
-      "chaos": 296,
-      "lowConfidence": true
-    },
-    {
-      "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 1,
-      "chaos": 98,
+      "exalt": 2,
+      "chaos": 196,
       "lowConfidence": true
     },
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 6,
-      "chaos": 582,
+      "chaos": 585,
       "lowConfidence": false
     },
     {
@@ -76,7 +58,7 @@
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 392,
+      "chaos": 390,
       "lowConfidence": true
     }
   ]
