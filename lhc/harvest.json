@@ -1,5 +1,5 @@
 {
-  "date": 1642798943945,
+  "date": 1642809736843,
   "data": [
     {
       "name": "Enchant Weapon, Elemental Damage",
@@ -51,8 +51,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.5,
-      "chaos": 35,
+      "exalt": 0.43,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
