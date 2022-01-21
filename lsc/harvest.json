@@ -1,10 +1,10 @@
 {
-  "date": 1642788098550,
+  "date": 1642798903815,
   "data": [
     {
       "name": "Augment Attack",
       "exalt": 10,
-      "chaos": 1515,
+      "chaos": 1520,
       "lowConfidence": true
     },
     {
@@ -15,8 +15,8 @@
     },
     {
       "name": "Augment Caster",
-      "exalt": 0.26,
-      "chaos": 40,
+      "exalt": 0.33,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "Augment Critical",
       "exalt": 10,
-      "chaos": 1515,
+      "chaos": 1520,
       "lowConfidence": false
     },
     {
@@ -111,9 +111,9 @@
     },
     {
       "name": "Enchant Body, Fire Resist",
-      "exalt": 0.73,
-      "chaos": 111,
-      "lowConfidence": true
+      "exalt": 1,
+      "chaos": 151,
+      "lowConfidence": false
     },
     {
       "name": "Enchant Body, Intelligence",
@@ -122,9 +122,15 @@
       "lowConfidence": false
     },
     {
+      "name": "Enchant Body, Lightning Resist",
+      "exalt": 0.2,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.17,
+      "chaos": 25,
       "lowConfidence": false
     },
     {
@@ -135,8 +141,8 @@
     },
     {
       "name": "Enchant Body, Strength",
-      "exalt": 0.9,
-      "chaos": 136,
+      "exalt": 1,
+      "chaos": 152,
       "lowConfidence": false
     },
     {
@@ -159,8 +165,8 @@
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.5,
-      "chaos": 75,
+      "exalt": 0.66,
+      "chaos": 100,
       "lowConfidence": false
     },
     {
@@ -201,20 +207,20 @@
     },
     {
       "name": "Awaken Level 20 Support Gem",
-      "exalt": 0.66,
-      "chaos": 100,
+      "exalt": 0.83,
+      "chaos": 126,
       "lowConfidence": true
     },
     {
       "name": "Sacrifice Divination Card 0-2x",
-      "exalt": 0.53,
-      "chaos": 80,
+      "exalt": 0.5,
+      "chaos": 76,
       "lowConfidence": false
     },
     {
       "name": "Synthesise an item",
-      "exalt": 5.25,
-      "chaos": 796,
+      "exalt": 5,
+      "chaos": 760,
       "lowConfidence": false
     },
     {
@@ -238,7 +244,7 @@
     {
       "name": "Reforge keep Prefix",
       "exalt": 2,
-      "chaos": 303,
+      "chaos": 302,
       "lowConfidence": false
     },
     {
@@ -273,8 +279,8 @@
     },
     {
       "name": "Reforge Caster",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -285,14 +291,14 @@
     },
     {
       "name": "Reforge Physical",
-      "exalt": 0.1,
-      "chaos": 15,
-      "lowConfidence": false
+      "exalt": 0.08,
+      "chaos": 12,
+      "lowConfidence": true
     },
     {
       "name": "Reforge Physical More Common",
-      "exalt": 0.1,
-      "chaos": 15,
+      "exalt": 0.13,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
@@ -321,8 +327,8 @@
     },
     {
       "name": "Reforge Lightning",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.1,
+      "chaos": 15,
       "lowConfidence": false
     },
     {
@@ -381,8 +387,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 11,
-      "chaos": 1666,
+      "exalt": 10,
+      "chaos": 1520,
       "lowConfidence": false
     },
     {
@@ -513,8 +519,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.13,
-      "chaos": 20,
+      "exalt": 0.11,
+      "chaos": 16,
       "lowConfidence": false
     },
     {
@@ -561,8 +567,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.31,
-      "chaos": 48,
+      "exalt": 0.33,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
