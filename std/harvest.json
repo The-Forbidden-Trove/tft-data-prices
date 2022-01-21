@@ -1,16 +1,16 @@
 {
-  "date": 1642777342418,
+  "date": 1642788165549,
   "data": [
     {
       "name": "Augment Attack",
       "exalt": 40,
       "chaos": 3920,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Augment Caster",
       "exalt": 12.5,
-      "chaos": 1221,
+      "chaos": 1225,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "Augment Cold",
-      "exalt": 6,
-      "chaos": 588,
+      "exalt": 5.75,
+      "chaos": 564,
       "lowConfidence": true
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 12.5,
-      "chaos": 1225,
+      "exalt": 9,
+      "chaos": 882,
       "lowConfidence": true
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "name": "Augment Critical",
-      "exalt": 45,
-      "chaos": 4410,
+      "exalt": 40,
+      "chaos": 3920,
       "lowConfidence": true
     },
     {
@@ -117,9 +117,9 @@
     },
     {
       "name": "Enchant Body, Intelligence",
-      "exalt": 0.51,
-      "chaos": 50,
-      "lowConfidence": false
+      "exalt": 0.76,
+      "chaos": 74,
+      "lowConfidence": true
     },
     {
       "name": "Enchant Body, Lightning Resist",
@@ -183,8 +183,8 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -203,7 +203,7 @@
       "name": "Fracture 1/5",
       "exalt": 20,
       "chaos": 1960,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Sacrifice Divination Card 0-2x",
@@ -231,8 +231,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -256,7 +256,7 @@
     {
       "name": "Reforge keep Suffix Lucky",
       "exalt": 6,
-      "chaos": 582,
+      "chaos": 588,
       "lowConfidence": false
     },
     {
@@ -315,8 +315,8 @@
     },
     {
       "name": "Reforge Chaos",
-      "exalt": 0.26,
-      "chaos": 25,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -326,15 +326,27 @@
       "lowConfidence": true
     },
     {
+      "name": "Reforge Defence",
+      "exalt": 0.31,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
       "name": "Reforge Defence More Common",
       "exalt": 0.31,
       "chaos": 30,
-      "lowConfidence": false
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge Life",
+      "exalt": 0.31,
+      "chaos": 30,
+      "lowConfidence": true
     },
     {
       "name": "Reforge Life More Common",
-      "exalt": 0.26,
-      "chaos": 25,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -423,8 +435,8 @@
     },
     {
       "name": "Remove Non-Critical Add Critical",
-      "exalt": 20,
-      "chaos": 1960,
+      "exalt": 12.5,
+      "chaos": 1225,
       "lowConfidence": true
     },
     {
@@ -459,14 +471,14 @@
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -477,8 +489,8 @@
     },
     {
       "name": "Cold to Lightning Resist",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
