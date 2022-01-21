@@ -1,5 +1,5 @@
 {
-  "date": 1642766509578,
+  "date": 1642777284165,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Agility",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": true
     },
@@ -53,7 +53,7 @@
       "name": "Demolition",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Engineering",
