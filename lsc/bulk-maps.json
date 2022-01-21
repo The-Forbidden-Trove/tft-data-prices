@@ -1,5 +1,5 @@
 {
-  "date": 1642788127889,
+  "date": 1642798933563,
   "data": [
     {
       "name": "Acid Caverns",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Cemetery",
-      "exalt": 0.03,
-      "chaos": 4,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
@@ -68,6 +68,12 @@
       "lowConfidence": true
     },
     {
+      "name": "Promenade",
+      "exalt": 0.05,
+      "chaos": 8,
+      "lowConfidence": true
+    },
+    {
       "name": "Racecourse",
       "exalt": 0.05,
       "chaos": 7,
@@ -83,7 +89,7 @@
       "name": "Tower",
       "exalt": 0.04,
       "chaos": 6,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Trpoical Island",
