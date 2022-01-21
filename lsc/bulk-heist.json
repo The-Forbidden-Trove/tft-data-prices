@@ -1,5 +1,5 @@
 {
-  "date": 1642755714167,
+  "date": 1642766509578,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Counter-Thaumaturgy",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
@@ -53,7 +53,7 @@
       "name": "Demolition",
       "exalt": 0.01,
       "chaos": 2,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Engineering",
