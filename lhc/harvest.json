@@ -1,244 +1,40 @@
 {
-  "date": 1642658561101,
+  "date": 1642753172898,
   "data": [
     {
-      "name": "Augment Defence",
-      "exalt": 10,
-      "chaos": 800,
-      "lowConfidence": true
-    },
-    {
-      "name": "Augment Critical",
-      "exalt": 3,
-      "chaos": 210,
-      "lowConfidence": true
-    },
-    {
-      "name": "Augment Non-Influence Lucky",
-      "exalt": 0.99,
-      "chaos": 70,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Body, Lightning Resist",
-      "exalt": 1.5,
-      "chaos": 107,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.29,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.42,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Critical Strike Chance",
-      "exalt": 1,
-      "chaos": 70,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.56,
-      "chaos": 40,
-      "lowConfidence": true
-    },
-    {
-      "name": "Randomise Influence Armour",
-      "exalt": 0.56,
-      "chaos": 40,
-      "lowConfidence": true
-    },
-    {
-      "name": "Randomise Influence Jewellery",
-      "exalt": 0.29,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Randomise Influence Weapon",
-      "exalt": 0.56,
-      "chaos": 40,
+      "name": "Reforge keep Prefix",
+      "exalt": 5,
+      "chaos": 350,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 2,
-      "chaos": 144,
+      "exalt": 6,
+      "chaos": 420,
+      "lowConfidence": true
+    },
+    {
+      "name": "Reforge keep Suffix",
+      "exalt": 5,
+      "chaos": 350,
       "lowConfidence": true
     },
     {
       "name": "Reforge keep Suffix Lucky",
-      "exalt": 2,
-      "chaos": 144,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Attack More Common",
-      "exalt": 0.28,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Caster",
-      "exalt": 0.28,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Caster More Common",
-      "exalt": 0.28,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Chaos More Common",
-      "exalt": 0.28,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Life",
-      "exalt": 0.36,
-      "chaos": 27,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Life More Common",
-      "exalt": 0.37,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Critical",
-      "exalt": 0.14,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Critical More Common",
-      "exalt": 0.28,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Rare Less Likely",
-      "exalt": 0.29,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Rare More Likely",
-      "exalt": 0.43,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Speed",
-      "exalt": 0.28,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge Speed More Common",
-      "exalt": 0.32,
-      "chaos": 22,
+      "exalt": 6,
+      "chaos": 420,
       "lowConfidence": true
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.28,
-      "chaos": 20,
+      "exalt": 0.57,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.56,
+      "exalt": 0.57,
       "chaos": 40,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reroll Suffix Lucky",
-      "exalt": 0.56,
-      "chaos": 40,
-      "lowConfidence": true
-    },
-    {
-      "name": "Cold to Fire Resist",
-      "exalt": 0.14,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Cold to Lightning Resist",
-      "exalt": 0.14,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Fire to Cold Resist",
-      "exalt": 0.14,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Lightning to Cold Resist",
-      "exalt": 0.14,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Lightning to Fire Resist",
-      "exalt": 0.15,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Set Implicit, Abyss/Timeless Jewel",
-      "exalt": 1,
-      "chaos": 80,
-      "lowConfidence": true
-    },
-    {
-      "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.28,
-      "chaos": 20,
-      "lowConfidence": true
-    },
-    {
-      "name": "Set Implicit, Cluster Jewel",
-      "exalt": 0.14,
-      "chaos": 10,
-      "lowConfidence": true
-    },
-    {
-      "name": "Five Links",
-      "exalt": 0.07,
-      "chaos": 5,
-      "lowConfidence": true
-    },
-    {
-      "name": "Non-Blue into Blue Socket",
-      "exalt": 0.21,
-      "chaos": 15,
-      "lowConfidence": true
-    },
-    {
-      "name": "Non-Red into Red Socket",
-      "exalt": 0.18,
-      "chaos": 12,
-      "lowConfidence": true
-    },
-    {
-      "name": "Six Links",
-      "exalt": 2.5,
-      "chaos": 203,
       "lowConfidence": true
     }
   ]
