@@ -1,5 +1,5 @@
 {
-  "date": 1642753139772,
+  "date": 1642755703774,
   "data": [
     {
       "name": "Augment Attack",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Augment Cold",
-      "exalt": 5.5,
-      "chaos": 834,
+      "exalt": 5,
+      "chaos": 755,
       "lowConfidence": true
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.46,
-      "chaos": 70,
+      "exalt": 0.43,
+      "chaos": 65,
       "lowConfidence": false
     },
     {
@@ -147,14 +147,14 @@
     },
     {
       "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.14,
-      "chaos": 22,
+      "exalt": 0.17,
+      "chaos": 25,
       "lowConfidence": false
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.48,
-      "chaos": 72,
+      "exalt": 0.49,
+      "chaos": 75,
       "lowConfidence": false
     },
     {
@@ -219,8 +219,8 @@
     },
     {
       "name": "Randomise Influence Jewellery",
-      "exalt": 0.26,
-      "chaos": 40,
+      "exalt": 0.23,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 12.5,
-      "chaos": 1894,
+      "exalt": 12,
+      "chaos": 1812,
       "lowConfidence": false
     },
     {
@@ -555,8 +555,8 @@
     },
     {
       "name": "Six Links",
-      "exalt": 2.5,
-      "chaos": 375,
+      "exalt": 1.75,
+      "chaos": 264,
       "lowConfidence": true
     }
   ]
