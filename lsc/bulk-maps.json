@@ -1,5 +1,5 @@
 {
-  "date": 1642809726279,
+  "date": 1642820532890,
   "data": [
     {
       "name": "Acid Caverns",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Alleyways",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.03,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Atoll",
-      "exalt": 0.04,
+      "exalt": 0.05,
       "chaos": 7,
       "lowConfidence": true
     },
@@ -99,8 +99,8 @@
     },
     {
       "name": "Tower",
-      "exalt": 0.04,
-      "chaos": 6,
+      "exalt": 0.05,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "name": "Elder Maps",
-      "exalt": 0.09,
-      "chaos": 13,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": false
     },
     {
