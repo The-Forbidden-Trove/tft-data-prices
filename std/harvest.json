@@ -1,10 +1,10 @@
 {
-  "date": 1642885375676,
+  "date": 1642896183226,
   "data": [
     {
       "name": "Augment Attack",
       "exalt": 20,
-      "chaos": 1970,
+      "chaos": 1960,
       "lowConfidence": false
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Augment Chaos",
-      "exalt": 13,
-      "chaos": 1274,
+      "exalt": 12.5,
+      "chaos": 1230,
       "lowConfidence": true
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "Augment Critical Lucky",
       "exalt": 20,
-      "chaos": 1960,
+      "chaos": 1940,
       "lowConfidence": true
     },
     {
@@ -105,8 +105,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.56,
-      "chaos": 55,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -207,8 +207,8 @@
     },
     {
       "name": "Fracture 1/3 Suffix",
-      "exalt": 35,
-      "chaos": 3430,
+      "exalt": 45,
+      "chaos": 4410,
       "lowConfidence": true
     },
     {
@@ -232,7 +232,7 @@
     {
       "name": "Synthesise an item",
       "exalt": 12,
-      "chaos": 1179,
+      "chaos": 1176,
       "lowConfidence": false
     },
     {
@@ -339,9 +339,9 @@
     },
     {
       "name": "Reforge Chaos More Common",
-      "exalt": 0.41,
-      "chaos": 40,
-      "lowConfidence": false
+      "exalt": 0.35,
+      "chaos": 35,
+      "lowConfidence": true
     },
     {
       "name": "Reforge Defence",
@@ -369,8 +369,8 @@
     },
     {
       "name": "Reforge Critical",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 12,
-      "chaos": 1176,
+      "exalt": 11,
+      "chaos": 1083,
       "lowConfidence": false
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.48,
+      "chaos": 48,
       "lowConfidence": false
     },
     {
@@ -417,8 +417,8 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 7.5,
-      "chaos": 735,
+      "exalt": 8,
+      "chaos": 784,
       "lowConfidence": false
     },
     {
@@ -436,13 +436,13 @@
     {
       "name": "Remove Non-Lightning Add Lightning",
       "exalt": 6,
-      "chaos": 588,
+      "chaos": 591,
       "lowConfidence": false
     },
     {
       "name": "Remove Non-Physical Add Physical",
       "exalt": 5,
-      "chaos": 492,
+      "chaos": 491,
       "lowConfidence": true
     },
     {
@@ -472,7 +472,7 @@
     {
       "name": "Remove Non-Life Add Life",
       "exalt": 20,
-      "chaos": 1980,
+      "chaos": 1970,
       "lowConfidence": false
     },
     {
@@ -483,20 +483,20 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.3,
+      "exalt": 0.31,
       "chaos": 30,
       "lowConfidence": false
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.47,
-      "chaos": 46,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -573,8 +573,8 @@
     },
     {
       "name": "Non-Red into Red Socket",
-      "exalt": 0.77,
-      "chaos": 75,
+      "exalt": 0.91,
+      "chaos": 89,
       "lowConfidence": false
     },
     {
