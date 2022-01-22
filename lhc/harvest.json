@@ -1,6 +1,18 @@
 {
-  "date": 1642842112381,
+  "date": 1642852908358,
   "data": [
+    {
+      "name": "Enchant Body, Maximum Life",
+      "exalt": 0.14,
+      "chaos": 10,
+      "lowConfidence": true
+    },
+    {
+      "name": "Enchant Weapon, Area of Effect",
+      "exalt": 0.14,
+      "chaos": 10,
+      "lowConfidence": true
+    },
     {
       "name": "Enchant Weapon, Elemental Damage",
       "exalt": 0.71,
@@ -51,8 +63,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.43,
-      "chaos": 30,
+      "exalt": 0.5,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
