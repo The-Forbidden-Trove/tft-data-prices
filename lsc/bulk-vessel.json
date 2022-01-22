@@ -1,11 +1,11 @@
 {
-  "date": 1642809709330,
+  "date": 1642820515105,
   "data": [
     {
       "name": "Blood Filled Vessel",
-      "exalt": 0.17,
-      "chaos": 26,
-      "lowConfidence": true
+      "exalt": 0.18,
+      "chaos": 28,
+      "lowConfidence": false
     }
   ]
 }
