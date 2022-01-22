@@ -1,5 +1,5 @@
 {
-  "date": 1642885345605,
+  "date": 1642896153544,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
@@ -63,8 +63,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.5,
-      "chaos": 35,
+      "exalt": 0.43,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
