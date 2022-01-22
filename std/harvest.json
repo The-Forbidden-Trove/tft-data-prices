@@ -1,5 +1,5 @@
 {
-  "date": 1642863771619,
+  "date": 1642874569097,
   "data": [
     {
       "name": "Augment Attack",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Augment Caster",
-      "exalt": 12.5,
-      "chaos": 1228,
+      "exalt": 10,
+      "chaos": 985,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "Augment Cold",
-      "exalt": 5,
-      "chaos": 490,
+      "exalt": 5.25,
+      "chaos": 516,
       "lowConfidence": true
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 5.75,
-      "chaos": 565,
+      "exalt": 5,
+      "chaos": 491,
       "lowConfidence": true
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "name": "Augment Defence",
-      "exalt": 10,
-      "chaos": 980,
+      "exalt": 12.5,
+      "chaos": 1225,
       "lowConfidence": true
     },
     {
@@ -81,9 +81,9 @@
     },
     {
       "name": "Augment Critical",
-      "exalt": 35,
-      "chaos": 3430,
-      "lowConfidence": true
+      "exalt": 27.5,
+      "chaos": 2695,
+      "lowConfidence": false
     },
     {
       "name": "Augment Critical Lucky",
@@ -117,8 +117,8 @@
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.91,
-      "chaos": 89,
+      "exalt": 1,
+      "chaos": 98,
       "lowConfidence": false
     },
     {
@@ -136,7 +136,7 @@
     {
       "name": "Enchant Body, Lightning Resist",
       "exalt": 1.5,
-      "chaos": 149,
+      "chaos": 147,
       "lowConfidence": true
     },
     {
@@ -185,18 +185,18 @@
       "name": "Enchant Weapon, Critical Strike Chance",
       "exalt": 0.61,
       "chaos": 60,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.56,
+      "chaos": 55,
       "lowConfidence": false
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -237,8 +237,8 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -249,20 +249,20 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.43,
+      "chaos": 42,
       "lowConfidence": false
     },
     {
       "name": "Reforge keep Prefix",
-      "exalt": 6,
-      "chaos": 588,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": false
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 5.25,
-      "chaos": 517,
+      "exalt": 5,
+      "chaos": 492,
       "lowConfidence": false
     },
     {
@@ -291,8 +291,8 @@
     },
     {
       "name": "Reforge Caster",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.26,
+      "chaos": 25,
       "lowConfidence": true
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "Reforge Chaos",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -353,7 +353,7 @@
       "name": "Reforge Defence More Common",
       "exalt": 0.41,
       "chaos": 40,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Reforge Life",
@@ -363,14 +363,14 @@
     },
     {
       "name": "Reforge Life More Common",
-      "exalt": 0.38,
-      "chaos": 38,
-      "lowConfidence": true
+      "exalt": 0.36,
+      "chaos": 35,
+      "lowConfidence": false
     },
     {
       "name": "Reforge Critical",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -387,14 +387,14 @@
     },
     {
       "name": "Reforge Rare Less Likely",
-      "exalt": 0.28,
-      "chaos": 28,
+      "exalt": 0.36,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -411,26 +411,26 @@
     },
     {
       "name": "Remove Non-Attack Add Attack",
-      "exalt": 1,
-      "chaos": 97,
+      "exalt": 30,
+      "chaos": 2940,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 7,
-      "chaos": 693,
+      "exalt": 7.5,
+      "chaos": 735,
       "lowConfidence": false
     },
     {
       "name": "Remove Non-Cold Add Cold",
-      "exalt": 6.5,
-      "chaos": 640,
+      "exalt": 13.5,
+      "chaos": 1323,
       "lowConfidence": false
     },
     {
       "name": "Remove Non-Fire Add Fire",
-      "exalt": 4,
-      "chaos": 392,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": true
     },
     {
@@ -442,20 +442,20 @@
     {
       "name": "Remove Non-Physical Add Physical",
       "exalt": 5,
-      "chaos": 492,
+      "chaos": 495,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
-      "exalt": 15,
-      "chaos": 1455,
+      "exalt": 8,
+      "chaos": 784,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Critical Add Critical",
-      "exalt": 35,
-      "chaos": 3430,
-      "lowConfidence": false
+      "exalt": 37.5,
+      "chaos": 3675,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Defence Add Defence",
@@ -465,8 +465,8 @@
     },
     {
       "name": "Remove Non-Influence Add Influence",
-      "exalt": 70,
-      "chaos": 6875,
+      "exalt": 68.75,
+      "chaos": 6752,
       "lowConfidence": true
     },
     {
@@ -495,8 +495,8 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -513,8 +513,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -531,9 +531,15 @@
     },
     {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": false
+    },
+    {
+      "name": "Sacrifice Gem, 50% XP As Facetor Lens",
+      "exalt": 1.5,
+      "chaos": 147,
+      "lowConfidence": true
     },
     {
       "name": "Set Implicit, Abyss/Timeless Jewel",
