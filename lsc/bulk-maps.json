@@ -1,5 +1,5 @@
 {
-  "date": 1642874526955,
+  "date": 1642885333690,
   "data": [
     {
       "name": "Acid Caverns",
@@ -10,7 +10,7 @@
     {
       "name": "Alleyways",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -44,9 +44,15 @@
       "lowConfidence": true
     },
     {
+      "name": "Conservatory",
+      "exalt": 0.02,
+      "chaos": 3,
+      "lowConfidence": true
+    },
+    {
       "name": "Core",
-      "exalt": 0.11,
-      "chaos": 16,
+      "exalt": 0.09,
+      "chaos": 14,
       "lowConfidence": true
     },
     {
@@ -62,15 +68,45 @@
       "lowConfidence": true
     },
     {
-      "name": "Park",
+      "name": "Leyline",
       "exalt": 0.03,
       "chaos": 4,
       "lowConfidence": true
     },
     {
-      "name": "Plateau",
+      "name": "Mausoleum",
+      "exalt": 0.02,
+      "chaos": 3,
+      "lowConfidence": true
+    },
+    {
+      "name": "Mineral Pools",
+      "exalt": 0.03,
+      "chaos": 4,
+      "lowConfidence": true
+    },
+    {
+      "name": "Necropolis",
+      "exalt": 0.03,
+      "chaos": 4,
+      "lowConfidence": true
+    },
+    {
+      "name": "Palace",
+      "exalt": 0.03,
+      "chaos": 4,
+      "lowConfidence": true
+    },
+    {
+      "name": "Park",
       "exalt": 0.03,
       "chaos": 5,
+      "lowConfidence": true
+    },
+    {
+      "name": "Plateau",
+      "exalt": 0.03,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -105,8 +141,8 @@
     },
     {
       "name": "Trpoical Island",
-      "exalt": 0.09,
-      "chaos": 13,
+      "exalt": 0.07,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
@@ -124,18 +160,18 @@
     {
       "name": "Blighted Maps",
       "exalt": 0.15,
-      "chaos": 24,
+      "chaos": 23,
       "lowConfidence": false
     },
     {
       "name": "Elder Maps",
-      "exalt": 0.08,
+      "exalt": 0.07,
       "chaos": 11,
       "lowConfidence": false
     },
     {
       "name": "Shaper Maps",
-      "exalt": 0.08,
+      "exalt": 0.07,
       "chaos": 11,
       "lowConfidence": false
     }
