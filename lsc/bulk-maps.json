@@ -1,5 +1,5 @@
 {
-  "date": 1642863731185,
+  "date": 1642874526955,
   "data": [
     {
       "name": "Acid Caverns",
@@ -45,8 +45,8 @@
     },
     {
       "name": "Core",
-      "exalt": 0.09,
-      "chaos": 13,
+      "exalt": 0.11,
+      "chaos": 16,
       "lowConfidence": true
     },
     {
@@ -100,7 +100,7 @@
     {
       "name": "Tower",
       "exalt": 0.05,
-      "chaos": 7,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "name": "Blighted Maps",
-      "exalt": 0.17,
-      "chaos": 25,
+      "exalt": 0.15,
+      "chaos": 24,
       "lowConfidence": false
     },
     {
@@ -136,7 +136,7 @@
     {
       "name": "Shaper Maps",
       "exalt": 0.08,
-      "chaos": 12,
+      "chaos": 11,
       "lowConfidence": false
     }
   ]
