@@ -1,16 +1,16 @@
 {
-  "date": 1642809764892,
+  "date": 1642820571448,
   "data": [
     {
       "name": "Augment Attack",
-      "exalt": 30,
-      "chaos": 2950,
+      "exalt": 20,
+      "chaos": 1980,
       "lowConfidence": false
     },
     {
       "name": "Augment Caster",
       "exalt": 12.5,
-      "chaos": 1225,
+      "chaos": 1230,
       "lowConfidence": true
     },
     {
@@ -21,15 +21,15 @@
     },
     {
       "name": "Augment Cold",
-      "exalt": 5.75,
-      "chaos": 564,
+      "exalt": 6,
+      "chaos": 588,
       "lowConfidence": true
     },
     {
       "name": "Augment Fire",
-      "exalt": 15.5,
-      "chaos": 1519,
-      "lowConfidence": true
+      "exalt": 15,
+      "chaos": 1485,
+      "lowConfidence": false
     },
     {
       "name": "Augment Fire Lucky",
@@ -39,8 +39,8 @@
     },
     {
       "name": "Augment Lightning",
-      "exalt": 9,
-      "chaos": 882,
+      "exalt": 8,
+      "chaos": 784,
       "lowConfidence": true
     },
     {
@@ -105,8 +105,8 @@
     },
     {
       "name": "Enchant Body, Dexterity",
-      "exalt": 0.92,
-      "chaos": 90,
+      "exalt": 0.71,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
@@ -135,8 +135,8 @@
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 0.52,
-      "chaos": 50,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "name": "Fracture 1/5",
-      "exalt": 20,
-      "chaos": 1960,
+      "exalt": 17.5,
+      "chaos": 1722,
       "lowConfidence": false
     },
     {
@@ -244,7 +244,7 @@
     {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 492,
       "lowConfidence": false
     },
     {
@@ -279,8 +279,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.33,
-      "chaos": 32,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
@@ -291,8 +291,8 @@
     },
     {
       "name": "Reforge Physical More Common",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.2,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -309,8 +309,8 @@
     },
     {
       "name": "Reforge Lightning More Common",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 12,
-      "chaos": 1176,
+      "exalt": 11,
+      "chaos": 1083,
       "lowConfidence": false
     },
     {
@@ -375,8 +375,8 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -442,7 +442,7 @@
     {
       "name": "Remove Non-Defence Add Defence",
       "exalt": 6.5,
-      "chaos": 637,
+      "chaos": 636,
       "lowConfidence": true
     },
     {
@@ -453,8 +453,8 @@
     },
     {
       "name": "Remove Non-Life Add Life",
-      "exalt": 16.5,
-      "chaos": 1617,
+      "exalt": 18,
+      "chaos": 1755,
       "lowConfidence": false
     },
     {
@@ -471,20 +471,20 @@
     },
     {
       "name": "Reroll Prefix Lucky",
+      "exalt": 0.41,
+      "chaos": 40,
+      "lowConfidence": false
+    },
+    {
+      "name": "Reroll Suffix Lucky",
       "exalt": 0.46,
       "chaos": 45,
       "lowConfidence": false
     },
     {
-      "name": "Reroll Suffix Lucky",
-      "exalt": 0.51,
-      "chaos": 50,
-      "lowConfidence": false
-    },
-    {
       "name": "Cold to Fire Resist",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -495,8 +495,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -537,8 +537,8 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 0.86,
-      "chaos": 84,
+      "exalt": 0.71,
+      "chaos": 70,
       "lowConfidence": false
     },
     {
