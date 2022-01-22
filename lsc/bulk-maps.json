@@ -1,5 +1,5 @@
 {
-  "date": 1642885333690,
+  "date": 1642896141718,
   "data": [
     {
       "name": "Acid Caverns",
@@ -166,7 +166,7 @@
     {
       "name": "Elder Maps",
       "exalt": 0.07,
-      "chaos": 11,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
