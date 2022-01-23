@@ -1,5 +1,5 @@
 {
-  "date": 1642928495052,
+  "date": 1642939325565,
   "data": [
     {
       "name": "Acid Caverns",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Atoll",
-      "exalt": 0.04,
-      "chaos": 6,
+      "exalt": 0.05,
+      "chaos": 7,
       "lowConfidence": true
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "name": "Blighted Maps",
-      "exalt": 0.15,
+      "exalt": 0.14,
       "chaos": 22,
       "lowConfidence": false
     },
