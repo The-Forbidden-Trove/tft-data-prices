@@ -1,5 +1,5 @@
 {
-  "date": 1642960954107,
+  "date": 1642971747083,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
@@ -57,8 +57,8 @@
     },
     {
       "name": "Reforge keep Suffix",
-      "exalt": 5,
-      "chaos": 350,
+      "exalt": 2,
+      "chaos": 140,
       "lowConfidence": true
     },
     {
