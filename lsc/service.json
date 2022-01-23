@@ -1,11 +1,11 @@
 {
-  "date": 1642896112025,
+  "date": 1642906906385,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
       "chaos": 150,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Sirus Awaken 9",
@@ -16,7 +16,7 @@
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2,
-      "chaos": 300,
+      "chaos": 299,
       "lowConfidence": true
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.27,
-      "chaos": 40,
+      "exalt": 0.3,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
