@@ -1,5 +1,5 @@
 {
-  "date": 1642939304409,
+  "date": 1642950110255,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.11,
+      "chaos": 17,
       "lowConfidence": false
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "name": "Counter-Thaumaturgy",
-      "exalt": 0.01,
-      "chaos": 2,
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": false
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": true
     },
