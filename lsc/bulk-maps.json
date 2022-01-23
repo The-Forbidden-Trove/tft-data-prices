@@ -1,5 +1,5 @@
 {
-  "date": 1642906931017,
+  "date": 1642917726311,
   "data": [
     {
       "name": "Acid Caverns",
@@ -27,8 +27,8 @@
     },
     {
       "name": "Atoll",
-      "exalt": 0.05,
-      "chaos": 7,
+      "exalt": 0.04,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Core",
-      "exalt": 0.09,
-      "chaos": 14,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
@@ -100,7 +100,7 @@
     {
       "name": "Park",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -136,7 +136,7 @@
     {
       "name": "Tower",
       "exalt": 0.05,
-      "chaos": 8,
+      "chaos": 7,
       "lowConfidence": true
     },
     {
