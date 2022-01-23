@@ -1,5 +1,5 @@
 {
-  "date": 1642939337453,
+  "date": 1642950146200,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
@@ -57,8 +57,14 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.29,
-      "chaos": 20,
+      "exalt": 0.42,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
+      "name": "Remove Non-Cold Add Cold",
+      "exalt": 7,
+      "chaos": 497,
       "lowConfidence": true
     },
     {
