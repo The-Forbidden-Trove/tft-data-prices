@@ -1,5 +1,5 @@
 {
-  "date": 1643025705457,
+  "date": 1643036540221,
   "data": [
     {
       "name": "Acid Caverns",
@@ -112,7 +112,7 @@
     {
       "name": "Plateau",
       "exalt": 0.03,
-      "chaos": 4,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "name": "Promenade",
-      "exalt": 0.05,
-      "chaos": 8,
+      "exalt": 0.03,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -136,19 +136,19 @@
     {
       "name": "Summit",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
       "name": "Tower",
       "exalt": 0.05,
-      "chaos": 7,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
       "name": "Trpoical Island",
       "exalt": 0.07,
-      "chaos": 11,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
@@ -179,7 +179,7 @@
       "name": "Shaper Maps",
       "exalt": 0.07,
       "chaos": 10,
-      "lowConfidence": true
+      "lowConfidence": false
     }
   ]
 }
