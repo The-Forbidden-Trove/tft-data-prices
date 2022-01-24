@@ -1,10 +1,10 @@
 {
-  "date": 1643004113169,
+  "date": 1643014908097,
   "data": [
     {
       "name": "Enchanted Armaments",
       "exalt": 0.06,
-      "chaos": 9,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
@@ -15,14 +15,14 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.08,
-      "chaos": 12,
+      "exalt": 0.09,
+      "chaos": 14,
       "lowConfidence": false
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.12,
-      "chaos": 18,
+      "exalt": 0.11,
+      "chaos": 16,
       "lowConfidence": false
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": true
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "Lockpicking",
-      "exalt": 0.02,
+      "exalt": 0.01,
       "chaos": 2,
       "lowConfidence": false
     },
