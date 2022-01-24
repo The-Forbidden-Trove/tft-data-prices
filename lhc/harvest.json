@@ -1,10 +1,16 @@
 {
-  "date": 1643036556674,
+  "date": 1643047323384,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.14,
-      "chaos": 10,
+      "exalt": 0.71,
+      "chaos": 50,
+      "lowConfidence": true
+    },
+    {
+      "name": "Enchant Body, Strength",
+      "exalt": 1,
+      "chaos": 70,
       "lowConfidence": true
     },
     {
@@ -15,8 +21,14 @@
     },
     {
       "name": "Enchant Weapon, Area of Effect",
-      "exalt": 0.14,
-      "chaos": 10,
+      "exalt": 0.71,
+      "chaos": 50,
+      "lowConfidence": true
+    },
+    {
+      "name": "Enchant Weapon, Attack Speed",
+      "exalt": 0.71,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -75,7 +87,7 @@
     },
     {
       "name": "Reforge Rare More Likely",
-      "exalt": 0.42,
+      "exalt": 0.43,
       "chaos": 30,
       "lowConfidence": true
     },
@@ -105,8 +117,8 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.28,
-      "chaos": 20,
+      "exalt": 0.57,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
