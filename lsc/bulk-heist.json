@@ -1,9 +1,9 @@
 {
-  "date": 1643014908097,
+  "date": 1643025683796,
   "data": [
     {
       "name": "Enchanted Armaments",
-      "exalt": 0.06,
+      "exalt": 0.07,
       "chaos": 10,
       "lowConfidence": false
     },
@@ -21,8 +21,8 @@
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.11,
-      "chaos": 16,
+      "exalt": 0.12,
+      "chaos": 18,
       "lowConfidence": false
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "Lockpicking",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": false
     },
