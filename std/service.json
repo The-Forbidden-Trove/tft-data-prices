@@ -1,5 +1,5 @@
 {
-  "date": 1643004188143,
+  "date": 1643014982717,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -16,7 +16,7 @@
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2,
-      "chaos": 198,
+      "chaos": 196,
       "lowConfidence": true
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 4.75,
-      "chaos": 468,
+      "exalt": 5.25,
+      "chaos": 514,
       "lowConfidence": false
     },
     {
@@ -39,14 +39,14 @@
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 7,
-      "chaos": 686,
+      "exalt": 5,
+      "chaos": 495,
       "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 1,
-      "chaos": 99,
+      "exalt": 6.15,
+      "chaos": 603,
       "lowConfidence": true
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 1,
-      "chaos": 98,
+      "exalt": 2,
+      "chaos": 198,
       "lowConfidence": true
     },
     {
