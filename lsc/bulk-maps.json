@@ -1,5 +1,5 @@
 {
-  "date": 1643004134410,
+  "date": 1643014929160,
   "data": [
     {
       "name": "Acid Caverns",
@@ -22,7 +22,7 @@
     {
       "name": "Ashen Wood",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -34,13 +34,13 @@
     {
       "name": "Canyon",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
       "name": "Cemetery",
-      "exalt": 0.03,
-      "chaos": 5,
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "name": "Core",
-      "exalt": 0.09,
-      "chaos": 14,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "name": "Racecourse",
-      "exalt": 0.03,
-      "chaos": 5,
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "name": "Trpoical Island",
-      "exalt": 0.08,
+      "exalt": 0.07,
       "chaos": 11,
       "lowConfidence": false
     },
