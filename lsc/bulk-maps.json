@@ -1,5 +1,5 @@
 {
-  "date": 1643058092645,
+  "date": 1643068934913,
   "data": [
     {
       "name": "Acid Caverns",
@@ -10,7 +10,7 @@
     {
       "name": "Alleyways",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -166,7 +166,7 @@
     {
       "name": "Blighted Maps",
       "exalt": 0.15,
-      "chaos": 21,
+      "chaos": 22,
       "lowConfidence": false
     },
     {
@@ -178,8 +178,8 @@
     {
       "name": "Shaper Maps",
       "exalt": 0.08,
-      "chaos": 11,
-      "lowConfidence": true
+      "chaos": 12,
+      "lowConfidence": false
     }
   ]
 }
