@@ -1,15 +1,15 @@
 {
-  "date": 1643058071369,
+  "date": 1643068913593,
   "data": [
     {
       "name": "Enchanted Armaments",
       "exalt": 0.06,
-      "chaos": 9,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
       "name": "Replicas or Experimented Items",
-      "exalt": 0.13,
+      "exalt": 0.12,
       "chaos": 18,
       "lowConfidence": false
     },
@@ -27,8 +27,8 @@
     },
     {
       "name": "Agility",
-      "exalt": 0.01,
-      "chaos": 2,
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
@@ -52,12 +52,12 @@
     {
       "name": "Demolition",
       "exalt": 0.02,
-      "chaos": 2,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
       "name": "Engineering",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": true
     },
