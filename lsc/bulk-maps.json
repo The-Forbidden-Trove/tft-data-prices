@@ -1,5 +1,5 @@
 {
-  "date": 1642982505406,
+  "date": 1642993331008,
   "data": [
     {
       "name": "Acid Caverns",
@@ -28,7 +28,7 @@
     {
       "name": "Atoll",
       "exalt": 0.05,
-      "chaos": 7,
+      "chaos": 8,
       "lowConfidence": true
     },
     {
@@ -148,8 +148,8 @@
     {
       "name": "Trpoical Island",
       "exalt": 0.07,
-      "chaos": 10,
-      "lowConfidence": true
+      "chaos": 11,
+      "lowConfidence": false
     },
     {
       "name": "Underground Sea",
