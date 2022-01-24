@@ -1,5 +1,5 @@
 {
-  "date": 1643036593418,
+  "date": 1643047361854,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Sirus Awaken 9",
-      "exalt": 3,
-      "chaos": 294,
+      "exalt": 2,
+      "chaos": 200,
       "lowConfidence": true
     },
     {
@@ -22,37 +22,37 @@
     {
       "name": "T4 Aisling",
       "exalt": 7,
-      "chaos": 693,
+      "chaos": 696,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 5,
-      "chaos": 490,
+      "exalt": 4,
+      "chaos": 392,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Flask 28%",
-      "exalt": 7,
-      "chaos": 686,
+      "exalt": 7.5,
+      "chaos": 735,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 5,
-      "chaos": 498,
-      "lowConfidence": true
+      "chaos": 500,
+      "lowConfidence": false
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 6.15,
-      "chaos": 603,
+      "exalt": 0.5,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "T3/T2/T1 Vorici White",
       "exalt": 3,
-      "chaos": 294,
+      "chaos": 300,
       "lowConfidence": true
     },
     {
@@ -64,19 +64,19 @@
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 6,
-      "chaos": 594,
+      "chaos": 600,
       "lowConfidence": false
     },
     {
       "name": "Doryani Institute (Gem)",
       "exalt": 2,
-      "chaos": 198,
+      "chaos": 199,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 396,
+      "chaos": 398,
       "lowConfidence": true
     }
   ]
