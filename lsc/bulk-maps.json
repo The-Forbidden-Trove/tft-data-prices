@@ -1,5 +1,5 @@
 {
-  "date": 1643014929160,
+  "date": 1643025705457,
   "data": [
     {
       "name": "Acid Caverns",
@@ -112,7 +112,7 @@
     {
       "name": "Plateau",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -136,7 +136,7 @@
     {
       "name": "Summit",
       "exalt": 0.03,
-      "chaos": 4,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -171,8 +171,8 @@
     },
     {
       "name": "Elder Maps",
-      "exalt": 0.09,
-      "chaos": 13,
+      "exalt": 0.08,
+      "chaos": 12,
       "lowConfidence": false
     },
     {
