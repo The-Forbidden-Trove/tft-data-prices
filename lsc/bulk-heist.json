@@ -1,5 +1,5 @@
 {
-  "date": 1643079708962,
+  "date": 1643090513249,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.17,
-      "chaos": 22,
+      "exalt": 0.16,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
