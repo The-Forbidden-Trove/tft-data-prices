@@ -1,10 +1,10 @@
 {
-  "date": 1643101304341,
+  "date": 1643112108915,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 130,
+      "chaos": 127,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 3.5,
-      "chaos": 508,
+      "exalt": 3,
+      "chaos": 435,
       "lowConfidence": false
     },
     {
@@ -45,13 +45,13 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.34,
+      "exalt": 0.36,
       "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.17,
+      "exalt": 0.19,
       "chaos": 25,
       "lowConfidence": true
     },
@@ -69,14 +69,14 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.31,
+      "exalt": 0.32,
       "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 1,
-      "chaos": 151,
+      "chaos": 126,
       "lowConfidence": true
     }
   ]
