@@ -1,5 +1,5 @@
 {
-  "date": 1643144546141,
+  "date": 1643155386785,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -40,7 +40,7 @@
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 5,
-      "chaos": 495,
+      "chaos": 498,
       "lowConfidence": true
     },
     {
@@ -63,20 +63,20 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 5,
-      "chaos": 495,
+      "exalt": 6,
+      "chaos": 594,
       "lowConfidence": false
     },
     {
       "name": "Doryani Institute (Gem)",
-      "exalt": 2,
-      "chaos": 199,
+      "exalt": 1.5,
+      "chaos": 149,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 395,
+      "chaos": 399,
       "lowConfidence": true
     }
   ]
