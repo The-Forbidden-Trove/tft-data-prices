@@ -1,22 +1,22 @@
 {
-  "date": 1643133797954,
+  "date": 1643144546141,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1.75,
-      "chaos": 175,
+      "chaos": 174,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9",
       "exalt": 2,
-      "chaos": 200,
+      "chaos": 198,
       "lowConfidence": true
     },
     {
       "name": "Sirus Awaken 9 + 50% Gem",
-      "exalt": 2,
-      "chaos": 196,
+      "exalt": 3,
+      "chaos": 297,
       "lowConfidence": true
     },
     {
@@ -27,21 +27,21 @@
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 8,
-      "chaos": 792,
+      "exalt": 7,
+      "chaos": 700,
       "lowConfidence": true
     },
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 6,
-      "chaos": 597,
+      "chaos": 594,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 5,
       "chaos": 495,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
@@ -57,26 +57,26 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 1,
-      "chaos": 100,
-      "lowConfidence": true
-    },
-    {
-      "name": "T4 Vorici 1-6 White",
-      "exalt": 5.5,
-      "chaos": 544,
-      "lowConfidence": false
-    },
-    {
-      "name": "Doryani Institute (Gem)",
       "exalt": 2,
       "chaos": 200,
       "lowConfidence": true
     },
     {
+      "name": "T4 Vorici 1-6 White",
+      "exalt": 5,
+      "chaos": 495,
+      "lowConfidence": false
+    },
+    {
+      "name": "Doryani Institute (Gem)",
+      "exalt": 2,
+      "chaos": 199,
+      "lowConfidence": true
+    },
+    {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 398,
+      "chaos": 395,
       "lowConfidence": true
     }
   ]
