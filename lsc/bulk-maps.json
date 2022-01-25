@@ -1,9 +1,9 @@
 {
-  "date": 1643090534965,
+  "date": 1643101332475,
   "data": [
     {
       "name": "Acid Caverns",
-      "exalt": 0.03,
+      "exalt": 0.04,
       "chaos": 5,
       "lowConfidence": true
     },
@@ -22,7 +22,7 @@
     {
       "name": "Ashen Wood",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -34,7 +34,7 @@
     {
       "name": "Canyon",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": "Fields",
-      "exalt": 0.03,
+      "exalt": 0.04,
       "chaos": 5,
       "lowConfidence": true
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "Plateau",
-      "exalt": 0.03,
+      "exalt": 0.04,
       "chaos": 5,
       "lowConfidence": true
     },
@@ -130,7 +130,7 @@
     {
       "name": "Racecourse",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
