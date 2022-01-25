@@ -1,5 +1,5 @@
 {
-  "date": 1643090513249,
+  "date": 1643101308230,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -10,7 +10,7 @@
     {
       "name": "Replicas or Experimented Items",
       "exalt": 0.12,
-      "chaos": 18,
+      "chaos": 17,
       "lowConfidence": false
     },
     {
@@ -41,7 +41,7 @@
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
       "chaos": 3,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Deception",
@@ -70,7 +70,7 @@
     {
       "name": "Perception",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": false
     },
     {
