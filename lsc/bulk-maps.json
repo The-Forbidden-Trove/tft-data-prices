@@ -1,5 +1,5 @@
 {
-  "date": 1643122893388,
+  "date": 1643133736223,
   "data": [
     {
       "name": "Acid Caverns",
@@ -57,7 +57,7 @@
     },
     {
       "name": "Core",
-      "exalt": 0.07,
+      "exalt": 0.08,
       "chaos": 10,
       "lowConfidence": true
     },
@@ -183,9 +183,9 @@
     },
     {
       "name": "Trpoical Island",
-      "exalt": 0.06,
-      "chaos": 8,
-      "lowConfidence": true
+      "exalt": 0.07,
+      "chaos": 9,
+      "lowConfidence": false
     },
     {
       "name": "Underground Sea",
@@ -201,13 +201,13 @@
     },
     {
       "name": "Blighted Maps",
-      "exalt": 0.15,
+      "exalt": 0.16,
       "chaos": 20,
       "lowConfidence": false
     },
     {
       "name": "Elder Maps",
-      "exalt": 0.09,
+      "exalt": 0.08,
       "chaos": 12,
       "lowConfidence": false
     },
