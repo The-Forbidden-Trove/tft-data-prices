@@ -1,5 +1,5 @@
 {
-  "date": 1643090551458,
+  "date": 1643101348529,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
@@ -8,15 +8,21 @@
       "lowConfidence": true
     },
     {
+      "name": "Enchant Body, Maximum Mana",
+      "exalt": 0.38,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
       "name": "Enchant Body, Strength",
       "exalt": 1,
-      "chaos": 70,
+      "chaos": 74,
       "lowConfidence": true
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.42,
-      "chaos": 30,
+      "exalt": 0.63,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
@@ -122,15 +128,21 @@
       "lowConfidence": true
     },
     {
+      "name": "Lightning to Cold Resist",
+      "exalt": 0.38,
+      "chaos": 30,
+      "lowConfidence": true
+    },
+    {
       "name": "Lightning to Fire Resist",
-      "exalt": 0.21,
-      "chaos": 15,
+      "exalt": 0.38,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
       "name": "Set Implicit, Abyss/Timeless Jewel",
-      "exalt": 0.28,
-      "chaos": 20,
+      "exalt": 0.63,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
