@@ -1,0 +1,17 @@
+{
+  "date": 1643187736704,
+  "data": [
+    {
+      "name": "Elegant Hubris",
+      "exalt": 0.08,
+      "chaos": 10,
+      "lowConfidence": true
+    },
+    {
+      "name": "Lethal Pride",
+      "exalt": 0.11,
+      "chaos": 15,
+      "lowConfidence": true
+    }
+  ]
+}
