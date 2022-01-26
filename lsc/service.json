@@ -1,10 +1,10 @@
 {
-  "date": 1643209302948,
+  "date": 1643220109355,
   "data": [
     {
       "name": "Sirus Awaken 8",
       "exalt": 1,
-      "chaos": 124,
+      "chaos": 130,
       "lowConfidence": true
     },
     {
@@ -16,13 +16,13 @@
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2,
-      "chaos": 246,
+      "chaos": 265,
       "lowConfidence": true
     },
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 399,
+      "chaos": 402,
       "lowConfidence": false
     },
     {
@@ -34,42 +34,42 @@
     {
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
-      "chaos": 123,
+      "chaos": 132,
       "lowConfidence": true
     },
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 1,
-      "chaos": 127,
-      "lowConfidence": false
+      "chaos": 128,
+      "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.41,
+      "exalt": 0.38,
       "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.15,
-      "chaos": 20,
+      "exalt": 0.24,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.48,
+      "exalt": 0.55,
       "chaos": 70,
       "lowConfidence": true
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 0.45,
-      "chaos": 55,
+      "exalt": 0.2,
+      "chaos": 25,
       "lowConfidence": true
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.32,
+      "exalt": 0.3,
       "chaos": 40,
       "lowConfidence": false
     },
