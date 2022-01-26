@@ -1,5 +1,5 @@
 {
-  "date": 1643230937428,
+  "date": 1643241741099,
   "data": [
     {
       "name": "5 Way Set",
@@ -23,6 +23,12 @@
       "name": "Shaper Set",
       "exalt": 0.4,
       "chaos": 53,
+      "lowConfidence": true
+    },
+    {
+      "name": "Unrelenting 5 Way Set",
+      "exalt": 15,
+      "chaos": 1800,
       "lowConfidence": true
     }
   ]
