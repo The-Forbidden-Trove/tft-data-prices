@@ -1,0 +1,23 @@
+{
+  "date": 1643187739725,
+  "data": [
+    {
+      "name": "Elder Set",
+      "exalt": 0.04,
+      "chaos": 6,
+      "lowConfidence": true
+    },
+    {
+      "name": "Maven's Writ",
+      "exalt": 0.1,
+      "chaos": 13,
+      "lowConfidence": true
+    },
+    {
+      "name": "Shaper Set",
+      "exalt": 0.4,
+      "chaos": 53,
+      "lowConfidence": true
+    }
+  ]
+}
