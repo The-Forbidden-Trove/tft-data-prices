@@ -1,10 +1,10 @@
 {
-  "date": 1643198540390,
+  "date": 1643209334501,
   "data": [
     {
       "name": "Astragali",
-      "exalt": 0.05,
-      "chaos": 7,
+      "exalt": 10.03,
+      "chaos": 1274,
       "lowConfidence": true
     },
     {
