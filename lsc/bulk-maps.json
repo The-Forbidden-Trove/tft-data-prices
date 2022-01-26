@@ -1,5 +1,5 @@
 {
-  "date": 1643176932513,
+  "date": 1643187730391,
   "data": [
     {
       "name": "Acid Caverns",
@@ -22,7 +22,7 @@
     {
       "name": "Ashen Wood",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "Canyon",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -83,6 +83,12 @@
       "name": "Glacier",
       "exalt": 0.03,
       "chaos": 4,
+      "lowConfidence": true
+    },
+    {
+      "name": "Haunted Mansion",
+      "exalt": 0.22,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
@@ -172,7 +178,7 @@
     {
       "name": "Summit",
       "exalt": 0.04,
-      "chaos": 4,
+      "chaos": 5,
       "lowConfidence": true
     },
     {
@@ -207,7 +213,7 @@
     },
     {
       "name": "Elder Maps",
-      "exalt": 0.09,
+      "exalt": 0.08,
       "chaos": 11,
       "lowConfidence": false
     },
