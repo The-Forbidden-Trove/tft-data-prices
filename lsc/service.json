@@ -1,5 +1,5 @@
 {
-  "date": 1643176906706,
+  "date": 1643187702958,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -35,29 +35,29 @@
       "name": "T4 Hillock Flask 28%",
       "exalt": 1,
       "chaos": 123,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "T4 Hillock Weapon 30%",
       "exalt": 1,
-      "chaos": 123,
+      "chaos": 128,
       "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.41,
+      "exalt": 0.4,
       "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.12,
-      "chaos": 15,
+      "exalt": 0.2,
+      "chaos": 25,
       "lowConfidence": true
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 0.47,
+      "exalt": 0.48,
       "chaos": 70,
       "lowConfidence": true
     },
@@ -69,7 +69,7 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.33,
+      "exalt": 0.3,
       "chaos": 40,
       "lowConfidence": false
     },
