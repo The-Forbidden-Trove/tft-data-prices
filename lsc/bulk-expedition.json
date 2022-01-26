@@ -1,10 +1,16 @@
 {
-  "date": 1643230932077,
+  "date": 1643241735415,
   "data": [
     {
       "name": "Astragali",
       "exalt": 0.05,
       "chaos": 7,
+      "lowConfidence": true
+    },
+    {
+      "name": "Exotic Coinage",
+      "exalt": 0.01,
+      "chaos": 1,
       "lowConfidence": true
     },
     {
