@@ -1,5 +1,5 @@
 {
-  "date": 1643209334501,
+  "date": 1643220143638,
   "data": [
     {
       "name": "Astragali",
@@ -9,15 +9,15 @@
     },
     {
       "name": "Black Scythe Mercenaries",
-      "exalt": 0.38,
-      "chaos": 50,
+      "exalt": 0.41,
+      "chaos": 55,
       "lowConfidence": false
     },
     {
       "name": "Druids of the Broken Circle",
-      "exalt": 0.43,
-      "chaos": 58,
-      "lowConfidence": true
+      "exalt": 0.45,
+      "chaos": 60,
+      "lowConfidence": false
     },
     {
       "name": "Knights of the Sun",
