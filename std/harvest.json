@@ -1,5 +1,5 @@
 {
-  "date": 1643166173829,
+  "date": 1643176978773,
   "data": [
     {
       "name": "Augment Attack",
@@ -33,8 +33,8 @@
     },
     {
       "name": "Augment Fire",
-      "exalt": 12.5,
-      "chaos": 1231,
+      "exalt": 13,
+      "chaos": 1274,
       "lowConfidence": true
     },
     {
@@ -82,7 +82,7 @@
     {
       "name": "Augment Critical",
       "exalt": 20,
-      "chaos": 1980,
+      "chaos": 1960,
       "lowConfidence": true
     },
     {
@@ -105,8 +105,8 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.56,
-      "chaos": 55,
+      "exalt": 0.61,
+      "chaos": 60,
       "lowConfidence": false
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.51,
+      "exalt": 0.5,
       "chaos": 50,
       "lowConfidence": false
     },
@@ -154,7 +154,7 @@
     {
       "name": "Enchant Body, Strength",
       "exalt": 1,
-      "chaos": 98,
+      "chaos": 99,
       "lowConfidence": false
     },
     {
@@ -165,8 +165,8 @@
     },
     {
       "name": "Enchant Weapon, Accuracy",
-      "exalt": 0.48,
-      "chaos": 48,
+      "exalt": 0.5,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -201,8 +201,8 @@
     },
     {
       "name": "Fracture 1/3 Prefix",
-      "exalt": 32.5,
-      "chaos": 3218,
+      "exalt": 33.75,
+      "chaos": 3324,
       "lowConfidence": true
     },
     {
@@ -249,8 +249,8 @@
     },
     {
       "name": "Randomise Influence Weapon",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -262,7 +262,7 @@
     {
       "name": "Reforge keep Prefix Lucky",
       "exalt": 6,
-      "chaos": 594,
+      "chaos": 591,
       "lowConfidence": false
     },
     {
@@ -285,8 +285,8 @@
     },
     {
       "name": "Reforge Attack More Common",
-      "exalt": 0.2,
-      "chaos": 20,
+      "exalt": 0.25,
+      "chaos": 25,
       "lowConfidence": false
     },
     {
@@ -297,8 +297,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.39,
-      "chaos": 38,
+      "exalt": 0.35,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "Reforge Fire More Common",
-      "exalt": 0.3,
-      "chaos": 30,
+      "exalt": 0.35,
+      "chaos": 35,
       "lowConfidence": true
     },
     {
@@ -345,15 +345,15 @@
     },
     {
       "name": "Reforge Chaos",
-      "exalt": 0.23,
-      "chaos": 22,
+      "exalt": 0.3,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
       "name": "Reforge Chaos More Common",
-      "exalt": 0.4,
-      "chaos": 40,
-      "lowConfidence": false
+      "exalt": 0.3,
+      "chaos": 30,
+      "lowConfidence": true
     },
     {
       "name": "Reforge Defence",
@@ -375,9 +375,9 @@
     },
     {
       "name": "Reforge Life More Common",
-      "exalt": 0.3,
-      "chaos": 30,
-      "lowConfidence": false
+      "exalt": 0.35,
+      "chaos": 35,
+      "lowConfidence": true
     },
     {
       "name": "Reforge Critical",
@@ -459,8 +459,8 @@
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
-      "exalt": 20,
-      "chaos": 1980,
+      "exalt": 14.5,
+      "chaos": 1436,
       "lowConfidence": true
     },
     {
@@ -501,14 +501,14 @@
     },
     {
       "name": "Reroll Prefix Lucky",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.48,
+      "chaos": 48,
       "lowConfidence": false
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.43,
-      "chaos": 42,
+      "exalt": 0.4,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -537,8 +537,8 @@
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.43,
-      "chaos": 42,
+      "exalt": 0.35,
+      "chaos": 35,
       "lowConfidence": false
     },
     {
@@ -593,7 +593,7 @@
       "name": "Non-Red into Red Socket",
       "exalt": 1,
       "chaos": 98,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Reforge into White Socket",
