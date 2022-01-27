@@ -1,5 +1,5 @@
 {
-  "date": 1643284904392,
+  "date": 1643295710345,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -16,19 +16,19 @@
     {
       "name": "Sirus Awaken 9 + 50% Gem",
       "exalt": 2,
-      "chaos": 252,
+      "chaos": 240,
       "lowConfidence": true
     },
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 404,
+      "chaos": 405,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
       "exalt": 1,
-      "chaos": 120,
+      "chaos": 126,
       "lowConfidence": false
     },
     {
@@ -39,19 +39,19 @@
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 1,
-      "chaos": 127,
+      "exalt": 1.13,
+      "chaos": 137,
       "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.38,
+      "exalt": 0.4,
       "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.22,
+      "exalt": 0.23,
       "chaos": 30,
       "lowConfidence": true
     },
@@ -69,8 +69,8 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.28,
-      "chaos": 35,
+      "exalt": 0.36,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Locus of Corruption (Item)",
-      "exalt": 2,
-      "chaos": 256,
+      "exalt": 3,
+      "chaos": 360,
       "lowConfidence": true
     }
   ]
