@@ -1,10 +1,10 @@
 {
-  "date": 1643263337708,
+  "date": 1643274142439,
   "data": [
     {
       "name": "Astragali",
       "exalt": 0.05,
-      "chaos": 7,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
@@ -15,15 +15,15 @@
     },
     {
       "name": "Black Scythe Mercenaries",
-      "exalt": 0.38,
-      "chaos": 50,
-      "lowConfidence": false
+      "exalt": 0.04,
+      "chaos": 5,
+      "lowConfidence": true
     },
     {
       "name": "Druids of the Broken Circle",
       "exalt": 0.44,
       "chaos": 60,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Knights of the Sun",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Order of the Chalice",
-      "exalt": 0.23,
+      "exalt": 0.25,
       "chaos": 30,
       "lowConfidence": true
     }
