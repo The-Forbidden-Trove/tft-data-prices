@@ -1,5 +1,5 @@
 {
-  "date": 1643317369120,
+  "date": 1643328162886,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
@@ -62,27 +62,9 @@
       "lowConfidence": true
     },
     {
-      "name": "Reforge keep Prefix",
-      "exalt": 5,
-      "chaos": 350,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge keep Prefix Lucky",
-      "exalt": 6,
-      "chaos": 420,
-      "lowConfidence": true
-    },
-    {
       "name": "Reforge keep Suffix",
       "exalt": 2,
       "chaos": 140,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reforge keep Suffix Lucky",
-      "exalt": 6,
-      "chaos": 420,
       "lowConfidence": true
     },
     {
@@ -105,14 +87,8 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.5,
-      "chaos": 35,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reroll Prefix Lucky",
-      "exalt": 0.57,
-      "chaos": 40,
+      "exalt": 0.43,
+      "chaos": 30,
       "lowConfidence": true
     },
     {
