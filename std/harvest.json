@@ -1,10 +1,10 @@
 {
-  "date": 1643252595976,
+  "date": 1643263393947,
   "data": [
     {
       "name": "Augment Attack",
       "exalt": 15,
-      "chaos": 1485,
+      "chaos": 1478,
       "lowConfidence": false
     },
     {
@@ -15,8 +15,8 @@
     },
     {
       "name": "Augment Physical",
-      "exalt": 200,
-      "chaos": 19800,
+      "exalt": 105.38,
+      "chaos": 10427,
       "lowConfidence": true
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 0.4,
+      "exalt": 0.41,
       "chaos": 40,
       "lowConfidence": false
     },
@@ -201,8 +201,8 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.48,
-      "chaos": 48,
+      "exalt": 0.45,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -243,14 +243,14 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.43,
-      "chaos": 42,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "Randomise Influence Jewellery",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.75,
+      "chaos": 74,
       "lowConfidence": true
     },
     {
@@ -267,14 +267,14 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 5.5,
-      "chaos": 545,
+      "exalt": 5.25,
+      "chaos": 517,
       "lowConfidence": false
     },
     {
       "name": "Reforge keep Suffix",
       "exalt": 5,
-      "chaos": 495,
+      "chaos": 492,
       "lowConfidence": false
     },
     {
@@ -441,9 +441,9 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 6.75,
-      "chaos": 668,
-      "lowConfidence": true
+      "exalt": 6.5,
+      "chaos": 644,
+      "lowConfidence": false
     },
     {
       "name": "Remove Non-Cold Add Cold",
@@ -453,9 +453,9 @@
     },
     {
       "name": "Remove Non-Fire Add Fire",
-      "exalt": 8.5,
-      "chaos": 842,
-      "lowConfidence": true
+      "exalt": 5,
+      "chaos": 495,
+      "lowConfidence": false
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
@@ -466,13 +466,13 @@
     {
       "name": "Remove Non-Physical Add Physical",
       "exalt": 5,
-      "chaos": 492,
+      "chaos": 490,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
       "exalt": 9,
-      "chaos": 891,
+      "chaos": 882,
       "lowConfidence": true
     },
     {
@@ -483,8 +483,8 @@
     },
     {
       "name": "Remove Non-Defence Add Defence",
-      "exalt": 6,
-      "chaos": 590,
+      "exalt": 7,
+      "chaos": 690,
       "lowConfidence": true
     },
     {
@@ -502,7 +502,7 @@
     {
       "name": "Remove Non-Speed Add Speed",
       "exalt": 16,
-      "chaos": 1572,
+      "chaos": 1576,
       "lowConfidence": true
     },
     {
@@ -579,7 +579,7 @@
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.41,
+      "exalt": 0.4,
       "chaos": 40,
       "lowConfidence": false
     },
