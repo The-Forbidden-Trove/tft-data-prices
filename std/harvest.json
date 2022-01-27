@@ -1,5 +1,5 @@
 {
-  "date": 1643241793291,
+  "date": 1643252595976,
   "data": [
     {
       "name": "Augment Attack",
@@ -22,7 +22,7 @@
     {
       "name": "Augment Cold",
       "exalt": 10,
-      "chaos": 985,
+      "chaos": 990,
       "lowConfidence": true
     },
     {
@@ -141,14 +141,14 @@
     },
     {
       "name": "Enchant Body, Lightning Resist",
-      "exalt": 1,
-      "chaos": 99,
+      "exalt": 1.5,
+      "chaos": 149,
       "lowConfidence": true
     },
     {
       "name": "Enchant Body, Maximum Life",
-      "exalt": 0.46,
-      "chaos": 45,
+      "exalt": 0.51,
+      "chaos": 50,
       "lowConfidence": false
     },
     {
@@ -195,8 +195,8 @@
     },
     {
       "name": "Enchant Weapon, Elemental Damage",
-      "exalt": 1,
-      "chaos": 99,
+      "exalt": 0.88,
+      "chaos": 86,
       "lowConfidence": false
     },
     {
@@ -208,7 +208,7 @@
     {
       "name": "Fracture 1/3 Prefix",
       "exalt": 30,
-      "chaos": 2970,
+      "chaos": 2962,
       "lowConfidence": true
     },
     {
@@ -221,7 +221,7 @@
       "name": "Fracture 1/5",
       "exalt": 12,
       "chaos": 1176,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Awaken Level 20 Support Gem",
@@ -243,8 +243,8 @@
     },
     {
       "name": "Randomise Influence Armour",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 0.43,
+      "chaos": 42,
       "lowConfidence": false
     },
     {
@@ -267,14 +267,14 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 5,
-      "chaos": 495,
+      "exalt": 5.5,
+      "chaos": 545,
       "lowConfidence": false
     },
     {
       "name": "Reforge keep Suffix",
       "exalt": 5,
-      "chaos": 492,
+      "chaos": 495,
       "lowConfidence": false
     },
     {
@@ -297,8 +297,8 @@
     },
     {
       "name": "Reforge Caster",
-      "exalt": 0.25,
-      "chaos": 25,
+      "exalt": 0.2,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -399,8 +399,8 @@
     },
     {
       "name": "Reforge Critical More Common",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.4,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
@@ -425,13 +425,13 @@
       "name": "Reforge Speed",
       "exalt": 0.4,
       "chaos": 40,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Reforge Speed More Common",
-      "exalt": 0.3,
-      "chaos": 30,
-      "lowConfidence": false
+      "exalt": 0.21,
+      "chaos": 21,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Attack Add Attack",
@@ -441,9 +441,9 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 6.25,
-      "chaos": 616,
-      "lowConfidence": false
+      "exalt": 6.75,
+      "chaos": 668,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Cold Add Cold",
@@ -484,7 +484,7 @@
     {
       "name": "Remove Non-Defence Add Defence",
       "exalt": 6,
-      "chaos": 592,
+      "chaos": 590,
       "lowConfidence": true
     },
     {
@@ -537,13 +537,13 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.36,
-      "chaos": 35,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.41,
+      "exalt": 0.4,
       "chaos": 40,
       "lowConfidence": false
     },
@@ -567,19 +567,19 @@
     },
     {
       "name": "Sacrifice Gem, 50% XP As Facetor Lens",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 1.01,
+      "chaos": 100,
       "lowConfidence": true
     },
     {
       "name": "Set Implicit, Abyss/Timeless Jewel",
-      "exalt": 0.41,
+      "exalt": 0.4,
       "chaos": 40,
       "lowConfidence": false
     },
     {
       "name": "Set Implicit, Basic Jewel",
-      "exalt": 0.4,
+      "exalt": 0.41,
       "chaos": 40,
       "lowConfidence": false
     },
