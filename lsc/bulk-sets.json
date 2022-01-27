@@ -1,22 +1,22 @@
 {
-  "date": 1643284942765,
+  "date": 1643295750520,
   "data": [
     {
       "name": "5 Way Set",
-      "exalt": 3,
-      "chaos": 389,
+      "exalt": 2.8,
+      "chaos": 364,
       "lowConfidence": false
     },
     {
       "name": "Elder Set",
-      "exalt": 0.13,
-      "chaos": 16,
+      "exalt": 0.2,
+      "chaos": 25,
       "lowConfidence": true
     },
     {
       "name": "Maven's Writ",
-      "exalt": 0.1,
-      "chaos": 13,
+      "exalt": 1.5,
+      "chaos": 180,
       "lowConfidence": true
     },
     {
