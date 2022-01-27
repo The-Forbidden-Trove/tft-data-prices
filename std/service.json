@@ -1,5 +1,5 @@
 {
-  "date": 1643285003247,
+  "date": 1643295810811,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -27,8 +27,8 @@
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 8,
-      "chaos": 788,
+      "exalt": 6,
+      "chaos": 594,
       "lowConfidence": false
     },
     {
@@ -63,26 +63,26 @@
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 2,
-      "chaos": 200,
+      "exalt": 1,
+      "chaos": 100,
       "lowConfidence": true
     },
     {
       "name": "T4 Vorici 1-6 White",
       "exalt": 6,
-      "chaos": 591,
+      "chaos": 594,
       "lowConfidence": false
     },
     {
       "name": "Doryani Institute (Gem)",
       "exalt": 1.5,
-      "chaos": 149,
+      "chaos": 150,
       "lowConfidence": true
     },
     {
       "name": "Locus of Corruption (Item)",
       "exalt": 4,
-      "chaos": 396,
+      "chaos": 399,
       "lowConfidence": true
     }
   ]
