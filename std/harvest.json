@@ -1,5 +1,5 @@
 {
-  "date": 1643274199796,
+  "date": 1643284995848,
   "data": [
     {
       "name": "Augment Attack",
@@ -22,7 +22,7 @@
     {
       "name": "Augment Cold",
       "exalt": 10,
-      "chaos": 990,
+      "chaos": 980,
       "lowConfidence": true
     },
     {
@@ -40,13 +40,13 @@
     {
       "name": "Augment Fire Lucky",
       "exalt": 15,
-      "chaos": 1478,
+      "chaos": 1485,
       "lowConfidence": true
     },
     {
       "name": "Augment Lightning",
-      "exalt": 8.5,
-      "chaos": 833,
+      "exalt": 5,
+      "chaos": 490,
       "lowConfidence": true
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "Augment Critical",
       "exalt": 20,
-      "chaos": 1970,
+      "chaos": 1960,
       "lowConfidence": true
     },
     {
@@ -153,20 +153,20 @@
     },
     {
       "name": "Enchant Body, Maximum Mana",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
       "name": "Enchant Body, Strength",
-      "exalt": 1,
-      "chaos": 99,
-      "lowConfidence": false
+      "exalt": 1.5,
+      "chaos": 148,
+      "lowConfidence": true
     },
     {
       "name": "Enchant Map, Doesn't Consume Sextant",
-      "exalt": 1.5,
-      "chaos": 148,
+      "exalt": 2,
+      "chaos": 198,
       "lowConfidence": true
     },
     {
@@ -208,20 +208,20 @@
     {
       "name": "Fracture 1/3 Prefix",
       "exalt": 30,
-      "chaos": 2970,
+      "chaos": 2962,
       "lowConfidence": true
     },
     {
       "name": "Fracture 1/3 Suffix",
-      "exalt": 22.5,
-      "chaos": 2205,
+      "exalt": 25,
+      "chaos": 2450,
       "lowConfidence": true
     },
     {
       "name": "Fracture 1/5",
-      "exalt": 12,
-      "chaos": 1176,
-      "lowConfidence": false
+      "exalt": 12.5,
+      "chaos": 1230,
+      "lowConfidence": true
     },
     {
       "name": "Awaken Level 20 Support Gem",
@@ -232,7 +232,7 @@
     {
       "name": "Sacrifice Divination Card 0-2x",
       "exalt": 1,
-      "chaos": 99,
+      "chaos": 98,
       "lowConfidence": false
     },
     {
@@ -262,7 +262,7 @@
     {
       "name": "Reforge keep Prefix",
       "exalt": 5,
-      "chaos": 495,
+      "chaos": 492,
       "lowConfidence": false
     },
     {
@@ -274,7 +274,7 @@
     {
       "name": "Reforge keep Suffix",
       "exalt": 5,
-      "chaos": 492,
+      "chaos": 491,
       "lowConfidence": false
     },
     {
@@ -303,8 +303,8 @@
     },
     {
       "name": "Reforge Caster More Common",
-      "exalt": 0.33,
-      "chaos": 32,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
@@ -339,9 +339,9 @@
     },
     {
       "name": "Reforge Fire More Common",
-      "exalt": 0.35,
-      "chaos": 35,
-      "lowConfidence": true
+      "exalt": 0.4,
+      "chaos": 40,
+      "lowConfidence": false
     },
     {
       "name": "Reforge Lightning",
@@ -351,7 +351,7 @@
     },
     {
       "name": "Reforge Lightning More Common",
-      "exalt": 0.4,
+      "exalt": 0.41,
       "chaos": 40,
       "lowConfidence": true
     },
@@ -405,8 +405,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 9.5,
-      "chaos": 933,
+      "exalt": 9,
+      "chaos": 886,
       "lowConfidence": true
     },
     {
@@ -441,9 +441,9 @@
     },
     {
       "name": "Remove Non-Caster Add Caster",
-      "exalt": 6.5,
-      "chaos": 644,
-      "lowConfidence": false
+      "exalt": 6.75,
+      "chaos": 668,
+      "lowConfidence": true
     },
     {
       "name": "Remove Non-Cold Add Cold",
@@ -459,8 +459,8 @@
     },
     {
       "name": "Remove Non-Lightning Add Lightning",
-      "exalt": 6,
-      "chaos": 594,
+      "exalt": 6.5,
+      "chaos": 644,
       "lowConfidence": false
     },
     {
@@ -490,7 +490,7 @@
     {
       "name": "Remove Non-Influence Add Influence",
       "exalt": 150,
-      "chaos": 14700,
+      "chaos": 14775,
       "lowConfidence": true
     },
     {
@@ -525,8 +525,8 @@
     },
     {
       "name": "Cold to Fire Resist",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.45,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
@@ -537,8 +537,8 @@
     },
     {
       "name": "Fire to Cold Resist",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.31,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
@@ -591,9 +591,9 @@
     },
     {
       "name": "Non-Blue into Blue Socket",
-      "exalt": 1,
-      "chaos": 98,
-      "lowConfidence": false
+      "exalt": 0.75,
+      "chaos": 74,
+      "lowConfidence": true
     },
     {
       "name": "Non-Green into Green Socket",
