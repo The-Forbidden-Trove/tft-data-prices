@@ -1,5 +1,5 @@
 {
-  "date": 1643284908194,
+  "date": 1643295714311,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -21,14 +21,14 @@
     },
     {
       "name": "Unusual Gems",
-      "exalt": 0.13,
-      "chaos": 18,
+      "exalt": 0.15,
+      "chaos": 20,
       "lowConfidence": false
     },
     {
       "name": "Agility",
       "exalt": 0.02,
-      "chaos": 2,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
-      "chaos": 3,
+      "chaos": 2,
       "lowConfidence": true
     },
     {
@@ -51,13 +51,13 @@
     },
     {
       "name": "Demolition",
-      "exalt": 0.01,
-      "chaos": 2,
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
       "name": "Engineering",
-      "exalt": 0.01,
+      "exalt": 0.02,
       "chaos": 2,
       "lowConfidence": true
     },
@@ -69,8 +69,8 @@
     },
     {
       "name": "Perception",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.03,
+      "chaos": 4,
       "lowConfidence": false
     },
     {
