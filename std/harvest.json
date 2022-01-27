@@ -1,5 +1,5 @@
 {
-  "date": 1643263393947,
+  "date": 1643274199796,
   "data": [
     {
       "name": "Augment Attack",
@@ -10,7 +10,7 @@
     {
       "name": "Augment Caster",
       "exalt": 10,
-      "chaos": 985,
+      "chaos": 990,
       "lowConfidence": true
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "name": "Augment Fire",
-      "exalt": 12.5,
-      "chaos": 1231,
+      "exalt": 12,
+      "chaos": 1188,
       "lowConfidence": false
     },
     {
@@ -100,7 +100,7 @@
     {
       "name": "Augment Influence",
       "exalt": 150,
-      "chaos": 14850,
+      "chaos": 14775,
       "lowConfidence": true
     },
     {
@@ -160,7 +160,7 @@
     {
       "name": "Enchant Body, Strength",
       "exalt": 1,
-      "chaos": 98,
+      "chaos": 99,
       "lowConfidence": false
     },
     {
@@ -201,20 +201,20 @@
     },
     {
       "name": "Enchant Weapon, Weapon Range",
-      "exalt": 0.45,
-      "chaos": 45,
+      "exalt": 0.43,
+      "chaos": 42,
       "lowConfidence": false
     },
     {
       "name": "Fracture 1/3 Prefix",
       "exalt": 30,
-      "chaos": 2962,
+      "chaos": 2970,
       "lowConfidence": true
     },
     {
       "name": "Fracture 1/3 Suffix",
-      "exalt": 20,
-      "chaos": 1980,
+      "exalt": 22.5,
+      "chaos": 2205,
       "lowConfidence": true
     },
     {
@@ -267,8 +267,8 @@
     },
     {
       "name": "Reforge keep Prefix Lucky",
-      "exalt": 5.25,
-      "chaos": 517,
+      "exalt": 5.5,
+      "chaos": 542,
       "lowConfidence": false
     },
     {
@@ -291,8 +291,8 @@
     },
     {
       "name": "Reforge Attack More Common",
-      "exalt": 0.25,
-      "chaos": 25,
+      "exalt": 0.3,
+      "chaos": 30,
       "lowConfidence": false
     },
     {
@@ -405,8 +405,8 @@
     },
     {
       "name": "Reforge Influence More Common",
-      "exalt": 10,
-      "chaos": 985,
+      "exalt": 9.5,
+      "chaos": 933,
       "lowConfidence": true
     },
     {
@@ -429,8 +429,8 @@
     },
     {
       "name": "Reforge Speed More Common",
-      "exalt": 0.21,
-      "chaos": 21,
+      "exalt": 0.23,
+      "chaos": 22,
       "lowConfidence": true
     },
     {
@@ -471,8 +471,8 @@
     },
     {
       "name": "Remove Non-Chaos Add Chaos",
-      "exalt": 9,
-      "chaos": 882,
+      "exalt": 14.5,
+      "chaos": 1436,
       "lowConfidence": true
     },
     {
@@ -484,13 +484,13 @@
     {
       "name": "Remove Non-Defence Add Defence",
       "exalt": 7,
-      "chaos": 690,
+      "chaos": 693,
       "lowConfidence": true
     },
     {
       "name": "Remove Non-Influence Add Influence",
-      "exalt": 105,
-      "chaos": 10290,
+      "exalt": 150,
+      "chaos": 14700,
       "lowConfidence": true
     },
     {
@@ -519,8 +519,8 @@
     },
     {
       "name": "Reroll Suffix Lucky",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.38,
+      "chaos": 38,
       "lowConfidence": false
     },
     {
@@ -543,15 +543,15 @@
     },
     {
       "name": "Fire to Lightning Resist",
-      "exalt": 0.4,
-      "chaos": 40,
+      "exalt": 0.45,
+      "chaos": 45,
       "lowConfidence": false
     },
     {
       "name": "Lightning to Cold Resist",
-      "exalt": 0.33,
-      "chaos": 32,
-      "lowConfidence": false
+      "exalt": 0.51,
+      "chaos": 50,
+      "lowConfidence": true
     },
     {
       "name": "Lightning to Fire Resist",
