@@ -1,29 +1,29 @@
 {
-  "date": 1643274142439,
+  "date": 1643284937134,
   "data": [
     {
       "name": "Astragali",
-      "exalt": 0.05,
-      "chaos": 6,
+      "exalt": 0.53,
+      "chaos": 63,
       "lowConfidence": true
     },
     {
       "name": "Exotic Coinage",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.01,
+      "chaos": 2,
       "lowConfidence": true
     },
     {
       "name": "Black Scythe Mercenaries",
-      "exalt": 0.04,
-      "chaos": 5,
+      "exalt": 0.44,
+      "chaos": 60,
       "lowConfidence": true
     },
     {
       "name": "Druids of the Broken Circle",
-      "exalt": 0.44,
+      "exalt": 0.48,
       "chaos": 60,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Knights of the Sun",
