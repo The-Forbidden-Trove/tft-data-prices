@@ -1,10 +1,10 @@
 {
-  "date": 1643284937134,
+  "date": 1643295744945,
   "data": [
     {
       "name": "Astragali",
-      "exalt": 0.53,
-      "chaos": 63,
+      "exalt": 0.05,
+      "chaos": 6,
       "lowConfidence": true
     },
     {
@@ -15,8 +15,8 @@
     },
     {
       "name": "Black Scythe Mercenaries",
-      "exalt": 0.44,
-      "chaos": 60,
+      "exalt": 0.46,
+      "chaos": 58,
       "lowConfidence": true
     },
     {
