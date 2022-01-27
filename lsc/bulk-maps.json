@@ -1,5 +1,5 @@
 {
-  "date": 1643263331006,
+  "date": 1643274135824,
   "data": [
     {
       "name": "Acid Caverns",
@@ -22,7 +22,7 @@
     {
       "name": "Ashen Wood",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "Canyon",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "name": "Glacier",
-      "exalt": 0.03,
-      "chaos": 4,
+      "exalt": 0.02,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
