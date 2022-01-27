@@ -1,11 +1,11 @@
 {
-  "date": 1643274153936,
+  "date": 1643284949174,
   "data": [
     {
       "name": "Simulacrum",
-      "exalt": 1.68,
+      "exalt": 1.63,
       "chaos": 222,
-      "lowConfidence": false
+      "lowConfidence": true
     }
   ]
 }
