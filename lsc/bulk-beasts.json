@@ -1,10 +1,10 @@
 {
-  "date": 1643349742538,
+  "date": 1643360547952,
   "data": [
     {
       "name": "Craicic Chimeral",
-      "exalt": 1.4,
-      "chaos": 172,
+      "exalt": 1.6,
+      "chaos": 196,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "Fenumal Plagued Arachnid",
-      "exalt": 0.41,
-      "chaos": 52,
+      "exalt": 0.4,
+      "chaos": 49,
       "lowConfidence": true
     }
   ]
