@@ -1,11 +1,11 @@
 {
-  "date": 1643382147607,
+  "date": 1643392951218,
   "data": [
     {
       "name": "5 Way Set",
-      "exalt": 2.75,
-      "chaos": 340,
-      "lowConfidence": false
+      "exalt": 2.1,
+      "chaos": 256,
+      "lowConfidence": true
     },
     {
       "name": "Elder Set",
