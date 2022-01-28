@@ -1,10 +1,10 @@
 {
-  "date": 1643360543928,
+  "date": 1643371339855,
   "data": [
     {
       "name": "5 Way Set",
-      "exalt": 2.88,
-      "chaos": 347,
+      "exalt": 2.75,
+      "chaos": 340,
       "lowConfidence": false
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "name": "Unrelenting 5 Way Set",
-      "exalt": 15,
-      "chaos": 1800,
+      "exalt": 2.75,
+      "chaos": 352,
       "lowConfidence": true
     }
   ]
