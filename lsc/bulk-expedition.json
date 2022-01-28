@@ -1,5 +1,5 @@
 {
-  "date": 1643328135596,
+  "date": 1643338940311,
   "data": [
     {
       "name": "Astragali",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Black Scythe Mercenaries",
-      "exalt": 0.26,
-      "chaos": 31,
+      "exalt": 0.46,
+      "chaos": 55,
       "lowConfidence": false
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Knights of the Sun",
-      "exalt": 1.05,
+      "exalt": 1.14,
       "chaos": 140,
       "lowConfidence": true
     },
