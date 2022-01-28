@@ -1,11 +1,11 @@
 {
-  "date": 1643360538692,
+  "date": 1643371334427,
   "data": [
     {
       "name": "Astragali",
       "exalt": 0.05,
       "chaos": 6,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Exotic Coinage",
@@ -21,13 +21,13 @@
     },
     {
       "name": "Druids of the Broken Circle",
-      "exalt": 0.49,
+      "exalt": 0.48,
       "chaos": 60,
       "lowConfidence": false
     },
     {
       "name": "Knights of the Sun",
-      "exalt": 1.14,
+      "exalt": 1.12,
       "chaos": 140,
       "lowConfidence": true
     },
