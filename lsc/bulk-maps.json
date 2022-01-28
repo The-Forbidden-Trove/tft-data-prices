@@ -1,5 +1,5 @@
 {
-  "date": 1643349727380,
+  "date": 1643360532010,
   "data": [
     {
       "name": "Acid Caverns",
@@ -22,7 +22,7 @@
     {
       "name": "Ashen Wood",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "Canyon",
       "exalt": 0.03,
-      "chaos": 5,
+      "chaos": 4,
       "lowConfidence": true
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "Elder Maps",
       "exalt": 0.09,
-      "chaos": 11,
+      "chaos": 12,
       "lowConfidence": true
     },
     {
