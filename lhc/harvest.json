@@ -1,5 +1,5 @@
 {
-  "date": 1643392974232,
+  "date": 1643403766433,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
@@ -41,12 +41,6 @@
       "name": "Awaken Level 20 Support Gem",
       "exalt": 1,
       "chaos": 71,
-      "lowConfidence": true
-    },
-    {
-      "name": "Sacrifice Divination Card 0-2x",
-      "exalt": 1,
-      "chaos": 69,
       "lowConfidence": true
     },
     {
