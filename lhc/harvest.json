@@ -1,5 +1,5 @@
 {
-  "date": 1643360566366,
+  "date": 1643371362412,
   "data": [
     {
       "name": "Enchant Body, Maximum Life",
@@ -33,12 +33,6 @@
     },
     {
       "name": "Enchant Weapon, Attack Speed",
-      "exalt": 0.71,
-      "chaos": 50,
-      "lowConfidence": true
-    },
-    {
-      "name": "Enchant Weapon, Elemental Damage",
       "exalt": 0.71,
       "chaos": 50,
       "lowConfidence": true
@@ -86,18 +80,6 @@
       "lowConfidence": true
     },
     {
-      "name": "Reroll All Lucky",
-      "exalt": 0.43,
-      "chaos": 30,
-      "lowConfidence": true
-    },
-    {
-      "name": "Reroll Suffix Lucky",
-      "exalt": 0.71,
-      "chaos": 50,
-      "lowConfidence": true
-    },
-    {
       "name": "Fire to Lightning Resist",
       "exalt": 0.57,
       "chaos": 40,
@@ -119,12 +101,6 @@
       "name": "Set Implicit, Abyss/Timeless Jewel",
       "exalt": 0.63,
       "chaos": 50,
-      "lowConfidence": true
-    },
-    {
-      "name": "Set Implicit, Cluster Jewel",
-      "exalt": 1,
-      "chaos": 70,
       "lowConfidence": true
     },
     {
