@@ -1,5 +1,5 @@
 {
-  "date": 1643371399035,
+  "date": 1643382208090,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -21,14 +21,14 @@
     },
     {
       "name": "T4 Aisling",
-      "exalt": 7.5,
-      "chaos": 738,
+      "exalt": 7,
+      "chaos": 691,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 6,
-      "chaos": 588,
+      "exalt": 8,
+      "chaos": 784,
       "lowConfidence": false
     },
     {
@@ -39,32 +39,32 @@
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 5,
-      "chaos": 495,
+      "exalt": 4,
+      "chaos": 396,
       "lowConfidence": true
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.51,
+      "exalt": 0.52,
       "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "T3/T2/T1 Vorici White",
       "exalt": 3,
-      "chaos": 295,
+      "chaos": 294,
       "lowConfidence": true
     },
     {
       "name": "T4/T3 It That Fled Pure Breachstone",
-      "exalt": 1,
-      "chaos": 98,
+      "exalt": 3,
+      "chaos": 297,
       "lowConfidence": true
     },
     {
       "name": "T4/T3 Tora 200m Gem XP",
-      "exalt": 2,
-      "chaos": 200,
+      "exalt": 1,
+      "chaos": 100,
       "lowConfidence": true
     },
     {
@@ -76,7 +76,7 @@
     {
       "name": "Doryani Institute (Gem)",
       "exalt": 1.5,
-      "chaos": 149,
+      "chaos": 150,
       "lowConfidence": true
     },
     {
