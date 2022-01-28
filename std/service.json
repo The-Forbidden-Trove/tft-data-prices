@@ -1,5 +1,5 @@
 {
-  "date": 1643349797559,
+  "date": 1643360602227,
   "data": [
     {
       "name": "Sirus Awaken 8",
@@ -39,8 +39,8 @@
     },
     {
       "name": "T4 Hillock Weapon 30%",
-      "exalt": 5,
-      "chaos": 493,
+      "exalt": 4,
+      "chaos": 396,
       "lowConfidence": true
     },
     {
@@ -52,7 +52,7 @@
     {
       "name": "T3/T2/T1 Vorici White",
       "exalt": 3,
-      "chaos": 294,
+      "chaos": 296,
       "lowConfidence": true
     },
     {
