@@ -1,5 +1,5 @@
 {
-  "date": 1643371304871,
+  "date": 1643382111857,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -10,13 +10,13 @@
     {
       "name": "Replicas or Experimented Items",
       "exalt": 0.11,
-      "chaos": 13,
+      "chaos": 14,
       "lowConfidence": false
     },
     {
       "name": "Trinkets or Currency",
       "exalt": 0.1,
-      "chaos": 12,
+      "chaos": 13,
       "lowConfidence": false
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "Deception",
-      "exalt": 0.09,
+      "exalt": 0.08,
       "chaos": 11,
       "lowConfidence": false
     },
@@ -70,8 +70,8 @@
     {
       "name": "Perception",
       "exalt": 0.03,
-      "chaos": 4,
-      "lowConfidence": true
+      "chaos": 3,
+      "lowConfidence": false
     },
     {
       "name": "Trap Disarmament",
