@@ -1,5 +1,5 @@
 {
-  "date": 1643403709058,
+  "date": 1643414507474,
   "data": [
     {
       "name": "Enchanted Armaments",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Trinkets or Currency",
-      "exalt": 0.11,
-      "chaos": 14,
+      "exalt": 0.1,
+      "chaos": 12,
       "lowConfidence": false
     },
     {
@@ -40,13 +40,13 @@
     {
       "name": "Counter-Thaumaturgy",
       "exalt": 0.02,
-      "chaos": 2,
+      "chaos": 3,
       "lowConfidence": true
     },
     {
       "name": "Deception",
       "exalt": 0.08,
-      "chaos": 11,
+      "chaos": 10,
       "lowConfidence": false
     },
     {
