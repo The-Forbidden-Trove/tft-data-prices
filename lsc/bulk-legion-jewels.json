@@ -1,5 +1,5 @@
 {
-  "date": 1643382144986,
+  "date": 1643392948667,
   "data": [
     {
       "name": "Brutal Restraint",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Lethal Pride",
-      "exalt": 0.09,
-      "chaos": 12,
+      "exalt": 0.07,
+      "chaos": 10,
       "lowConfidence": true
     }
   ]
