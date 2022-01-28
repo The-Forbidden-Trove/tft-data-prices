@@ -1,10 +1,10 @@
 {
-  "date": 1643328192213,
+  "date": 1643338996847,
   "data": [
     {
       "name": "Augment Attack",
-      "exalt": 13,
-      "chaos": 1274,
+      "exalt": 12.75,
+      "chaos": 1250,
       "lowConfidence": true
     },
     {
@@ -35,7 +35,7 @@
       "name": "Augment Fire",
       "exalt": 15,
       "chaos": 1470,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Augment Fire Lucky",
@@ -63,8 +63,8 @@
     },
     {
       "name": "Augment Defence",
-      "exalt": 10,
-      "chaos": 980,
+      "exalt": 15,
+      "chaos": 1485,
       "lowConfidence": true
     },
     {
@@ -111,8 +111,14 @@
     },
     {
       "name": "Augment Non-Influence Lucky",
-      "exalt": 0.66,
-      "chaos": 65,
+      "exalt": 0.59,
+      "chaos": 58,
+      "lowConfidence": true
+    },
+    {
+      "name": "Augment Speed",
+      "exalt": 30,
+      "chaos": 2940,
       "lowConfidence": true
     },
     {
@@ -141,8 +147,8 @@
     },
     {
       "name": "Enchant Body, Lightning Resist",
-      "exalt": 1.75,
-      "chaos": 172,
+      "exalt": 2,
+      "chaos": 196,
       "lowConfidence": true
     },
     {
@@ -209,7 +215,7 @@
       "name": "Fracture 1/3 Prefix",
       "exalt": 25,
       "chaos": 2450,
-      "lowConfidence": false
+      "lowConfidence": true
     },
     {
       "name": "Fracture 1/3 Suffix",
@@ -219,8 +225,8 @@
     },
     {
       "name": "Fracture 1/5",
-      "exalt": 15,
-      "chaos": 1470,
+      "exalt": 12.5,
+      "chaos": 1230,
       "lowConfidence": true
     },
     {
@@ -393,8 +399,8 @@
     },
     {
       "name": "Reforge Critical",
-      "exalt": 0.41,
-      "chaos": 40,
+      "exalt": 0.46,
+      "chaos": 45,
       "lowConfidence": true
     },
     {
@@ -423,8 +429,8 @@
     },
     {
       "name": "Reforge Speed",
-      "exalt": 0.31,
-      "chaos": 30,
+      "exalt": 0.41,
+      "chaos": 40,
       "lowConfidence": true
     },
     {
@@ -466,7 +472,7 @@
     {
       "name": "Remove Non-Physical Add Physical",
       "exalt": 5,
-      "chaos": 490,
+      "chaos": 492,
       "lowConfidence": true
     },
     {
@@ -507,7 +513,7 @@
     },
     {
       "name": "Reroll All Lucky",
-      "exalt": 0.3,
+      "exalt": 0.31,
       "chaos": 30,
       "lowConfidence": false
     },
@@ -567,8 +573,8 @@
     },
     {
       "name": "Sacrifice Gem, 50% XP As Facetor Lens",
-      "exalt": 0.51,
-      "chaos": 50,
+      "exalt": 1.01,
+      "chaos": 100,
       "lowConfidence": true
     },
     {
@@ -616,7 +622,7 @@
     {
       "name": "Six Links",
       "exalt": 6,
-      "chaos": 594,
+      "chaos": 591,
       "lowConfidence": true
     }
   ]
