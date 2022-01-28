@@ -1,10 +1,10 @@
 {
-  "date": 1643349701220,
+  "date": 1643360506313,
   "data": [
     {
       "name": "Sirus Awaken 8",
-      "exalt": 1,
-      "chaos": 120,
+      "exalt": 0.58,
+      "chaos": 70,
       "lowConfidence": true
     },
     {
@@ -22,13 +22,13 @@
     {
       "name": "T4 Aisling",
       "exalt": 3,
-      "chaos": 417,
+      "chaos": 381,
       "lowConfidence": false
     },
     {
       "name": "T4 Hillock Armour 30%",
-      "exalt": 1.63,
-      "chaos": 194,
+      "exalt": 1.75,
+      "chaos": 206,
       "lowConfidence": true
     },
     {
@@ -45,13 +45,13 @@
     },
     {
       "name": "Leo Exalt Slam",
-      "exalt": 0.41,
+      "exalt": 0.4,
       "chaos": 50,
       "lowConfidence": false
     },
     {
       "name": "T3/T2/T1 Vorici White",
-      "exalt": 0.23,
+      "exalt": 0.22,
       "chaos": 30,
       "lowConfidence": true
     },
@@ -69,8 +69,8 @@
     },
     {
       "name": "T4 Vorici 1-6 White",
-      "exalt": 0.41,
-      "chaos": 50,
+      "exalt": 0.34,
+      "chaos": 40,
       "lowConfidence": false
     },
     {
