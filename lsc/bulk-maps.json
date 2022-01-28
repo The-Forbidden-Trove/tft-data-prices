@@ -1,5 +1,5 @@
 {
-  "date": 1643371328177,
+  "date": 1643382134808,
   "data": [
     {
       "name": "Acid Caverns",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Tower",
-      "exalt": 0.07,
+      "exalt": 0.08,
       "chaos": 9,
       "lowConfidence": true
     },
@@ -209,12 +209,12 @@
       "name": "Blighted Maps",
       "exalt": 0.16,
       "chaos": 20,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Elder Maps",
       "exalt": 0.08,
-      "chaos": 11,
+      "chaos": 10,
       "lowConfidence": true
     },
     {
