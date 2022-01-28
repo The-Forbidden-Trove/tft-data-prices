@@ -1,5 +1,5 @@
 {
-  "date": 1643371339855,
+  "date": 1643382147607,
   "data": [
     {
       "name": "5 Way Set",
@@ -9,8 +9,8 @@
     },
     {
       "name": "Elder Set",
-      "exalt": 0.13,
-      "chaos": 16,
+      "exalt": 0.17,
+      "chaos": 20,
       "lowConfidence": true
     },
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "Shaper Set",
-      "exalt": 0.02,
-      "chaos": 3,
+      "exalt": 0.2,
+      "chaos": 24,
       "lowConfidence": true
     },
     {
