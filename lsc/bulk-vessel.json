@@ -1,11 +1,1 @@
-{
-  "date": 1643468515636,
-  "data": [
-    {
-      "name": "Blood Filled Vessel",
-      "exalt": 0.31,
-      "chaos": 36,
-      "lowConfidence": true
-    }
-  ]
-}
+{"timestamp":1643468986496,"data":[{"name":"Blood Filled Vessel","exalt":0.31,"chaos":36,"lowConfidence":true}]}

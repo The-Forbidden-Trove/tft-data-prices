@@ -1,11 +1,1 @@
-{
-  "date": 1643468538332,
-  "data": [
-    {
-      "name": "Delirium Orb",
-      "exalt": 0.26,
-      "chaos": 35,
-      "lowConfidence": true
-    }
-  ]
-}
+{"timestamp":1643469006721,"data":[{"name":"Delirium Orb","exalt":0.26,"chaos":35,"lowConfidence":true}]}
