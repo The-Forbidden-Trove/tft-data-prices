@@ -1,5 +1,5 @@
 {
-  "date": 1643446932961,
+  "date": 1643457729523,
   "data": [
     {
       "name": "Acid Caverns",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Tower",
-      "exalt": 0.08,
+      "exalt": 0.07,
       "chaos": 9,
       "lowConfidence": true
     },
@@ -219,8 +219,8 @@
     },
     {
       "name": "Shaper Maps",
-      "exalt": 0.04,
-      "chaos": 5,
+      "exalt": 0.05,
+      "chaos": 7,
       "lowConfidence": true
     }
   ]
