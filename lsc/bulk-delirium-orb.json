@@ -1,10 +1,10 @@
 {
-  "date": 1643457731892,
+  "date": 1643468538332,
   "data": [
     {
       "name": "Delirium Orb",
-      "exalt": 0.24,
-      "chaos": 30,
+      "exalt": 0.26,
+      "chaos": 35,
       "lowConfidence": true
     }
   ]
