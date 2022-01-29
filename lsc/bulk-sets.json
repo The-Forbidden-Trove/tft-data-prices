@@ -1,16 +1,16 @@
 {
-  "date": 1643436140608,
+  "date": 1643446944158,
   "data": [
     {
       "name": "5 Way Set",
-      "exalt": 1.45,
-      "chaos": 186,
+      "exalt": 2.13,
+      "chaos": 276,
       "lowConfidence": false
     },
     {
       "name": "Elder Set",
-      "exalt": 0.7,
-      "chaos": 84,
+      "exalt": 0.5,
+      "chaos": 66,
       "lowConfidence": true
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "Unrelenting 5 Way Set",
       "exalt": 8.88,
-      "chaos": 1087,
+      "chaos": 1091,
       "lowConfidence": true
     }
   ]
