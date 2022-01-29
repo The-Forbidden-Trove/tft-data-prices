@@ -1,11 +1,17 @@
 {
-  "date": 1643436135623,
+  "date": 1643446939126,
   "data": [
     {
       "name": "Astragali",
       "exalt": 0.05,
       "chaos": 6,
-      "lowConfidence": false
+      "lowConfidence": true
+    },
+    {
+      "name": "Burial Medallion",
+      "exalt": 0.14,
+      "chaos": 19,
+      "lowConfidence": true
     },
     {
       "name": "Exotic Coinage",
@@ -16,13 +22,13 @@
     {
       "name": "Black Scythe Mercenaries",
       "exalt": 0.42,
-      "chaos": 54,
+      "chaos": 55,
       "lowConfidence": false
     },
     {
       "name": "Druids of the Broken Circle",
       "exalt": 0.46,
-      "chaos": 60,
+      "chaos": 56,
       "lowConfidence": false
     },
     {
