@@ -1,5 +1,5 @@
 {
-  "date": 1643457735680,
+  "date": 1643468542160,
   "data": [
     {
       "name": "Astragali",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Knights of the Sun",
-      "exalt": 0.54,
-      "chaos": 73,
-      "lowConfidence": true
+      "exalt": 0.66,
+      "chaos": 90,
+      "lowConfidence": false
     },
     {
       "name": "Order of the Chalice",
