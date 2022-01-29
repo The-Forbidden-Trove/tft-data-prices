@@ -1,16 +1,16 @@
 {
-  "date": 1643436144354,
+  "date": 1643446947922,
   "data": [
     {
       "name": "Craicic Chimeral",
-      "exalt": 1.65,
-      "chaos": 210,
+      "exalt": 1.5,
+      "chaos": 200,
       "lowConfidence": true
     },
     {
       "name": "Craicic Maw",
-      "exalt": 0.41,
-      "chaos": 52,
+      "exalt": 0.34,
+      "chaos": 45,
       "lowConfidence": true
     },
     {
@@ -39,14 +39,14 @@
     },
     {
       "name": "Farric Wolf Alpha",
-      "exalt": 0.22,
-      "chaos": 28,
+      "exalt": 0.19,
+      "chaos": 25,
       "lowConfidence": true
     },
     {
       "name": "Fenumal Plagued Arachnid",
-      "exalt": 0.46,
-      "chaos": 60,
+      "exalt": 0.53,
+      "chaos": 70,
       "lowConfidence": true
     }
   ]
