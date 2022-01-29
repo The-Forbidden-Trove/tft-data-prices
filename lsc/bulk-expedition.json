@@ -1,11 +1,11 @@
 {
-  "date": 1643446939126,
+  "date": 1643457735680,
   "data": [
     {
       "name": "Astragali",
       "exalt": 0.05,
       "chaos": 6,
-      "lowConfidence": true
+      "lowConfidence": false
     },
     {
       "name": "Burial Medallion",
@@ -27,14 +27,14 @@
     },
     {
       "name": "Druids of the Broken Circle",
-      "exalt": 0.46,
-      "chaos": 56,
+      "exalt": 0.45,
+      "chaos": 55,
       "lowConfidence": false
     },
     {
       "name": "Knights of the Sun",
-      "exalt": 0.19,
-      "chaos": 25,
+      "exalt": 0.54,
+      "chaos": 73,
       "lowConfidence": true
     },
     {
