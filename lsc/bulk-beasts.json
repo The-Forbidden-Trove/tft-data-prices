@@ -1,28 +1,52 @@
 {
-  "date": 1643414548134,
+  "date": 1643425349588,
   "data": [
     {
       "name": "Craicic Chimeral",
-      "exalt": 1.6,
-      "chaos": 196,
+      "exalt": 1.5,
+      "chaos": 200,
       "lowConfidence": true
     },
     {
       "name": "Craicic Maw",
-      "exalt": 0.49,
-      "chaos": 60,
+      "exalt": 0.41,
+      "chaos": 52,
+      "lowConfidence": true
+    },
+    {
+      "name": "Craicic Savage Crab",
+      "exalt": 0.08,
+      "chaos": 10,
+      "lowConfidence": true
+    },
+    {
+      "name": "Saqawine Cobra",
+      "exalt": 0.19,
+      "chaos": 25,
+      "lowConfidence": true
+    },
+    {
+      "name": "Farric Lynx Alpha",
+      "exalt": 0.15,
+      "chaos": 20,
+      "lowConfidence": true
+    },
+    {
+      "name": "Farric Tiger Alpha",
+      "exalt": 0.38,
+      "chaos": 50,
       "lowConfidence": true
     },
     {
       "name": "Farric Wolf Alpha",
-      "exalt": 0.24,
-      "chaos": 30,
+      "exalt": 0.22,
+      "chaos": 28,
       "lowConfidence": true
     },
     {
       "name": "Fenumal Plagued Arachnid",
-      "exalt": 0.4,
-      "chaos": 49,
+      "exalt": 0.46,
+      "chaos": 60,
       "lowConfidence": true
     }
   ]
