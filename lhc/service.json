@@ -1,11 +1,1 @@
-{
-  "date": 1642474960410,
-  "data": [
-    {
-      "name": "T4 Aisling",
-      "exalt": 3,
-      "chaos": 243,
-      "lowConfidence": true
-    }
-  ]
-}
+{"timestamp":1644148967391,"data":[{"name":"T4 Aisling","exalt":0.68,"chaos":40,"lowConfidence":true}]}
