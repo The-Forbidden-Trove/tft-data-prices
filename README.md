@@ -9,22 +9,28 @@ These are Path of Exile pricing data crunched from our Discord Server and genera
 - etc
 
 
-### Folder Explanation
+## Folder Explanation
 
 - `lsc` - League Softcore
 - `lhc` - League Hardcore
 - `std` - Standard Softcore
 
 
-### Changes
+## Changes to names of prices
 
-The name of the prices are subject to change, for example if there's any new mods or services made by GGG that conflicts with existing name, we will have to change as well.
+The display name used to present the prices are subject to change. For example - if there are any new Harvest Crafts or item name changes made by GGG that conflict with an existing name, the display name will also be changed on our Discord.
 
-The file path are subject to change if there are any channel changes made by TFT. The recent changes being bulk Simulacrum prices changed from `bulk-others.json` to `bulk-simulacrum.json` because new Simulacrum channel has been added due to the changes made this (3.17) league.
+The file paths are subject to change if and when there are any channel changes made in the TFT Discord. 
+Recent changes for example being that bulk Simulacrum prices file path changed from `bulk-others.json` to `bulk-simulacrum.json`. This was because a new Simulacrum channel was added due to the changes made by GGG for the 3.17 league.
 
-We recommend you to follow our [#tool-dev-updates](https://discord.com/channels/645607528297922560/680321716412481564) channel for future updates.
+We do recommend you to follow our [#tool-dev-updates](https://discord.com/channels/645607528297922560/680321716412481564) channel for future updates, this channel is available as a "news" channel on Discord so that you can pull the update feed into a Discord of your own choosing also.
 
 
-### Join Our Discord
+## Suggestions / Feedback
+
+We welcome any feedback, please post your feedback in the [#tool-dev-chat](https://discord.com/channels/645607528297922560/680796887259021342) on the TFT Discord.
+
+
+## Join Our Discord
 
 [https://discord.gg/tftrove](https://discord.gg/tftrove)
