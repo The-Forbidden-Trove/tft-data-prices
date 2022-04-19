@@ -1,11 +1,11 @@
 # TFT Data Prices
 
 These are Path of Exile pricing data crunched from our Discord Server and generate outputs to TFT pricing channels. Most of the data are only available exclusively from TFT such as
-- harvest crafts
-- services (betrayal benchcrafts, temple benchcrafts)
-- compasses (sextant mod)
-- heist contracts
-- other prices in **BULK**
+- Harvest Crafts
+- Services (betrayal benchcrafts, temple benchcrafts)
+- Compasses (Sextant mod)
+- Heist Contracts
+- Other prices in **BULK**
 - etc
 
 
