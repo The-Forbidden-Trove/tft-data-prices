@@ -35,4 +35,4 @@ We welcome any feedback, please post your feedback in the [#tool-dev-chat](https
 
 ## Join Our Discord
 
-[https://discord.gg/tftrove](https://discord.gg/tftrove)
+http://discord.tftrove.com
