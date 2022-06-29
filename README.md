@@ -1,5 +1,7 @@
 # TFT Data Prices
 
+http://data.tftrove.com
+
 These are Path of Exile pricing data crunched from our Discord Server and generate outputs to TFT pricing channels. Most of the data are only available exclusively from TFT such as
 - Harvest Crafts
 - Services (betrayal benchcrafts, temple benchcrafts)
