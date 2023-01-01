@@ -16,6 +16,10 @@ These are Path of Exile pricing data crunched from our Discord Server and genera
 - `lhc` - League Hardcore
 - `std` - Standard Softcore
 
+## Timestamp Format
+
+- they are in epoch time
+- equivalent to JavaScript's `Date.now()`
 
 ## Changes to names of prices
 
