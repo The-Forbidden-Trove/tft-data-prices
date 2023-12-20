@@ -13,7 +13,6 @@ These are Path of Exile pricing data crunched from our Discord Server and genera
 ## Folder Explanation
 
 - `lsc` - League Softcore
-- `lhc` - League Hardcore
 - `std` - Standard Softcore
 
 ## Timestamp Format
